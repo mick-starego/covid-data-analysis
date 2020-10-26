@@ -9,7 +9,7 @@ import pandas as pd
 def niche_party_schools(driver):
     data = {}
 
-    for i in range(1, 30):
+    for i in range(13, 17):
         driver.get("https://www.niche.com/colleges/search/top-party-schools/?page=" + str(i))
         content = driver.page_source
         soup = BeautifulSoup(content)
@@ -27,7 +27,7 @@ def niche_party_schools(driver):
             data[name] = (rank, grade)
 
     CSV ="\n".join([k+','+','.join(v) for k,v in data.items()])
-    with open("../data/party-schools-niche.csv", "a") as file:
+    with open("./data/party-schools-niche.csv", "a") as file:
         file.write(CSV)
 
 def stacker_party_schools(driver):
@@ -46,7 +46,7 @@ def stacker_party_schools(driver):
                 data[name] = (rank)
 
     CSV ="\n".join([k+','+ v for k,v in data.items()])
-    with open("../data/party-schools-stacker.csv", "a") as file:
+    with open("./data/party-schools-stacker.csv", "a") as file:
         file.write(CSV)
 
 def bestcolleges_party_schools(driver):
@@ -61,13 +61,14 @@ def bestcolleges_party_schools(driver):
         name = tr.find('td', attrs={'class', 'school'}).find('h3').text
         data += name + "," + rank.strip() + "\n"
 
-    with open("../data/party-schools-bestcolleges.csv", "a") as file:
+    with open("./data/party-schools-bestcolleges.csv", "a") as file:
         file.write(data)
 
 
 def main():
     opts = Options()
-    opts.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36")
+    opts.add_argument("user-agent=AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36")
+    # opts.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36")
     opts.add_argument("--incognito")
     capabilities = webdriver.DesiredCapabilities.CHROME
 
@@ -81,7 +82,7 @@ def main():
 
     driver = webdriver.Chrome("./chromedriver", chrome_options=opts, desired_capabilities=capabilities)
 
-    bestcolleges_party_schools(driver)
+    niche_party_schools(driver)
 
     driver.quit()
 
