@@ -1,576 +1,576 @@
 key,niche_name,percent_female,percent_male,self_republican,self_democratic,self_indep,self_other,self_dont_care,school_very_liberal,school_liberal,school_moderate,school_conservative,school_very_conservative,school_libertarian,school_not_sure,niche_party_school_rank,niche_party_school_grade,bestcolleges_party_school_rank,stacker_party_school_rank,state,covid_cases,undergrad_pop,reopening_plan,is_complete,
-54b02902147a41d613ba299712d27b49d8c62119,University of Wisconsin,52%,48%,16%,48%,22%,nan,13%,22%,52%,13%,3%,nan,2%,8%,1,A+,n/a,4,n/a,n/a,n/a,n/a,False
-d0d9be7207df7eddb0aabc88aaf34abcd5f2dc8c,Tulane University,59%,41%,16%,43%,27%,6%,8%,11%,46%,25%,nan,nan,1%,16%,2,A+,1,1,n/a,n/a,n/a,Primarily in person,False
-144d941e3d68effccc71509edbc2a2783a5e2e84,Florida State University,58%,42%,27%,31%,24%,4%,15%,5%,23%,34%,4%,1%,1%,32%,3,A+,9,9,Florida,1656.0,32072,Primarily online,True
-564d8da9022e216289fd495535e459e704cac8dc,Howard University,70%,30%,3%,64%,17%,2%,15%,21%,39%,17%,2%,nan,1%,21%,4,A+,n/a,5,Washington D.C.,15.0,6166,Fully online,True
-18ffdf57076ad58ffdfde4196b5a8e69655a78b1,University of Illinois at Urbana-Champaign,46%,54%,13%,51%,13%,2%,22%,7%,30%,23%,5%,0%,1%,33%,5,A+,n/a,6,n/a,n/a,32974,Hybrid,False
-2aa6e56112e1ea1066c9e531ab7436360af4e1c4,University of Georgia,57%,43%,26%,34%,21%,4%,15%,2%,18%,32%,25%,2%,1%,21%,6,A+,3,2,Georgia,3888.0,29474,Primarily in person,True
-79bab14c37fb7753a11b08e156cf45a3eb59f2a4,Syracuse University,54%,46%,7%,53%,23%,1%,15%,10%,29%,25%,3%,1%,2%,30%,7,A+,17,19,New York,124.0,14759,Hybrid,True
-f8925888c1916151efec4790be2466e76f206f1b,The University of Alabama,55%,45%,38%,25%,17%,3%,18%,1%,3%,22%,31%,12%,1%,29%,8,A+,n/a,n/a,n/a,n/a,32177,n/a,False
-07d9b4e08564d89d45bb065e498bd65c882c0507,West Virginia University,48%,52%,24%,29%,25%,6%,15%,2%,18%,30%,7%,1%,1%,40%,9,A+,4,3,West Virginia,638.0,20499,Primarily online,True
-c1b025abae2f458b0537ec43f4eeaab34e619620,Penn State,47%,53%,24%,36%,19%,1%,19%,6%,20%,29%,5%,1%,1%,38%,10,A+,n/a,15,n/a,n/a,n/a,n/a,False
-3590a9ffac5c758f57b1e13f3501d6b71da6f8c4,University of Southern California,52%,48%,12%,45%,15%,7%,21%,5%,31%,32%,6%,1%,1%,23%,11,A+,n/a,18,California,459.0,19548,Primarily online,True
-496db1ba2a1c86f151149193c4af8074804c525d,University of Iowa,54%,46%,21%,48%,12%,3%,17%,18%,42%,19%,2%,nan,nan,19%,12,A+,11,11,Iowa,2109.0,23410,Primarily in person,True
-eccbd1576fe98527df709e164e6a1af9ffc12631,Ohio University,54%,46%,19%,34%,27%,1%,19%,8%,36%,16%,4%,0%,1%,34%,13,A+,n/a,16,Ohio,173.0,n/a,Primarily online,False
-642c232800d994f17f3122af3d7fb9244ba34c0a,Indiana University - Bloomington,50%,50%,12%,42%,21%,2%,23%,11%,40%,20%,4%,nan,1%,23%,14,A+,n/a,7,n/a,n/a,32991,n/a,False
-f2cc36663483964d7f7a6dc2a9e50cb9acfa3cf4,University of California - Santa Barbara,55%,45%,6%,51%,17%,6%,20%,19%,49%,14%,1%,0%,1%,16%,15,A+,n/a,13,n/a,n/a,23063,n/a,False
-490301fa077db99ddbd327f6eb079f82598ea3e3,Miami University,50%,50%,35%,24%,23%,1%,17%,1%,9%,25%,38%,13%,nan,15%,16,A+,n/a,14,n/a,n/a,n/a,n/a,False
-1d2b9ce80cddd82dd2b04f18470183c79b804e56,University of Texas - Austin,54%,46%,17%,35%,26%,2%,21%,13%,48%,18%,3%,1%,1%,15%,17,A+,n/a,10,n/a,n/a,n/a,n/a,False
-a108fb6614336480a70f1f1b935638c7aaa30e60,University of Mississippi,57%,43%,46%,17%,16%,6%,16%,2%,5%,28%,28%,16%,2%,20%,18,A+,18,17,Mississippi,701.0,17784,Hybrid,True
-7caa7815b02b76b0aa66bc69905c8d5652daeaf9,San Diego State University,55%,45%,17%,37%,22%,4%,20%,11%,33%,25%,2%,nan,0%,28%,19,A+,n/a,25,n/a,n/a,30018,Primarily online,False
-75575c076e3aff9ad50fcc0b0b42ede2346eb591,Michigan State University,51%,49%,16%,35%,19%,5%,25%,4%,26%,36%,4%,nan,0%,29%,20,A+,24,26,Michigan,1420.0,39208,Fully online,True
-adf3e0a5b98179aca397e3b704760f5bd47dc24d,Southern Methodist University,49%,51%,51%,18%,5%,3%,23%,1%,7%,12%,39%,32%,3%,7%,21,A+,21,12,Texas,665.0,6448,Hybrid,True
-89e41a54e6689149a2bf647d21e37c87af22f3fa,University of Delaware,58%,42%,15%,48%,17%,1%,18%,6%,22%,32%,6%,nan,1%,33%,22,A+,2,35,Delaware,388.0,19060,Primarily online,True
-19179a9827841888d537a705ac7c6854d39fd304,Vanderbilt University,51%,49%,22%,40%,16%,9%,13%,5%,15%,45%,26%,2%,1%,6%,23,A+,n/a,43,Tennessee,252.0,6840,Other,True
-f821238d7909276dec8e20a30c4d2293843bab8b,Clark Atlanta University,76%,24%,nan,69%,7%,4%,20%,18%,15%,20%,11%,2%,1%,33%,24,A+,n/a,21,Georgia,0.0,3320,Fully online,True
-9d360e2fe4c313b152784d71db4652296de27a73,University of Miami,52%,48%,23%,31%,19%,1%,27%,6%,34%,31%,4%,1%,1%,23%,25,A+,n/a,30,Florida,479.0,10873,Primarily in person,True
-56cd4df88264712c395971e34a834be900fee555,The Ohio State University,49%,51%,20%,35%,21%,3%,21%,4%,32%,33%,6%,nan,1%,24%,26,A+,n/a,31,n/a,n/a,n/a,n/a,False
-985ceb51bc7d694a41d80d7fb6e5b02a769ba730,University of Colorado - Boulder,45%,55%,18%,37%,29%,4%,12%,26%,49%,11%,4%,nan,1%,10%,27,A+,n/a,28,n/a,n/a,n/a,n/a,False
-111f918a99073211a455ddb38c935faa87faed7e,Rutgers University - New Brunswick,50%,50%,9%,44%,13%,3%,30%,13%,36%,18%,1%,nan,nan,33%,28,A+,n/a,29,n/a,n/a,35656,n/a,False
-8d2bac5baa5cd7e695edd86301f2210d4f506b5e,University of Pennsylvania,53%,47%,8%,58%,17%,4%,13%,8%,48%,22%,6%,nan,1%,15%,29,A+,n/a,24,Pennsylvania,376.0,10764,Fully online,True
-73f4fa2c044975dc7d0952c0ac7c958d5a123970,University of South Carolina,53%,47%,42%,22%,19%,2%,14%,2%,8%,36%,24%,4%,nan,24%,30,A+,n/a,32,South Carolina,2494.0,n/a,n/a,False
-2ed1430f34e706eed19ea7f72a6a33035081ae92,Florida A&M University,65%,35%,3%,71%,12%,nan,14%,13%,20%,28%,3%,1%,1%,33%,31,A+,n/a,36,Florida,91.0,n/a,Hybrid,False
-ea8c39db23c63cd83af6087f403a2ae832abb62d,University of Florida,57%,43%,26%,31%,26%,nan,17%,7%,30%,30%,7%,nan,0%,26%,32,A+,25,33,Florida,2908.0,34564,Primarily online,True
-547843beb959bbb25cc8ac447edc1773955cbd2d,James Madison University,59%,41%,24%,30%,29%,5%,12%,4%,28%,37%,7%,nan,nan,23%,33,A+,n/a,n/a,Virginia,1527.0,19679,Fully online,True
-d346c18ad2eecb6f3be01d0e5b9fd906a36f6236,University of Michigan - Ann Arbor,50%,50%,13%,42%,25%,3%,17%,26%,47%,13%,1%,nan,0%,12%,34,A+,n/a,27,n/a,n/a,30079,n/a,False
-15e075a94f7526734500ca44aeddfbb96c968c9a,University of Virginia,54%,46%,29%,40%,19%,2%,11%,2%,29%,44%,9%,1%,2%,13%,35,A+,n/a,47,Virginia,844.0,n/a,Primarily online,False
-cee07b09648ff8d68e91a0ca815623770d0bcf06,University of Kansas,52%,48%,24%,27%,19%,6%,24%,10%,50%,18%,6%,2%,1%,13%,36,A+,n/a,20,Kansas,1009.0,19135,Primarily in person,True
-4eba52779e4f83b8af7cabbc5e0e8fa4cd727422,University of Dayton,48%,52%,29%,20%,16%,2%,33%,nan,7%,27%,36%,3%,1%,27%,37,A+,n/a,45,Ohio,1299.0,8508,Primarily online,True
-8e831c0949d2d579595ee34e5e89e6b71825042a,College of Charleston,65%,35%,25%,24%,29%,3%,19%,8%,33%,24%,13%,nan,1%,22%,38,A+,n/a,37,South Carolina,414.0,9622,Primarily online,True
-83902e476cea44b3e0743853dccc1a883cb3ecdd,Washington State University,53%,47%,20%,38%,19%,2%,22%,7%,25%,27%,9%,1%,nan,31%,39,A+,n/a,n/a,Washington,263.0,25675,Primarily online,True
-98108705d8a015a05ca6a4927fffffb41bd45731,University of Massachusetts - Amherst,49%,51%,4%,32%,37%,2%,24%,16%,51%,12%,1%,nan,nan,21%,40,A+,n/a,40,n/a,n/a,23202,n/a,False
-838f9781b22fd0041408f196a81d0405805675ea,University of Cincinnati,47%,53%,24%,32%,17%,11%,16%,6%,19%,29%,12%,1%,2%,31%,41,A+,n/a,n/a,Ohio,585.0,n/a,Hybrid,False
-033a2ceedf7e0a499ccb0fc50059971eb376f732,University of Missouri,53%,47%,19%,41%,15%,5%,20%,5%,26%,29%,11%,3%,1%,25%,42,A+,n/a,22,Missouri,1773.0,n/a,n/a,False
-c620e24ea08e9ded9d1d5b7f80ddc65391ce6445,University of Oklahoma,51%,49%,25%,32%,30%,4%,9%,4%,18%,35%,19%,3%,1%,20%,43,A+,n/a,n/a,Oklahoma,515.0,n/a,n/a,False
-d019ecb347f3fa08eb986a941f75c5dd2e4ea853,Lehigh University,46%,54%,18%,32%,18%,nan,32%,nan,15%,23%,29%,2%,4%,27%,44,A+,7,n/a,Pennsylvania,102.0,5030,Primarily online,True
-ed6f3737e388eb869a611507406f11815fc93dec,University of Arkansas,54%,46%,31%,17%,26%,1%,25%,2%,12%,29%,15%,4%,nan,37%,45,A+,n/a,38,Arkansas,2034.0,23121,n/a,False
-2bb7c105533ac248f1cf68be48b751a2f518097f,University at Albany SUNY,51%,49%,8%,45%,15%,1%,30%,9%,31%,17%,2%,nan,nan,40%,46,A+,n/a,44,n/a,n/a,n/a,n/a,False
-993c68ae6e1b4af6d8c58cdcb9883c2b93ee0c23,Western Michigan University,48%,52%,17%,32%,15%,4%,32%,8%,23%,26%,2%,1%,1%,39%,47,A+,n/a,n/a,Michigan,588.0,17519,Primarily in person,True
-e21ac4d0a06f3f8295f528f822bc6ad0b486cfb2,Morehouse College,0%,100%,nan,48%,30%,4%,17%,19%,21%,26%,5%,2%,nan,28%,48,A+,n/a,48,Georgia,nan,2205,Fully online,True
-3a9e72183af3b605810a3c96e60d744e6e0ed443,University of Arizona,53%,47%,17%,31%,23%,2%,27%,6%,26%,34%,6%,1%,nan,28%,49,A+,n/a,n/a,Arizona,2381.0,33509,Primarily online,True
-f2810a06ccd55269f6fd7799a01e373287f88b32,Temple University,54%,46%,8%,53%,20%,2%,17%,15%,38%,18%,1%,0%,0%,28%,50,A+,n/a,46,Pennsylvania,528.0,28965,Primarily online,True
-fd83976f05eb090cf23e7a190f28c62be85d8817,Louisiana State University,53%,47%,30%,30%,22%,2%,16%,3%,11%,29%,23%,3%,nan,30%,51,A+,n/a,23,Louisiana,1082.0,n/a,n/a,False
-f16467df173259d88784506c0dc33c4085c78b37,East Carolina University,57%,43%,31%,33%,15%,3%,18%,1%,10%,37%,16%,1%,1%,35%,52,A+,n/a,n/a,North Carolina,1297.0,22330,Fully online,True
-61d9426e5fdbf056e6cd8a01c440d82654c735d0,Arizona State University,45%,55%,19%,34%,21%,3%,23%,8%,21%,28%,6%,1%,1%,36%,53,A+,n/a,n/a,Arizona,1821.0,n/a,Hybrid,False
-1a7b2d0a09a6cae1f5471796eb0b7fae4d4b5468,Texas Tech University,47%,53%,29%,36%,17%,2%,16%,0%,7%,25%,33%,8%,1%,25%,54,A+,n/a,n/a,Texas,1768.0,30795,Primarily in person,True
-cb9e83afc0158792c464fcd3c6540406b71cd7ca,University of Maryland - College Park,47%,53%,15%,44%,20%,2%,19%,11%,38%,22%,3%,nan,0%,27%,55,A+,n/a,n/a,n/a,n/a,30184,n/a,False
-023b2b3d572ea618ed7fb7c40d10421e7669251b,Loyola University New Orleans,63%,37%,6%,41%,31%,3%,19%,18%,50%,23%,nan,nan,nan,9%,56,A+,n/a,34,Louisiana,71.0,2868,Primarily online,True
-80e7ebbeb971eec1dcc80759fe25437ab30b93c9,North Carolina A&T State University,57%,43%,2%,58%,21%,2%,16%,11%,19%,21%,7%,nan,nan,42%,57,A+,n/a,49,North Carolina,123.0,10299,Primarily in person,True
-11037c193bb06a75007a634eec599a7326602bd4,Bowling Green State University,56%,44%,18%,28%,25%,2%,26%,4%,18%,36%,9%,1%,nan,33%,58,A+,n/a,42,Ohio,443.0,n/a,n/a,False
-62ec6516a2286cfa56aa4945e0aa3e939214700c,University of Wisconsin - La Crosse,57%,43%,13%,35%,5%,3%,45%,6%,21%,30%,6%,nan,1%,37%,59,A+,n/a,n/a,Wisconsin,350.0,9517,n/a,False
-fc4a61bc1d14884249db25c4a5bc5d3c3c3546ef,University of Minnesota Twin Cities,54%,46%,17%,36%,22%,5%,19%,15%,50%,20%,2%,nan,0%,13%,60,A+,n/a,n/a,Minnesota,298.0,n/a,n/a,False
-e0af680deb79696177f3a4301ec6a19264a7733c,Texas Southern University,57%,43%,5%,56%,9%,nan,30%,14%,14%,33%,5%,nan,1%,32%,61,A+,n/a,n/a,Texas,1.0,7604,Hybrid,True
-b74cf62b3773c9c77ee6ddc986300dc10696c8b1,Texas State University,59%,41%,25%,34%,13%,3%,26%,7%,24%,31%,7%,0%,nan,31%,62,A+,n/a,41,Texas,674.0,34187,Primarily in person,True
-dbf7b8e241866737fa075dd472ac1b690a2d6971,University of California - Los Angeles,58%,42%,10%,47%,14%,5%,24%,12%,48%,22%,1%,nan,1%,17%,63,A+,n/a,50,n/a,n/a,31568,n/a,False
-41743168e8648c311adcc49ad7c5484556bdfa02,California State University - Chico,53%,47%,10%,44%,16%,2%,27%,10%,33%,26%,3%,1%,nan,28%,64,A+,n/a,n/a,n/a,n/a,16317,n/a,False
-0429701f990d46728212b2b4bbe6bbc29cd727c1,Savannah State University,60%,40%,5%,54%,18%,nan,23%,15%,16%,15%,9%,1%,2%,40%,65,A+,n/a,n/a,Georgia,35.0,3742,Undetermined,True
-79a4df14a75fb233d8db22f3ce191aeaabf4d400,University of Tennessee,51%,49%,30%,24%,24%,2%,19%,4%,10%,35%,19%,4%,1%,27%,66,A+,n/a,n/a,n/a,n/a,n/a,n/a,False
-5d3466db84678c5c3805fc9fc6615b423196d5b1,Morgan State University,55%,45%,1%,65%,8%,4%,22%,12%,23%,23%,9%,1%,1%,32%,67,A+,n/a,n/a,Maryland,15.0,6404,Fully online,True
-cc9eee655c971f447a26779f5879fb4dc094bf8d,Kansas State University,47%,53%,35%,27%,21%,2%,15%,2%,2%,32%,26%,7%,1%,30%,68,A+,n/a,n/a,Kansas,811.0,17611,Primarily in person,True
-0fa80734ba009206eff43ca31063c7369f1308e1,University of Oregon,54%,46%,9%,52%,20%,3%,16%,29%,48%,11%,2%,nan,2%,9%,69,A+,n/a,n/a,Oregon,208.0,18923,Primarily online,True
-f84b70906aaac695f9a8fe4e3065d935f07f80af,University of Kentucky,56%,44%,31%,35%,19%,1%,15%,3%,14%,31%,18%,2%,nan,31%,70,A+,n/a,n/a,Kentucky,2070.0,21746,Primarily online,True
-92309ed6052eabf70a0763af1299767c607a1e88,Yale University,50%,50%,7%,64%,11%,4%,14%,31%,50%,7%,2%,2%,nan,9%,71,A+,n/a,n/a,Connecticut,175.0,5963,Primarily online,True
-dd7382371ffe97f412c86285ba61a34e2527d288,Auburn University,50%,50%,39%,30%,19%,1%,11%,2%,1%,24%,32%,16%,1%,23%,72,A+,n/a,n/a,Alabama,1982.0,24147,Hybrid,True
-0f95012f00711c414767a03e29a4165ec666c481,SUNY Oswego,50%,50%,13%,32%,26%,2%,28%,9%,33%,17%,4%,nan,nan,37%,73,A+,n/a,n/a,New York,271.0,n/a,n/a,False
-47f7ac8c1f8ea7d6b472307605558cdd33bd64fc,SUNY Oneonta,62%,38%,7%,50%,18%,nan,25%,8%,28%,20%,nan,2%,nan,42%,74,A+,n/a,n/a,New York,707.0,6021,n/a,False
-67cee744c01888c62c5dccdfe909d86e750c410a,University of North Carolina at Chapel Hill,60%,40%,26%,40%,19%,2%,13%,14%,59%,16%,1%,1%,nan,9%,75,A+,n/a,n/a,North Carolina,1229.0,18946,Fully online,True
-4131aeb79b59c752a3086c97b4262feb555264d4,SUNY Cortland,57%,43%,13%,33%,17%,nan,38%,4%,8%,31%,6%,2%,nan,50%,76,A+,n/a,n/a,New York,225.0,6325,n/a,False
-fcb2744402fa1b1e3587d205c1c21240cbd261f7,Alabama State University,63%,37%,3%,64%,11%,nan,22%,16%,19%,13%,6%,5%,nan,40%,77,A+,n/a,n/a,Alabama,nan,3903,Hybrid,True
-2f557d90b7ea46d2fc529124ee6aae1723de8e36,University of Wisconsin - Oshkosh,59%,41%,30%,23%,20%,3%,23%,4%,23%,24%,5%,1%,1%,41%,78,A+,n/a,n/a,Wisconsin,735.0,10749,n/a,False
-59de98d9da21ea24ce7213c57409e3ba0abcb2e9,DePauw University,53%,47%,18%,35%,35%,6%,6%,5%,38%,24%,14%,3%,nan,16%,79,A,n/a,n/a,Indiana,22.0,2141,n/a,False
-0696fb5cc6c9a5d9916a03bc64654227f8caf03e,Norfolk State University,65%,35%,3%,55%,12%,nan,30%,6%,20%,18%,1%,1%,nan,54%,80,A,n/a,n/a,Virginia,8.0,4636,Primarily online,True
-fd1e09472d3501e588ad1f33af46ea9a6c8d093e,New York University,58%,42%,4%,49%,24%,4%,18%,38%,42%,8%,0%,nan,2%,10%,81,A,n/a,n/a,New York,251.0,26339,Hybrid,True
-860a0c38a6c9f275ca2a90f5b08ce699af2dc10b,Alabama A&M University,59%,41%,3%,47%,16%,8%,26%,9%,20%,27%,9%,2%,nan,33%,82,A,n/a,n/a,Alabama,41.0,4990,Hybrid,True
-10119527fa0cab0466a6d5e618d83722a667a704,Colgate University,55%,45%,35%,35%,23%,4%,4%,4%,27%,30%,21%,nan,nan,18%,83,A,14,n/a,New York,48.0,2934,Hybrid,True
-58264a9bef5fcd3036487aac6d48c56914bcb102,University of South Dakota,62%,38%,28%,20%,28%,4%,20%,2%,24%,36%,10%,2%,nan,26%,84,A,n/a,n/a,South Dakota,243.0,6228,Primarily in person,True
-079cc6608695aea7b0bca50fb55ec374ce5e26b8,Virginia Tech,43%,57%,41%,27%,18%,nan,14%,2%,15%,42%,13%,1%,0%,27%,85,A,n/a,n/a,Virginia,1115.0,n/a,Primarily in person,False
-b8802e75e99edd6cf65c972868f10f0f882f829f,Prairie View A & M University,64%,36%,4%,59%,7%,nan,30%,8%,19%,23%,10%,2%,nan,39%,86,A,n/a,n/a,Texas,178.0,8524,Primarily in person,True
-308fd874c6bae3d89fc1bfcc4d868b6a053fb84d,Spelman College,100%,0%,nan,79%,15%,nan,6%,9%,48%,17%,6%,nan,nan,20%,87,A,n/a,n/a,n/a,n/a,2166,Fully online,False
-e7bc5e71c9ef9060a2ae06ef0df867420de7fe64,University of Central Florida,54%,46%,16%,34%,25%,3%,22%,7%,24%,31%,3%,0%,1%,34%,88,A,n/a,n/a,Florida,1210.0,58392,Primarily in person,True
-73ec12b23ed5352ad024a729191fac93bcf7d199,Albany State University,71%,29%,3%,62%,7%,nan,28%,10%,12%,29%,6%,nan,nan,43%,89,A,n/a,n/a,Georgia,63.0,5545,Hybrid,True
-826e336d83680241a73dda4c97a4f01b44b044c5,Tennessee State University,63%,37%,8%,60%,9%,2%,21%,8%,16%,23%,7%,2%,nan,43%,90,A,n/a,n/a,Tennessee,1.0,6116,Hybrid,True
-6d15152fc37fe54c1c1324261032f76cb29d681e,Georgia State University,59%,41%,6%,45%,19%,5%,26%,14%,32%,19%,3%,1%,0%,31%,91,A,n/a,n/a,Georgia,197.0,26489,Hybrid,True
-0079febc0ccee3d78ecaf86b0826fe8311272d63,University of Tampa,59%,41%,20%,34%,15%,1%,30%,2%,23%,29%,7%,nan,nan,39%,92,A,n/a,n/a,Florida,315.0,n/a,Primarily in person,False
-63aa414204c436c7101b0939b5dad7fb33398c9e,Southern University & A&M College,64%,36%,nan,67%,8%,nan,25%,10%,19%,29%,10%,5%,nan,29%,93,A,n/a,n/a,Louisiana,110.0,5612,n/a,False
-d11d4c32a5907002a214026194eb29caab720236,Bethune-Cookman University,63%,37%,2%,63%,13%,nan,21%,11%,16%,30%,14%,3%,nan,25%,94,A,n/a,n/a,Florida,1.0,3619,Primarily online,True
-8aa76adf379b6843019068d5d8667d6a8110c24c,University of Louisville,54%,46%,17%,44%,17%,3%,19%,10%,25%,30%,5%,1%,1%,28%,95,A,n/a,n/a,Kentucky,568.0,14488,Primarily online,True
-1ae5fb493276676096b0a01e21b263ec5f979f8f,Binghamton University SUNY,50%,50%,13%,41%,15%,1%,29%,8%,39%,25%,3%,nan,nan,26%,96,A,n/a,n/a,n/a,n/a,n/a,n/a,False
-87a1f8874902d8716d9697918aef6d7ba915eca4,North Carolina Central University,67%,33%,10%,55%,21%,3%,10%,16%,16%,26%,7%,nan,nan,36%,97,A,n/a,n/a,North Carolina,76.0,5913,Hybrid,True
-1f04dca862ebc3884143091a29f20256b2028590,Southern Illinois University Carbondale,47%,53%,13%,38%,11%,5%,33%,5%,16%,32%,5%,2%,3%,39%,98,A,n/a,n/a,Illinois,97.0,n/a,n/a,False
-f8ce4878433dc27778e2dade4db268a77b3f445a,University of Pittsburgh,53%,47%,19%,42%,15%,2%,22%,3%,33%,28%,4%,0%,1%,30%,99,A,n/a,n/a,Pennsylvania,326.0,n/a,n/a,False
-d19a217890d0b5e81d77ca7c19401f94235b6c11,Jackson State University,64%,36%,4%,55%,11%,nan,30%,10%,11%,26%,10%,4%,1%,38%,100,A,n/a,n/a,Mississippi,11.0,5305,Primarily online,True
-2a9034c35d6f87d67d7a9e33821416107e28b9db,Wake Forest University,53%,47%,41%,12%,35%,6%,6%,nan,8%,34%,44%,6%,2%,6%,101,A,n/a,n/a,North Carolina,142.0,5225,Primarily online,True
-41c379105f29d5d7de96af32ab74e5e6f03276b7,Massachusetts Institute of Technology,47%,53%,8%,23%,15%,15%,38%,16%,58%,13%,nan,nan,2%,11%,102,A,n/a,n/a,Massachusetts,44.0,4550,Primarily online,True
-26a7dd0df031619799837e2393a54af7e07ad103,Indiana University of Pennsylvania,59%,41%,28%,37%,18%,3%,14%,6%,19%,37%,3%,2%,1%,33%,103,A,n/a,n/a,Pennsylvania,234.0,n/a,Hybrid,False
-2b9b42984c45c37da8b6732a6bfebb6948a243fb,Pittsburg State University,48%,52%,46%,7%,25%,nan,21%,2%,nan,23%,21%,4%,nan,50%,104,A,n/a,n/a,Kansas,170.0,5067,Hybrid,True
-54fff97656b551d000c79894d08a8aca683ce5f5,Clemson University,49%,51%,39%,23%,16%,2%,20%,2%,7%,21%,34%,12%,nan,23%,105,A,n/a,n/a,South Carolina,3770.0,19564,Primarily online,True
-401520ba492d21110a8097fac931d8cfe3140513,Texas Christian University,59%,41%,33%,29%,17%,2%,19%,nan,7%,23%,45%,10%,nan,15%,106,A,n/a,n/a,Texas,1167.0,9407,Hybrid,True
-bd50d2f3cfad8cdd6a6b9b78b33f03d1b9ab4e6c,Providence College,54%,46%,25%,29%,17%,nan,29%,nan,6%,20%,35%,18%,nan,22%,107,A,15,n/a,Rhode Island,229.0,4079,Fully online,True
-dcba03012705028f12584db97c264896427136c2,Rice University,48%,52%,2%,48%,24%,7%,19%,17%,36%,33%,nan,nan,nan,14%,108,A,n/a,n/a,Texas,105.0,3962,Hybrid,True
-62e2b9949c03f51828e2d77526f39312a41ed0f0,Rollins College,60%,40%,14%,36%,18%,4%,29%,8%,19%,25%,21%,6%,nan,21%,109,A,n/a,n/a,Florida,9.0,2571,Hybrid,True
-3790334a5686249a22dd1df02cc233274d33ba13,George Washington University,62%,38%,12%,54%,20%,2%,12%,20%,49%,16%,2%,nan,1%,12%,110,A,n/a,39,Washington D.C.,18.0,12161,Fully online,True
-4b72b4427eb6ff087b2e66cd03a12d3e82a05b79,Illinois State University,56%,44%,22%,34%,17%,1%,25%,2%,22%,33%,6%,1%,1%,36%,111,A,n/a,n/a,Illinois,1384.0,18044,n/a,False
-c86788edc9530212d1042464bfec9b3bb72bcfb6,Tuskegee University,64%,36%,nan,66%,9%,6%,20%,10%,16%,26%,10%,1%,nan,36%,112,A,n/a,n/a,Alabama,62.0,2529,Hybrid,True
-dd47386a182abdfd99ad96856964e82a719a9949,Old Dominion University,55%,45%,15%,40%,19%,1%,25%,8%,18%,25%,7%,nan,1%,41%,113,A,n/a,n/a,Virginia,70.0,19194,Primarily in person,True
-8635275fa5723aa3ec77efd0dd02eb0036776612,Iowa State University,43%,57%,30%,24%,22%,3%,20%,4%,22%,31%,11%,nan,1%,31%,114,A,n/a,n/a,Iowa,1340.0,29248,Primarily in person,True
-0c29b30eede32b6d4b3efb8b17b3488f505eaecb,SUNY Buffalo State College,58%,42%,2%,74%,4%,nan,19%,8%,28%,14%,6%,nan,2%,42%,115,A,n/a,n/a,n/a,n/a,n/a,n/a,False
-bdd9782df42387eeb1821a4d18901e5fcb82fba3,Georgia Southern University,54%,46%,25%,36%,14%,5%,20%,2%,11%,30%,17%,3%,0%,37%,116,A,n/a,n/a,Georgia,1178.0,22239,Primarily in person,True
-03e2a9c797bacf2c908b07df35c263cfdb1f21c4,Harris-Stowe State University,66%,34%,14%,71%,nan,14%,nan,13%,nan,56%,nan,6%,nan,25%,117,A,n/a,n/a,Missouri,22.0,1709,Primarily in person,True
-68a2037568700804543536169cd52767a380b768,University of Nebraska - Lincoln,48%,52%,35%,36%,17%,nan,12%,1%,11%,28%,23%,4%,1%,33%,118,A,n/a,n/a,Nebraska,782.0,20592,n/a,False
-0dbe91d5f327374d6d0c26f9d9433a317c30ef90,Central Michigan University,57%,43%,24%,33%,15%,2%,26%,5%,22%,29%,4%,1%,1%,38%,119,A,n/a,n/a,Michigan,323.0,16157,Hybrid,True
-f88095bb03ba62bc1a1024da8d22e27dca71e52e,Johnson & Wales University- Providence,60%,40%,13%,35%,15%,nan,37%,9%,15%,21%,6%,1%,3%,45%,120,A,n/a,n/a,n/a,n/a,6569,n/a,False
-d46be7584aa05d280714e99ddf310e684b58b787,Eckerd College,67%,33%,8%,65%,15%,nan,12%,42%,42%,4%,nan,nan,2%,11%,121,A,n/a,n/a,Florida,3.0,1987,Primarily in person,True
-9b8e606bd3edfcd012608c3a3a1a5a8574a0ec79,Virginia Commonwealth University,60%,40%,10%,49%,11%,1%,29%,19%,39%,16%,1%,0%,1%,23%,122,A,n/a,n/a,Virginia,294.0,22497,Primarily in person,True
-0678da3419240758f2c497e69b79548546a3e75a,Santa Clara University,49%,51%,17%,52%,7%,nan,24%,3%,32%,36%,7%,1%,3%,19%,123,A,n/a,n/a,California,22.0,5504,Primarily online,True
-a0a46909bd8b4a721d8f84865d561248695606f4,Plymouth State University,50%,50%,7%,37%,37%,nan,19%,5%,26%,28%,7%,nan,nan,35%,124,A,n/a,n/a,New Hampshire,17.0,4135,Hybrid,True
-488f0715ec00c5c7cf0104d2de3e9ba621b93f43,Western Illinois University,52%,48%,6%,53%,8%,2%,32%,4%,14%,30%,4%,1%,2%,46%,125,A,n/a,n/a,Illinois,145.0,6754,n/a,False
-7d996f120d20b414f40c859bb46d807b189dd59f,University of Washington,54%,46%,5%,48%,26%,2%,18%,23%,50%,13%,1%,nan,nan,14%,126,A,n/a,n/a,Washington,527.0,n/a,Primarily online,False
-0519d457214b4ffbde6c2fc59299defa079ea1ef,South Carolina State University,50%,50%,9%,59%,5%,5%,23%,11%,19%,23%,14%,2%,2%,30%,127,A,n/a,n/a,South Carolina,nan,2415,Hybrid,True
-3649f8f119accce49521b4fa37038edc21d31aa5,Bloomsburg University of Pennsylvania,57%,43%,26%,33%,14%,nan,28%,3%,23%,29%,11%,nan,nan,34%,128,A,n/a,n/a,Pennsylvania,362.0,7920,Fully online,True
-bfd0e5e2bdde11c1c20bb0f57776cb634af35647,Kent State University,62%,38%,18%,37%,13%,5%,27%,12%,32%,22%,1%,0%,0%,33%,129,A,n/a,n/a,Ohio,165.0,n/a,n/a,False
-a919d34045fe4739ac8841d0d50d5c4e1fb20b62,Huston-Tillotson University,62%,38%,nan,33%,17%,nan,50%,8%,4%,29%,8%,nan,nan,50%,130,A,n/a,n/a,n/a,n/a,1084,n/a,False
-fac20232633ddeed989139eb872f29631fab12f9,Duke University,50%,50%,9%,44%,28%,nan,19%,10%,45%,21%,11%,5%,nan,8%,131,A,n/a,n/a,North Carolina,121.0,6596,Hybrid,True
-ecaa9080cde73cbd4a3c6392ef148ff19f3f4ce3,Texas A&M University,48%,52%,40%,23%,15%,5%,17%,nan,4%,12%,49%,19%,1%,15%,132,A,n/a,n/a,Texas,1661.0,n/a,n/a,False
-182564c252c8bbd64012f7807ae19e44ab028316,Missouri State University,58%,42%,18%,32%,19%,5%,26%,6%,19%,23%,11%,3%,2%,36%,133,A,n/a,n/a,Missouri,1200.0,n/a,Hybrid,False
-d892deb94cca56066d3314d35d052579f0a6c2a0,Salisbury University,56%,44%,19%,26%,33%,2%,21%,3%,18%,22%,5%,1%,1%,51%,134,A,n/a,n/a,Maryland,436.0,7444,Hybrid,True
-77dbdde831eaa4427136d93aae6e6985bb6cef8b,North Dakota State University,44%,56%,20%,17%,20%,9%,35%,1%,6%,16%,20%,4%,nan,53%,135,A,n/a,n/a,North Dakota,306.0,n/a,Hybrid,False
-6c9b8c0829bd4d0a3513bfce491c9c6ff1a588fb,Minnesota State University Mankato,52%,48%,24%,24%,24%,3%,24%,3%,24%,25%,3%,nan,1%,43%,136,A,n/a,n/a,Minnesota,129.0,n/a,n/a,False
-edb1025fce98764563eb2a7554baf90eb3001918,University of Idaho,48%,52%,26%,30%,17%,nan,28%,1%,29%,32%,9%,1%,2%,26%,137,A,n/a,n/a,Idaho,307.0,7528,Primarily in person,True
-687adcf124155df314dc92e397efc21413a763a1,Oklahoma State University,49%,51%,33%,22%,29%,1%,15%,2%,7%,29%,28%,5%,1%,28%,138,A,n/a,n/a,Oklahoma,1485.0,n/a,n/a,False
-12b134a6605d14062b314e943b4c3510cf7d5a9d,Towson University,60%,40%,13%,42%,21%,2%,21%,6%,31%,21%,2%,1%,1%,38%,139,A,n/a,n/a,Maryland,491.0,19623,Primarily online,True
-56ffcbba3a28a7d2e139d578286189eddc35daef,University of Wisconsin - Whitewater,49%,51%,11%,32%,16%,3%,38%,3%,22%,17%,6%,3%,nan,49%,140,A,n/a,n/a,Wisconsin,421.0,11045,n/a,False
-110370f1721c42338451b7eb6891cbaa27618ab3,The New School,75%,25%,6%,35%,12%,12%,35%,63%,18%,5%,nan,nan,3%,11%,141,A,n/a,n/a,New York,2.0,7274,n/a,False
-96b84a4feb080d48db99848e27ba5d7efbaa7b65,University of Denver,54%,46%,27%,41%,25%,nan,7%,5%,30%,38%,9%,2%,2%,14%,142,A,n/a,n/a,Colorado,151.0,5791,Primarily online,True
-ee78e744ed1e178e515451d6aba5b32f68f54be7,University of California - Berkeley,53%,47%,3%,57%,15%,3%,21%,37%,48%,9%,2%,nan,0%,5%,143,A,n/a,n/a,n/a,n/a,30845,n/a,False
-24ff0248b913abdef27ad94a202e547d299fd3d4,University of New Hampshire,55%,45%,17%,26%,28%,3%,26%,8%,36%,15%,5%,nan,nan,36%,144,A,n/a,n/a,New Hampshire,191.0,n/a,Primarily online,False
-3ff802977a8abe066acd82b88798536cab24e3c4,Boston University,60%,40%,9%,57%,20%,1%,13%,18%,45%,15%,1%,nan,1%,21%,145,A,n/a,n/a,Massachusetts,141.0,17238,Hybrid,True
-97ed7f3b9a061e796191fae9c7171c38ebd204d4,Augustana College - Illinois,57%,43%,25%,50%,8%,nan,17%,8%,36%,25%,3%,nan,nan,28%,146,A,n/a,n/a,n/a,n/a,n/a,n/a,False
-814601b0c07cff3b29a1233d01a3e5d115fc2121,Winston-Salem State University,71%,29%,8%,64%,17%,nan,11%,15%,13%,25%,7%,nan,2%,39%,147,A,n/a,n/a,North Carolina,42.0,4610,Hybrid,True
-c9af9d012aa8bede0a90a75fd58bff90c9f16ffc,University of North Dakota,47%,53%,25%,36%,7%,4%,29%,5%,13%,22%,27%,2%,nan,31%,148,A,n/a,n/a,North Dakota,890.0,9910,Hybrid,True
-adb899b18a09bdfa40984a033189c2662e2694ee,Trinity College - Connecticut,50%,50%,13%,42%,17%,13%,17%,2%,2%,31%,29%,12%,2%,23%,149,A,n/a,n/a,n/a,n/a,n/a,n/a,False
-a47344b19463d5a1c909704978d228396db7ce16,Coastal Carolina University,54%,46%,10%,38%,13%,nan,38%,3%,11%,30%,6%,1%,nan,48%,150,A,n/a,n/a,South Carolina,306.0,9474,Primarily online,True
-73dafbcd818c2d2a780c754d5d153ed2eceded68,University of Nevada - Reno,53%,47%,18%,30%,30%,4%,18%,4%,30%,32%,6%,nan,1%,28%,151,A,n/a,n/a,n/a,n/a,17513,n/a,False
-0790af8edaa5fd24c518a8e5ce657998a71752cb,Ball State University,59%,41%,23%,31%,19%,2%,24%,4%,23%,20%,4%,1%,0%,46%,152,A,n/a,n/a,Indiana,1027.0,15529,Primarily in person,True
-13d4aca3a4f0593199879af873711cabc43f6d29,University of Maine,47%,53%,23%,21%,26%,2%,28%,6%,36%,24%,4%,nan,1%,30%,153,A,20,n/a,Maine,8.0,8861,n/a,False
-0a75a29ddcd33b700e3b08badde78a775b406c48,University of Louisiana - Lafayette,56%,44%,27%,31%,12%,4%,25%,4%,13%,31%,16%,1%,1%,33%,154,A,n/a,n/a,n/a,n/a,n/a,n/a,False
-9448bf81b6f45b62650cb7f75a326727d68f9035,University of Vermont,59%,41%,12%,43%,24%,6%,14%,51%,37%,4%,1%,nan,nan,8%,155,A,n/a,n/a,Vermont,22.0,10612,Hybrid,True
-97fc81ec99004e4a8bba259f317442770a989a1a,Rowan University,45%,55%,16%,36%,19%,nan,30%,7%,21%,20%,5%,nan,1%,46%,156,A,n/a,n/a,New Jersey,207.0,15755,Primarily in person,True
-929e7c250b7018b2631098ed186f5a3942dcee9a,Grambling State University,60%,40%,4%,70%,9%,nan,17%,13%,20%,27%,9%,7%,nan,24%,158,A,n/a,n/a,Louisiana,20.0,4110,Primarily in person,True
-acb8dc699793604fabcd6a9c13402ed7f0d81cb7,Union College - New York,46%,54%,20%,30%,30%,nan,20%,nan,27%,27%,14%,nan,3%,30%,159,A,n/a,n/a,n/a,n/a,n/a,n/a,False
-5c92ea3b40a6f8364f08d1d352347239ed4364f8,University of North Texas,53%,47%,20%,37%,18%,3%,22%,13%,38%,21%,4%,1%,0%,22%,160,A,n/a,n/a,Texas,277.0,31375,Hybrid,True
-9e4446b71a1117d500fc9b0a67f183ff81010de6,Bucknell University,51%,49%,17%,38%,21%,nan,25%,5%,14%,33%,16%,7%,2%,23%,161,A,6,n/a,Pennsylvania,19.0,3583,Primarily in person,True
-0a0e070612793e65634192e0a3bb3964dd422b81,Georgetown University,56%,44%,16%,50%,18%,5%,11%,7%,35%,36%,8%,1%,nan,13%,162,A,n/a,n/a,Washington D.C.,147.0,7089,Fully online,True
-a759a84138244034a5ee22c2bd9dceccaece02fd,Dartmouth College,49%,51%,12%,42%,31%,4%,12%,2%,38%,30%,12%,6%,2%,10%,163,A,n/a,n/a,New Hampshire,12.0,4312,Primarily online,True
-b3ebd62c40d9abaff8ed2f05a30be9e4edaf1906,St. Bonaventure University,46%,54%,27%,47%,27%,nan,nan,4%,20%,44%,4%,nan,4%,24%,164,A,n/a,n/a,New York,7.0,1730,Primarily in person,True
-d52146595303814dbe5d558bb7788bd3b3524a20,Radford University,58%,42%,44%,16%,20%,2%,18%,2%,22%,23%,9%,4%,nan,40%,165,A,n/a,n/a,Virginia,413.0,7880,Primarily in person,True
-d68d9b699de3b8c79e7c4e77304889faa69b154a,Western Kentucky University,58%,42%,34%,34%,16%,5%,11%,nan,11%,34%,11%,1%,1%,41%,166,A,n/a,n/a,Kentucky,700.0,13959,Primarily online,True
-ef926eaa9c25e83a5bb2e3cd65c907f7a42e6842,Stephen F Austin State University,64%,36%,28%,26%,15%,2%,28%,5%,10%,29%,17%,5%,nan,34%,167,A,n/a,n/a,Texas,231.0,10474,Hybrid,True
-8ed325a778a47e7e2fe90e6b641d4d5c5d021ed6,West Chester University of Pennsylvania,60%,40%,23%,42%,18%,2%,15%,2%,22%,31%,4%,nan,2%,39%,168,A,n/a,n/a,n/a,n/a,14249,Fully online,False
-e0493e935f94a5efa32b938ffcad2c5e03f8598e,DePaul University,54%,46%,9%,48%,25%,1%,17%,16%,40%,16%,8%,nan,1%,19%,169,A,n/a,n/a,Illinois,10.0,14280,n/a,False
-5303cc06eb0f92be77982187a0de943e696c3e3d,Keene State College,55%,45%,6%,28%,39%,nan,28%,7%,24%,20%,2%,nan,2%,44%,170,A,n/a,n/a,New Hampshire,7.0,3416,Hybrid,True
-2df420d58f9d920e49ebdfc5aec16537dc096c5d,Northwest Missouri State University,57%,43%,18%,20%,27%,2%,33%,3%,10%,31%,4%,nan,1%,49%,171,A,n/a,n/a,Missouri,408.0,5193,Hybrid,True
-a8769f504787a22b06f9e4d0a75be5a55b65dc83,University of Nevada Las Vegas,57%,43%,13%,33%,19%,5%,30%,10%,23%,25%,1%,1%,1%,39%,172,A,n/a,n/a,Nevada,178.0,n/a,n/a,False
-84ceba9298d90eb3af7627723dcdce4d77dcf7c2,Cornell University,53%,47%,23%,39%,14%,3%,21%,14%,46%,26%,2%,nan,nan,13%,173,A,n/a,n/a,New York,153.0,15105,Hybrid,True
-06d563f4b3d38b11d41454f9d9a107514b6c3c3f,Washington & Lee University,50%,50%,33%,17%,42%,8%,nan,nan,nan,11%,46%,32%,7%,4%,174,A,n/a,n/a,Virginia,52.0,1822,Primarily in person,True
-e41ad4a722553e966c413ec874591dfd41cc1104,University of Wisconsin - Milwaukee,52%,48%,10%,29%,23%,9%,29%,10%,37%,26%,2%,1%,nan,24%,175,A,n/a,n/a,Wisconsin,516.0,21027,n/a,False
-623edf341becbb6579c3e762912a50654c679717,Mississippi State University,50%,50%,37%,21%,19%,nan,23%,3%,8%,26%,22%,6%,1%,34%,176,A,n/a,n/a,Mississippi,542.0,18010,Hybrid,True
-c1c6702b513551ffeaa9ed2ac920b58a727143a2,Hartwick College,58%,42%,17%,25%,8%,nan,50%,14%,34%,21%,nan,nan,nan,31%,177,A,n/a,n/a,New York,20.0,1165,n/a,False
-64947af3142c47a8344d1248cc0d74ed6b78c74a,Alcorn State University,64%,36%,5%,63%,11%,5%,16%,14%,10%,43%,2%,nan,5%,26%,178,A,n/a,n/a,Mississippi,36.0,3106,Primarily online,True
-e334d5595c04e2e4540bfdfcad388710a6cbee43,San Jose State University,50%,50%,4%,54%,13%,3%,26%,12%,34%,19%,4%,nan,2%,29%,179,A,n/a,n/a,California,50.0,27125,Primarily online,True
-fbe4334457e5b6590869d87a90f727e58d945c7b,Gallaudet University,54%,46%,nan,11%,22%,nan,67%,11%,25%,21%,nan,nan,4%,39%,180,A,n/a,n/a,Washington D.C.,1.0,1112,Fully online,True
-c19c0108e226171d4ac7437f81badd60c04c2998,Brown University,54%,46%,9%,62%,29%,nan,nan,51%,40%,3%,nan,nan,2%,5%,181,A,n/a,n/a,Rhode Island,24.0,6752,Primarily online,True
-6a8884a188e9715ede59769e9eb6653458ea07de,Harvard University,49%,51%,11%,37%,33%,nan,19%,27%,49%,6%,6%,4%,2%,6%,182,A,n/a,n/a,Massachusetts,72.0,7582,Fully online,True
-7bce4b8012b5eee844df5bc1faf096bdae08547a,University of Rhode Island,56%,44%,18%,32%,21%,2%,28%,12%,23%,26%,4%,1%,1%,33%,183,A,22,n/a,Rhode Island,192.0,13743,Other,True
-a77200ab9bd80f5a03892a17b128b45e06284f93,Central State University,60%,40%,nan,62%,15%,nan,23%,7%,20%,37%,13%,7%,nan,17%,184,A,n/a,n/a,Ohio,10.0,2079,Primarily in person,True
-c895149b9614db6dc7fa944e2188ceb3605c89b9,California Polytechnic State University (Cal Poly) - San Luis Obispo,49%,51%,17%,43%,17%,4%,19%,1%,22%,33%,16%,2%,1%,25%,185,A,n/a,n/a,n/a,n/a,n/a,n/a,False
-9359aa01232a99c205b428a6a5fe73e1fa298819,Columbia University,47%,53%,10%,46%,21%,13%,10%,32%,47%,13%,1%,nan,nan,7%,186,A,n/a,n/a,New York,14.0,n/a,Fully online,False
-af759a1a9446405dd6b02f9b95a390bb4f5fdc21,Fort Hays State University,59%,41%,32%,14%,29%,4%,21%,4%,6%,29%,18%,8%,nan,35%,187,A,n/a,n/a,Kansas,284.0,12456,Hybrid,True
-0e4bc3a8af48da934ce3353912d13866d14c1377,Oregon State University,46%,54%,19%,36%,21%,3%,21%,8%,27%,24%,10%,1%,1%,30%,188,A,n/a,n/a,Oregon,99.0,24787,Primarily online,True
-88f27d0d5887135ce176024ae3bf9430df4949a2,University of Central Missouri,55%,45%,19%,25%,17%,nan,39%,5%,17%,14%,5%,2%,2%,58%,189,A,n/a,n/a,Missouri,494.0,8113,Primarily in person,True
-5a211a4708d5e3d8c99a455573416da2e5150c95,Eastern Illinois University,59%,41%,22%,34%,17%,5%,22%,8%,13%,28%,7%,nan,1%,43%,190,A,n/a,n/a,Illinois,305.0,4631,Primarily in person,True
-465c75177be4e3c855b96374b2bde3ce032b55e0,SUNY Fredonia,58%,42%,10%,31%,38%,nan,21%,13%,32%,16%,2%,nan,3%,35%,191,A,n/a,n/a,n/a,n/a,n/a,n/a,False
-968369180365f6ea4cabebad6aa149d3eebd6d59,Colorado State University,52%,48%,26%,26%,23%,3%,22%,6%,26%,33%,6%,0%,1%,27%,192,A,n/a,n/a,Colorado,468.0,n/a,n/a,False
-821d85d04b9dff4c3bde00063079914eb85631c2,Fort Valley State University,60%,40%,nan,67%,20%,nan,13%,5%,10%,32%,10%,10%,nan,34%,193,A,n/a,n/a,Georgia,39.0,2337,Primarily in person,True
-90a6a3606f3c3bad0928ea0bfbef6d565acc30be,The College of Saint Rose,67%,33%,nan,31%,31%,4%,35%,6%,24%,24%,2%,2%,nan,43%,194,A,n/a,n/a,New York,2.0,2469,n/a,False
-a5f763c5186f23ae49666e3d2406414457bbb81b,SUNY Plattsburgh,57%,43%,nan,35%,29%,12%,24%,6%,28%,21%,nan,nan,nan,45%,195,A,n/a,n/a,New York,3.0,n/a,n/a,False
-90099a93486e74903c8a12e6449cf73e52c9af8f,Langston University,63%,37%,3%,45%,29%,3%,21%,13%,15%,27%,10%,nan,2%,33%,196,A,n/a,n/a,Oklahoma,28.0,1910,Primarily online,True
-872fa019a3639f16b2a669975369218dce712ef0,Wittenberg University,55%,45%,22%,39%,28%,nan,11%,5%,32%,35%,8%,nan,nan,19%,197,A,n/a,n/a,Ohio,178.0,1701,Hybrid,True
-dfcf113da61439bb2dc90420695945c8265f9829,Berklee College of Music,41%,59%,7%,39%,24%,5%,24%,31%,23%,13%,3%,1%,nan,30%,198,A,n/a,n/a,n/a,n/a,6332,Fully online,False
-96dacd91ff9da7af67584db33075c2aa27c004ac,University of Houston,50%,50%,13%,41%,14%,1%,31%,9%,26%,31%,5%,0%,1%,28%,199,A-,n/a,n/a,Texas,245.0,37291,Primarily online,True
-b28dec0404fd7986f8ba1133e8f4b6965a62aff7,University of Richmond,52%,48%,23%,38%,19%,4%,15%,nan,2%,61%,24%,7%,nan,5%,200,A-,n/a,n/a,Virginia,20.0,3215,Primarily in person,True
-b0602634dbe7c45c97c52145105046e77dc45750,University of Notre Dame,48%,52%,51%,22%,15%,5%,7%,nan,1%,17%,64%,10%,1%,6%,201,A-,n/a,n/a,Indiana,787.0,8568,Primarily in person,True
-4acd75ab5ce05e6b7a39c7310550e61816754277,East Stroudsburg University of Pennsylvania,56%,44%,11%,35%,14%,5%,35%,7%,11%,32%,2%,nan,nan,49%,202,A-,n/a,n/a,n/a,n/a,5599,Primarily online,False
-121e681f63c250b357ffab117ebab01abdf53ebc,Boston College,53%,47%,23%,35%,29%,3%,10%,2%,16%,36%,28%,4%,nan,13%,203,A-,n/a,n/a,Massachusetts,188.0,9639,Primarily in person,True
-70b0609d3450d7cd12ffb31effd019920f31fdec,North Carolina State University,47%,53%,29%,28%,28%,1%,14%,2%,12%,38%,21%,3%,1%,24%,204,A-,n/a,n/a,North Carolina,1134.0,n/a,Fully online,False
-ed4a1d9eeefa1ea49f8f4521930ee327ff865a39,Marquette University,54%,46%,28%,35%,15%,2%,20%,3%,17%,39%,26%,3%,nan,13%,205,A-,n/a,n/a,Wisconsin,381.0,8200,Hybrid,True
-d6249e8c2c4f43e976ea78c19157d33df6e6c64a,University at Buffalo SUNY,43%,57%,13%,33%,19%,2%,34%,7%,30%,23%,3%,nan,1%,37%,206,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-f505c38eb2b615cf005b8137f6a988f851c0c3d5,University of Nebraska at Kearney,59%,41%,13%,29%,25%,nan,33%,3%,9%,38%,9%,3%,nan,38%,207,A-,n/a,n/a,Nebraska,119.0,4328,Hybrid,True
-f428303c9b75ae91a16383e7862784d47a670389,University of Connecticut,51%,49%,16%,34%,24%,2%,23%,5%,33%,19%,1%,nan,1%,41%,208,A-,n/a,n/a,Connecticut,300.0,18830,Primarily online,True
-4172b3fa07abaabbc3fc62358b354804892c73f3,Rutgers University - Newark,55%,45%,5%,60%,12%,nan,24%,11%,26%,24%,2%,3%,nan,35%,209,A-,n/a,n/a,n/a,n/a,8761,n/a,False
-f6bfb0f5c20e03956942621dc8fe3180434616cf,Philander Smith College,66%,34%,9%,64%,9%,9%,9%,13%,17%,25%,17%,nan,nan,29%,210,A-,n/a,n/a,n/a,n/a,1000,n/a,False
-970c859687638dd31763828c31400d5756d3ebb6,Purdue University,42%,58%,33%,20%,18%,2%,27%,3%,17%,30%,18%,2%,nan,31%,211,A-,n/a,n/a,Indiana,1008.0,n/a,n/a,False
-5a241cef281708fdd0868ba59cc3056bf90b4734,Kutztown University of Pennsylvania,53%,47%,21%,37%,23%,2%,16%,1%,10%,31%,7%,nan,4%,48%,212,A-,n/a,n/a,n/a,n/a,7335,Hybrid,False
-0d53668d5220af4d783a8891ae37eff124f348fd,Florida International University,57%,43%,14%,39%,23%,3%,22%,14%,20%,23%,4%,0%,1%,37%,213,A-,n/a,n/a,Florida,153.0,41777,Primarily online,True
-7bcac1fe40ff478a223b9a7a6446336295b23e90,Lincoln University of Pennsylvania,66%,34%,10%,65%,5%,nan,20%,5%,21%,26%,8%,5%,nan,36%,214,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-bbdb08d9567bce03af932fbf7c68ef97e70b0774,Spring Hill College,61%,39%,31%,31%,19%,nan,19%,nan,16%,24%,20%,4%,nan,36%,215,A-,n/a,n/a,Alabama,104.0,1252,n/a,False
-6c9ad05004225146be31abcb37b83e4f799a7b4a,SUNY College of Environmental Science & Forestry,47%,53%,nan,40%,30%,nan,30%,21%,37%,11%,nan,nan,nan,32%,216,A-,n/a,n/a,New York,3.0,1819,n/a,False
-3f06b281b473160f3fbb1f5c6eba794612361169,Stevens Institute of Technology,29%,71%,14%,10%,29%,5%,43%,9%,15%,15%,9%,nan,3%,50%,217,A-,n/a,n/a,New Jersey,15.0,3420,Hybrid,True
-25302b64f0e41dceae4e9efedab7b3a656962831,Appalachian State University,56%,44%,26%,28%,28%,4%,14%,17%,38%,25%,4%,nan,1%,15%,218,A-,n/a,n/a,North Carolina,863.0,17265,Primarily online,True
-88f6786e4a91d54932c971ff7d5091f21a1bc0f4,University of South Florida,55%,45%,19%,30%,20%,4%,27%,9%,26%,28%,4%,0%,0%,33%,219,A-,n/a,n/a,Florida,550.0,n/a,Hybrid,False
-6182cbb96136851997a7136dd2b77975e1fee1fc,Northern Illinois University,51%,49%,11%,45%,10%,1%,33%,6%,24%,17%,5%,1%,1%,45%,220,A-,n/a,n/a,Illinois,301.0,12761,n/a,False
-abded54a8f92eaaafa323e899f68b62f96562553,California State University - Long Beach,57%,43%,6%,53%,16%,4%,21%,14%,41%,18%,2%,nan,0%,25%,221,A-,n/a,n/a,n/a,n/a,31503,n/a,False
-7ffdb54b54ac384a09453a490ec0899f33ea6ea8,Ferris State University,50%,50%,30%,22%,15%,nan,33%,6%,10%,22%,10%,nan,1%,51%,222,A-,n/a,n/a,Michigan,161.0,11008,Primarily in person,True
-c2ad3251e785a6fbe6cd2a5c5e10f7a7c2cc0245,Virginia State University,58%,42%,3%,68%,nan,nan,29%,12%,17%,31%,7%,2%,1%,29%,223,A-,n/a,n/a,Virginia,3.0,3986,Fully online,True
-e8d859336ad8bcf9e2b5786828e507843437ac1d,University of Wisconsin - Stout,43%,57%,30%,26%,4%,4%,35%,3%,13%,21%,5%,nan,3%,55%,224,A-,n/a,n/a,Wisconsin,15.0,7445,Primarily online,True
-9877431105d7c87e0dd4cfc80749784346897987,SUNY New Paltz,62%,38%,5%,45%,13%,nan,38%,31%,46%,5%,2%,1%,1%,14%,225,A-,n/a,n/a,New York,45.0,n/a,n/a,False
-2087578be444bc94bdc4a31de201ac1853a3550f,Bradley University,51%,49%,11%,24%,19%,nan,46%,nan,17%,33%,9%,nan,nan,41%,226,A-,n/a,n/a,Illinois,338.0,4598,Primarily online,True
-b731e25ec85423e53b2171b5f65ee1b6cea46cf7,South Dakota State University,51%,49%,51%,23%,10%,nan,15%,1%,10%,23%,16%,6%,nan,44%,227,A-,n/a,n/a,South Dakota,91.0,9314,Hybrid,True
-a2e699bd7657a682854849898b7315e83fba0489,University of the Arts,63%,37%,nan,54%,14%,4%,29%,47%,18%,13%,nan,nan,nan,22%,228,A-,n/a,n/a,n/a,n/a,n/a,Fully online,False
-ca75fd6f72493fcd530f79aa879dc906b9fd50aa,Bowie State University,62%,38%,3%,58%,13%,3%,24%,13%,17%,29%,8%,2%,nan,32%,229,A-,n/a,n/a,Maryland,18.0,5197,Primarily in person,True
-a91d18f0496feb8570396199762eb96b377b16f6,University of Akron,46%,54%,14%,25%,17%,2%,42%,6%,16%,27%,2%,1%,2%,47%,230,A-,n/a,n/a,Ohio,61.0,n/a,Primarily online,False
-47a108eb631482b2e201061a91f56615bf5b7a3d,Georgia College & State University,63%,37%,28%,23%,21%,nan,28%,3%,14%,25%,13%,6%,3%,36%,231,A-,n/a,n/a,Georgia,724.0,5834,Primarily in person,True
-7748e57c8d0caf2ba69efd7464ee8d2b88352c69,Rhodes College,56%,44%,7%,50%,36%,nan,7%,2%,19%,40%,14%,2%,nan,23%,232,A-,n/a,n/a,Tennessee,5.0,1985,Fully online,True
-d77ea2d90646b935d653bec8764b613b87f6091d,University of Memphis,58%,42%,14%,33%,19%,5%,28%,3%,20%,32%,8%,2%,nan,36%,233,A-,n/a,n/a,Tennessee,256.0,15563,Primarily online,True
-94e14423c70e2e2ba36068b805c1dc9e40eb21c6,University of Scranton,57%,43%,13%,31%,13%,nan,44%,nan,6%,26%,26%,6%,nan,35%,234,A-,n/a,n/a,Pennsylvania,380.0,3624,Hybrid,True
-9c2b520715a37fb5c26ec546171213fdc4d3fdfc,Gettysburg College,52%,48%,29%,35%,29%,nan,6%,5%,22%,38%,19%,nan,nan,16%,235,A-,n/a,n/a,Pennsylvania,87.0,2441,Primarily online,True
-d48a5c61f4704be45da4628909664ea53c8701cd,Hendrix College,52%,48%,23%,54%,8%,nan,15%,45%,52%,3%,nan,nan,nan,nan,236,A-,n/a,n/a,Arkansas,9.0,1192,n/a,False
-b06807dec186127855712b1288b11a095bd42af5,Hampden-Sydney College,0%,100%,nan,nan,nan,nan,nan,nan,14%,nan,43%,43%,nan,nan,237,A-,n/a,n/a,Virginia,58.0,1072,n/a,False
-fbf06ad5368da676db7b8d7cea034eb9a7b7755d,Georgia Institute of Technology,39%,61%,20%,27%,30%,5%,18%,3%,15%,31%,20%,nan,3%,28%,238,A-,n/a,n/a,Georgia,929.0,n/a,Hybrid,False
-bf96e5f3fb107915ce2fdf26e0f8d812aa585cd8,Wayne State College,56%,44%,56%,19%,6%,nan,19%,nan,10%,27%,17%,3%,nan,43%,239,A-,n/a,n/a,Nebraska,102.0,2754,Fully in person,True
-08229f6ec4267daa0f1b344e869d47a3261d156c,Southeast Missouri State University,58%,42%,16%,16%,19%,nan,48%,4%,13%,28%,6%,2%,nan,47%,240,A-,n/a,n/a,Missouri,315.0,8379,Primarily in person,True
-f75187dea4fb2cc76c9261226f027a1b226ccee3,University of Southern Mississippi,65%,35%,13%,32%,17%,4%,34%,7%,4%,38%,9%,2%,nan,40%,241,A-,n/a,n/a,Mississippi,301.0,11834,Primarily online,True
-679fb5b346113abb3e64dbe016e5b1dc4ee9d988,Washington University in St. Louis,53%,47%,6%,46%,29%,6%,14%,18%,57%,12%,1%,nan,nan,12%,242,A-,n/a,n/a,Missouri,76.0,7356,Primarily online,True
-ff9b03e9cf854d2404e6f3f14e47b1ff26fa0e70,University of Wisconsin - Eau Claire,62%,38%,26%,37%,12%,7%,19%,8%,33%,24%,1%,1%,1%,31%,243,A-,n/a,n/a,Wisconsin,436.0,10485,n/a,False
-45b00659948db918f2965d4755c98e3bbfc533b1,University of West Georgia,63%,37%,19%,31%,13%,3%,34%,2%,13%,30%,11%,2%,2%,42%,244,A-,n/a,n/a,Georgia,178.0,10448,Primarily in person,True
-ff3b8366a8cd59f4a011552e0f3eaf30d1afd371,SUNY Potsdam,60%,40%,5%,45%,18%,9%,23%,8%,8%,28%,8%,nan,3%,44%,245,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-71282ab71274d682ba1691b16f4b7a55cb5ea1a0,University of North Carolina - Wilmington,60%,40%,29%,29%,27%,nan,15%,6%,24%,36%,9%,nan,1%,23%,246,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-7a00c8deebfbacdea661a62602163a32f67292d1,Dillard University,76%,24%,nan,71%,6%,6%,18%,9%,16%,22%,13%,3%,nan,38%,247,A-,n/a,n/a,n/a,n/a,1309,n/a,False
-000c19fedf2ab904bb12d379c328107ace8845cc,Mississippi Valley State University,57%,43%,nan,64%,nan,9%,27%,nan,nan,33%,19%,10%,nan,38%,248,A-,n/a,n/a,Mississippi,35.0,1659,Primarily online,True
-4143787e2913843b1b7ae513b65cc09108934857,Cornish College of the Arts,68%,32%,nan,40%,40%,nan,20%,57%,36%,nan,nan,nan,nan,7%,249,A-,n/a,n/a,n/a,n/a,623,n/a,False
-ae4394b3771b08d206983a0b70fb534c0cdfc1b0,Winona State University,64%,36%,17%,17%,30%,4%,30%,2%,18%,18%,7%,nan,2%,52%,250,A-,n/a,n/a,Minnesota,403.0,7052,Primarily online,True
-07686cd1a62959aa18272b45eb0334948cb492b0,Indiana State University,55%,45%,20%,27%,17%,nan,36%,5%,16%,36%,8%,1%,1%,33%,251,A-,n/a,n/a,Indiana,99.0,10348,Primarily in person,True
-8c632ff702ecc338cfe3eb08ac99fecaf65f76dc,Boise State University,55%,45%,22%,27%,25%,6%,19%,5%,13%,40%,13%,4%,1%,24%,252,A-,n/a,n/a,Idaho,400.0,16526,Primarily in person,True
-8ac3716edd50538667a49d8c837280e14bcb5cb1,University of Utah,47%,53%,29%,31%,19%,9%,12%,2%,28%,38%,10%,2%,1%,20%,253,A-,n/a,n/a,Utah,694.0,23396,Primarily online,True
-e00d8514ad583a626b1c7252aefea99eed23180e,Frostburg State University,47%,53%,21%,42%,9%,6%,21%,5%,25%,30%,2%,nan,nan,38%,254,A-,n/a,n/a,Maryland,60.0,4359,Primarily online,True
-c1741b30d7f72671bf99477e391ef45c7a4196fa,California Institute of the Arts,55%,45%,14%,14%,29%,14%,29%,60%,33%,nan,nan,nan,nan,7%,255,A-,n/a,n/a,n/a,n/a,1003,Primarily online,False
-39c516495a2082b435b332dc3051a7d9ab410ace,Florida Memorial University,61%,39%,6%,53%,6%,nan,35%,14%,12%,24%,19%,2%,2%,26%,256,A-,n/a,n/a,Florida,2.0,1117,n/a,False
-73446bb9dc679e871b4ddf42a4e2ddb5510e1e50,Quinnipiac University,61%,39%,18%,28%,31%,2%,21%,3%,15%,27%,9%,3%,1%,43%,257,A-,n/a,n/a,Connecticut,11.0,7371,Primarily in person,True
-7f1bce587c23f0e61e0bcb0f2f641ac41d43067d,Barnard College,100%,0%,nan,67%,17%,nan,17%,45%,45%,6%,3%,nan,nan,nan,258,A-,n/a,n/a,New York,1.0,2557,Fully online,True
-4e6ce2d8189720e50e469059a400cc5d36f30a23,University of North Carolina - Greensboro,66%,34%,15%,34%,23%,1%,27%,21%,31%,16%,1%,1%,1%,29%,259,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-81461fa2a044930615186a5c3ff4aac593c68ecc,St. Norbert College,58%,42%,25%,21%,29%,4%,21%,3%,13%,21%,21%,3%,3%,38%,260,A-,n/a,n/a,n/a,n/a,n/a,Primarily online,False
-5b694b9acf26dc2b3e189e9ae893a5c3257c792a,University of Wyoming,49%,51%,47%,18%,20%,4%,12%,nan,7%,27%,27%,14%,1%,24%,261,A-,n/a,n/a,Wyoming,456.0,9854,Primarily in person,True
-1a5c7b9463b0b5bd55f992a54efbaf60fc8eeeea,Montana State University,46%,54%,23%,27%,27%,5%,19%,8%,16%,34%,20%,1%,1%,21%,262,A-,n/a,n/a,Montana,157.0,14566,n/a,False
-3abcea8dcb5b8f257c103af53dc49f46e985ebed,Slippery Rock University,55%,45%,32%,34%,13%,nan,21%,4%,17%,32%,7%,1%,nan,39%,263,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-4c3f02f361a7989e0b605c6ef60b6ad9c5335d64,University of California - Riverside,54%,46%,8%,59%,13%,1%,18%,15%,35%,21%,2%,nan,nan,28%,264,A-,n/a,n/a,n/a,n/a,20574,n/a,False
-f8c9e10276de9b24a0aeb3a36096c0dea907021f,Valdosta State University,63%,37%,21%,39%,23%,nan,18%,5%,15%,32%,12%,nan,nan,36%,265,A-,n/a,n/a,Georgia,118.0,8404,Primarily in person,True
-dd04c219be6117e6494d4e49b006169d2ea3a54c,University of Tennessee - Martin,58%,42%,47%,21%,nan,nan,32%,nan,15%,13%,26%,2%,nan,43%,266,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-21e16a19813e2f979fba06ad9bdacac5b3210925,Sewanee - The University of the South,51%,49%,14%,36%,21%,7%,21%,6%,19%,38%,28%,nan,nan,9%,267,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-7f4b5e4b3a960c7b7537d3b35b3b9305385db326,Southern Connecticut State University,61%,39%,12%,34%,17%,5%,32%,8%,24%,17%,5%,nan,nan,45%,268,A-,n/a,n/a,Connecticut,20.0,7890,Primarily online,True
-04c87b5c4409cabf4cff6bb734fe512f3d0e6489,Shaw University,57%,43%,8%,42%,25%,8%,17%,3%,14%,21%,10%,7%,nan,45%,269,A-,n/a,n/a,North Carolina,4.0,1302,n/a,False
-d6e9ab140fe463144e75c6dc717f4c5d022e024b,University of South Carolina - Upstate,67%,33%,17%,29%,26%,nan,29%,5%,19%,19%,14%,nan,nan,43%,270,A-,n/a,n/a,n/a,n/a,5403,n/a,False
-8172ae9657f99bf5c35500020bff4809bf09fa9c,Northwestern University,51%,49%,3%,69%,14%,7%,7%,11%,60%,20%,2%,nan,nan,6%,271,A-,n/a,n/a,Illinois,146.0,8451,Primarily online,True
-bf1faa80aa3249a567901b6513dd167372ac62fc,Texas A&M University - Commerce,60%,40%,30%,30%,24%,nan,15%,3%,2%,32%,16%,3%,nan,44%,272,A-,n/a,n/a,Texas,200.0,8201,n/a,False
-27f51ca11911e865c01a1c76510524c446dcb430,Community College of Denver,57%,43%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,273,A-,n/a,n/a,Colorado,42.0,6738,Hybrid,True
-cb7c29971d50ba8d7e0bfb5b6097acd5fb6832c9,St. Lawrence University,55%,45%,31%,38%,31%,nan,nan,9%,32%,34%,9%,2%,nan,14%,274,A-,n/a,n/a,New York,2.0,2406,Hybrid,True
-e41ddae658d330511bd9cf1609d53df00e6dca37,Xavier University of Louisiana,75%,25%,3%,63%,19%,3%,13%,8%,14%,24%,17%,2%,nan,35%,275,A-,n/a,n/a,n/a,n/a,2437,Primarily in person,False
-256845ddb6d7a08aed7b1be409d05e5f22a021d8,University of North Carolina at Charlotte,46%,54%,18%,35%,23%,1%,23%,4%,22%,25%,6%,1%,nan,41%,276,A-,n/a,n/a,North Carolina,217.0,23939,Primarily online,True
-a5be3bd4c8dc2ebaeb83aab05ee6cec18cf0c8c4,Northern Arizona University,61%,39%,17%,34%,29%,nan,20%,11%,33%,20%,3%,1%,0%,32%,277,A-,n/a,n/a,Arizona,188.0,26647,Primarily online,True
-d20726e1620c0f1cb733d3009d99070620f0c4dc,Marshall University,57%,43%,18%,33%,27%,4%,18%,5%,16%,38%,9%,1%,nan,31%,278,A-,n/a,n/a,West Virginia,97.0,8086,Primarily online,True
-115ad31ea68f82cac7790143f895fb731957da47,Wartburg College,54%,46%,36%,21%,21%,nan,21%,4%,25%,25%,7%,nan,nan,39%,279,A-,n/a,n/a,Iowa,69.0,1468,Primarily in person,True
-baad8270a997eb4d3c601fb0859873174bbee062,Monmouth University,58%,42%,12%,15%,24%,6%,42%,6%,9%,26%,9%,2%,2%,46%,280,A-,n/a,n/a,New Jersey,90.0,4595,Primarily in person,True
-bf719fd72bb87c306ee3cd1e22377c38aec7509e,SUNY Alfred State College,35%,65%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,281,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-8b53c8f1975d4effc310756a7742b16b385b4ecb,Saint Louis University,60%,40%,22%,36%,21%,7%,14%,7%,12%,35%,17%,4%,1%,24%,282,A-,n/a,n/a,Missouri,157.0,6917,Primarily in person,True
-f79e169a3165c044ec51e13158f59644e1093332,Louisiana State University Health Sciences Center - New Orleans,88%,12%,nan,nan,nan,nan,nan,nan,nan,33%,nan,nan,nan,67%,283,A-,n/a,n/a,n/a,n/a,915,n/a,False
-266aa4e5a0a6f706c9ec12ca423da1ec31c239d8,University of Texas - San Antonio,51%,49%,15%,30%,16%,3%,36%,6%,20%,30%,6%,1%,1%,37%,284,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-6fd15e4fcf5adbc12ecf32a24f5c5949f3490781,Westminster College - Missouri,45%,55%,33%,50%,nan,nan,17%,8%,17%,17%,8%,nan,nan,50%,285,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-ddb55f46c171820b7685f91a0feeebbaba62c721,Minerva Schools at Keck Graduate Institute,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,286,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-7d3db1e1f13638a59bade82e688e04420acd0925,California State University - Fullerton,57%,43%,11%,45%,21%,2%,21%,5%,32%,27%,4%,0%,0%,31%,287,A-,n/a,n/a,n/a,n/a,34637,n/a,False
-ed795237472be68f8d86a3fb3df6c0b95893bd9f,Sacred Heart University,64%,36%,25%,25%,17%,6%,28%,2%,11%,23%,11%,6%,nan,47%,288,A-,n/a,n/a,Connecticut,283.0,5907,Primarily in person,True
-e387e3ddf8cfbca6be4ad29879c256b79ed47b8c,Arizona State University - Downtown Phoenix Campus,69%,31%,17%,42%,21%,4%,17%,4%,44%,16%,nan,nan,nan,36%,289,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-c1f3e0b4902895e3102a36d54bf5971252ee70aa,Sam Houston State University,62%,38%,23%,26%,17%,2%,33%,2%,12%,33%,12%,2%,2%,37%,290,A-,n/a,n/a,Texas,476.0,18498,Hybrid,True
-2a8d2107bce6b6181afd8ec89656841787f9f8b0,York College of Pennsylvania,55%,45%,9%,26%,35%,nan,29%,6%,14%,37%,11%,3%,nan,29%,291,A-,n/a,n/a,Pennsylvania,27.0,3960,Hybrid,True
-11d776c5aa13c456601aa38c830240b728f6fe76,Northeastern University,51%,49%,5%,57%,24%,3%,11%,10%,43%,25%,2%,nan,nan,20%,292,A-,n/a,n/a,Massachusetts,106.0,13760,Hybrid,True
-9f92dd335989b7aa1089f885c21e3fef21cb45d8,Jacksonville State University,57%,43%,26%,22%,22%,nan,30%,6%,4%,42%,10%,4%,nan,35%,293,A-,n/a,n/a,Alabama,219.0,6394,Primarily online,True
-9dac8c5ec9fcda00170798353c2eca54ad564894,La Salle University,61%,39%,20%,50%,15%,nan,15%,nan,21%,33%,2%,5%,nan,40%,294,A-,n/a,n/a,Pennsylvania,15.0,3766,Fully online,True
-be873224a7b31d2333c8da87d672068349aaf977,University of Alabama - Birmingham,60%,40%,23%,44%,7%,7%,20%,10%,18%,30%,4%,1%,1%,37%,295,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-ff704033f1a5c858322381d84c9b0db21321177c,Pitzer College,56%,44%,nan,57%,29%,14%,nan,57%,32%,5%,3%,nan,nan,3%,296,A-,n/a,n/a,California,1.0,1072,n/a,False
-df3799d2b6076b2515954148f09d87cbe5b167a1,University of Arkansas at Pine Bluff,59%,41%,4%,62%,8%,nan,27%,8%,13%,23%,15%,3%,nan,38%,297,A-,n/a,n/a,Arkansas,139.0,2467,Primarily online,True
-ab9d1f61157f15cb56cd3a409db3193ab40f6eb1,Elon University,60%,40%,22%,54%,17%,2%,5%,3%,19%,33%,28%,3%,1%,13%,298,A-,n/a,n/a,North Carolina,239.0,6196,Primarily in person,True
-5aa75d05dbfe8206a7c287006f947ad5b2b46305,Springfield College - Massachusetts,50%,50%,11%,39%,22%,nan,28%,4%,15%,26%,7%,nan,nan,48%,299,A-,n/a,n/a,n/a,n/a,n/a,n/a,False
-35d1264adafc21d4a846c36aa07c3064cf9eeaec,University of Toledo,49%,51%,17%,38%,14%,2%,30%,4%,13%,34%,6%,nan,nan,43%,300,A-,n/a,n/a,Ohio,358.0,14893,Primarily in person,True
-18f9368affc77286017d07fa6239a34873571dfb,Johnson C. Smith University,61%,39%,nan,72%,11%,nan,17%,10%,26%,21%,nan,2%,nan,41%,301,A-,n/a,n/a,North Carolina,1.0,1480,Fully online,True
-4ff85eb338971f1f1f865d89f4ec02d3faef3b19,Claremont McKenna College,48%,52%,9%,45%,18%,9%,18%,4%,19%,56%,4%,nan,7%,11%,302,B+,n/a,n/a,California,nan,1318,n/a,False
-01f62be9121def85a485f2c4c6634ab543dd6848,Stanford University,50%,50%,14%,50%,21%,nan,14%,22%,48%,20%,1%,1%,nan,7%,303,B+,n/a,n/a,California,137.0,7083,Primarily online,True
-4be9eb7a2c99cb0b7e78175fcea26087e2f2be08,College of the Holy Cross,51%,49%,28%,44%,17%,nan,11%,nan,22%,28%,31%,11%,nan,8%,304,B+,n/a,n/a,Massachusetts,20.0,2913,Fully online,True
-04784a8c906a6a07b60088b592891aa64805b588,Northwestern State University of Louisiana,69%,31%,29%,33%,17%,4%,17%,4%,6%,33%,6%,2%,nan,50%,305,B+,n/a,n/a,Louisiana,261.0,8265,n/a,False
-c665810325ad7c49ca76b783521a94e20b72372f,Ithaca College,57%,43%,2%,46%,24%,2%,26%,43%,49%,nan,nan,nan,1%,8%,306,B+,n/a,n/a,New York,13.0,6072,Fully online,True
-78f2ac835b805627e04c93348a8d437355f928e0,Lynn University,49%,51%,25%,25%,13%,nan,38%,6%,18%,35%,6%,nan,nan,35%,307,B+,n/a,n/a,Florida,29.0,2194,n/a,False
-b923eb19db9ed32ad86b809ba44927a55b83a396,St. Cloud State University,52%,48%,26%,32%,16%,3%,24%,8%,29%,15%,9%,nan,2%,38%,308,B+,n/a,n/a,Minnesota,69.0,n/a,Primarily online,False
-2ce3e7d48bbaedb6216a3ac0dcd83379a8bb46d6,Fisk University,70%,30%,nan,68%,16%,nan,16%,6%,25%,28%,9%,3%,3%,25%,309,B+,n/a,n/a,n/a,n/a,743,n/a,False
-e161032b24ed9001d3b25c360fcc5ed51d39932b,Wesleyan University,55%,45%,4%,74%,17%,nan,4%,72%,24%,2%,nan,nan,nan,2%,310,B+,n/a,n/a,Connecticut,9.0,2922,n/a,False
-6db7723cd631b26451e43134f279d8b1ae615f47,LIM College,89%,11%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,311,B+,n/a,n/a,n/a,n/a,1503,n/a,False
-4f7888195a5ef9bdce75bb4a46736548618b1d21,California State University - Sacramento,56%,44%,13%,33%,19%,4%,31%,5%,28%,27%,3%,0%,nan,37%,312,B+,n/a,n/a,n/a,n/a,28439,n/a,False
-9ef3de947477875410c3cbbf6154ea6461f651be,Troy University,61%,39%,38%,23%,10%,2%,28%,3%,7%,25%,17%,3%,1%,45%,313,B+,n/a,n/a,Alabama,160.0,13147,Hybrid,True
-b26758079627454899d7e87fdb5aa6b6dde5548b,Loras College,46%,54%,50%,10%,10%,nan,30%,nan,20%,35%,25%,5%,nan,15%,314,B+,n/a,n/a,Iowa,nan,1361,Hybrid,True
-1b9ccb997d3093055c11bf2d90a1ad5d9032784e,University of Central Arkansas,61%,39%,26%,30%,21%,2%,21%,3%,16%,40%,11%,1%,nan,28%,315,B+,n/a,n/a,Arkansas,238.0,8906,Primarily online,True
-3c39fe1a54db0c727d65eb8de5ce7ccf14c89ed4,Widener University,55%,45%,23%,27%,17%,3%,30%,7%,7%,38%,5%,nan,nan,43%,316,B+,n/a,n/a,Pennsylvania,25.0,3201,Primarily online,True
-858ca82985bac366382edaf675f508c9aa18a8f5,Rockhurst University,57%,43%,50%,17%,8%,nan,25%,4%,nan,29%,29%,4%,nan,33%,317,B+,n/a,n/a,Missouri,30.0,1579,Primarily online,True
-c3b1dc8f86c714b9a214acd5ae195b07f5331dc0,Virginia Union University,54%,46%,7%,64%,7%,14%,7%,6%,16%,29%,3%,6%,nan,39%,318,B+,n/a,n/a,Virginia,6.0,1132,Undetermined,True
-853929c326977e501d8b50ecddfd3fa9f0a308e4,Columbia College Chicago,58%,42%,2%,49%,12%,3%,34%,39%,34%,6%,1%,2%,1%,17%,319,B+,n/a,n/a,Illinois,3.0,6496,Primarily online,True
-e7a450d7cb478e94bc668030b4a01ef83e9bef78,Academy of Art University,54%,46%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,320,B+,n/a,n/a,California,nan,6898,n/a,False
-1e9a7a05802eefc1c1c481c5284e9baceb49d78e,University of Northern Iowa,59%,41%,27%,25%,31%,2%,15%,5%,22%,18%,10%,nan,nan,45%,321,B+,n/a,n/a,Iowa,178.0,9391,Primarily in person,True
-39c6424e11e04c040fced9b5c357b9fcb6cc700d,Middle Tennessee State University,54%,46%,20%,40%,13%,4%,23%,4%,17%,29%,6%,2%,1%,40%,322,B+,n/a,n/a,Tennessee,277.0,18001,Hybrid,True
-0173d3804ef6d84e693f6e09a6e8c12fef3767be,Fairfield University,60%,40%,19%,15%,44%,7%,15%,nan,7%,33%,33%,9%,nan,19%,323,B+,n/a,n/a,Connecticut,119.0,4103,Primarily in person,True
-f3aae3c84a75af0c5cde166966806dc628e09135,University of San Diego,55%,45%,34%,36%,20%,2%,9%,5%,8%,32%,33%,2%,nan,20%,324,B+,n/a,n/a,California,89.0,5760,Primarily online,True
-657a87f0515d88133c743a2050628a018712c9b8,Skidmore College,61%,39%,nan,50%,33%,nan,17%,28%,57%,8%,3%,nan,nan,5%,325,B+,n/a,n/a,New York,4.0,2598,Hybrid,True
-cf3886b4dc7f81ef244ccf5f82c89512a273a7cb,Southeastern Louisiana University,62%,38%,11%,37%,37%,nan,16%,2%,5%,34%,12%,7%,nan,41%,326,B+,n/a,n/a,Louisiana,106.0,10994,Hybrid,True
-7334071cf31022a2eb4fd38074ea6ef67ec7ab4f,Edward Waters College,48%,52%,nan,67%,nan,nan,33%,nan,13%,nan,nan,nan,nan,88%,327,B+,n/a,n/a,Florida,nan,968,Primarily online,True
-05b0badb39766fc0568f41946d01d809e26b297f,University of Minnesota Duluth,48%,52%,15%,31%,15%,5%,33%,4%,21%,31%,11%,1%,3%,28%,328,B+,n/a,n/a,Minnesota,20.0,n/a,n/a,False
-94daab4964d08eb0442a8aa8d9fa9856747b1b13,Grand Valley State University,60%,40%,30%,24%,15%,3%,28%,3%,26%,27%,12%,1%,1%,30%,329,B+,n/a,n/a,Michigan,964.0,21589,Hybrid,True
-94bf247a8d7aea0b56b2d6f3adbbf334b5f2df4a,Drake University,59%,41%,38%,38%,14%,nan,10%,10%,48%,17%,4%,2%,nan,19%,330,B+,n/a,n/a,Iowa,7.0,2952,Primarily in person,True
-1c50f11896ef7c62591fdae32077ee3bb7572281,Shippensburg University of Pennsylvania,51%,49%,24%,41%,10%,nan,24%,4%,10%,25%,13%,2%,nan,46%,331,B+,n/a,n/a,Pennsylvania,33.0,5343,Primarily online,True
-17d3b2baeeb51a28dc57ac2f28a67284abcc3ecd,California State University - Fresno,60%,40%,15%,47%,13%,3%,23%,2%,22%,25%,6%,1%,1%,43%,332,B+,n/a,n/a,n/a,n/a,21732,n/a,False
-98d70f766b74d629f06158f9a05a025a66ef617f,Delaware State University,66%,34%,3%,61%,6%,nan,29%,5%,16%,32%,11%,3%,nan,32%,333,B+,n/a,n/a,Delaware,54.0,3835,Primarily online,True
-f9ddaaa398b748da18abbc5e647652667db57544,Milwaukee School of Engineering,26%,74%,10%,50%,10%,10%,20%,8%,nan,15%,27%,nan,nan,50%,334,B+,n/a,n/a,Wisconsin,19.0,2582,Hybrid,True
-a4ab867eb79d4b25f9b69922dae02d7609380420,University of Wisconsin - Platteville,34%,66%,28%,19%,22%,3%,28%,nan,10%,34%,14%,5%,2%,34%,335,B+,n/a,n/a,Wisconsin,240.0,7786,n/a,False
-5a5343b27afebcbdebf21cd572217f00aa24614b,Claflin University,69%,31%,2%,63%,7%,5%,23%,12%,22%,16%,12%,12%,nan,25%,336,B+,n/a,n/a,South Carolina,1.0,2043,Primarily online,True
-02059b46b46c1cb7725799fcc77cb4e877b2d01b,University of the District of Columbia,52%,48%,nan,75%,8%,nan,17%,8%,22%,25%,3%,nan,nan,42%,337,B+,n/a,n/a,Washington D.C.,2.0,3656,Primarily online,True
-2dddcd9a48b67c918a2b0ea2ca47d556c3c23880,Hampton University,66%,34%,4%,76%,10%,2%,8%,9%,23%,26%,12%,4%,nan,26%,338,B+,n/a,n/a,Virginia,nan,3661,Fully online,True
-ebd2ba965a518d2f0aedbf727aaa5254915b2538,Franklin Pierce University,54%,46%,15%,23%,38%,8%,15%,9%,14%,23%,nan,nan,nan,55%,339,B+,n/a,n/a,New Hampshire,11.0,1627,Primarily in person,True
-207fd68798473b240ccfd79c8c66c44f4d9b3a15,University of Wisconsin - Stevens Point,52%,48%,10%,35%,19%,13%,23%,5%,25%,22%,4%,2%,4%,38%,340,B+,n/a,n/a,Wisconsin,259.0,8161,n/a,False
-850ae790872721f993c63a85d66ae80164808841,Merrimack College,50%,50%,6%,nan,65%,nan,29%,4%,18%,14%,7%,7%,nan,50%,341,B+,n/a,n/a,Massachusetts,100.0,3648,Hybrid,True
-1c1e5f80e3d27d75200646a700f155b8400a9728,Butler University,59%,41%,28%,32%,16%,4%,20%,2%,23%,36%,23%,nan,nan,16%,342,B+,n/a,n/a,Indiana,151.0,4553,Primarily online,True
-c4a94825e6b14099421bc84ff7042746c181be01,East Tennessee State University,57%,43%,40%,9%,29%,nan,23%,6%,9%,25%,14%,nan,2%,45%,343,B+,n/a,n/a,Tennessee,240.0,10760,Primarily online,True
-32c37989e1a48b0a1356273c4d89551234c87a82,Aquinas College - Michigan,60%,40%,31%,31%,19%,4%,15%,nan,33%,23%,20%,5%,nan,20%,344,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-1b8db696f4ec638319008feed8bd93aeae78b75c,University of Massachusetts - Lowell,38%,62%,11%,25%,31%,3%,31%,8%,16%,19%,3%,2%,nan,53%,345,B+,n/a,n/a,n/a,n/a,13385,n/a,False
-68539b3bd6d0400e810965898a1211e784cd630b,Florida Atlantic University,56%,44%,13%,35%,22%,1%,28%,8%,16%,24%,5%,1%,1%,45%,346,B+,n/a,n/a,Florida,180.0,23265,Primarily online,True
-3e580065d9af46604bc28fc60e82ec4b0628a43b,University of South Alabama,59%,41%,20%,44%,8%,2%,25%,2%,11%,27%,12%,5%,nan,42%,347,B+,n/a,n/a,Alabama,276.0,10035,Primarily online,True
-b19889e1cb395d3bff1dd55c732d69075df7cbfc,Chadron State College,55%,45%,47%,18%,nan,nan,35%,nan,5%,10%,33%,nan,nan,52%,348,B+,n/a,n/a,Nebraska,53.0,1750,Hybrid,True
-d64300724062dd472e377e25ad792d36bf3268c7,The Catholic University of America,53%,47%,24%,31%,24%,nan,21%,nan,2%,16%,47%,29%,nan,7%,349,B+,n/a,n/a,n/a,n/a,3294,n/a,False
-b3b11f0b637252f5af009a51c76588212ceb7e8a,Viterbo University,74%,26%,25%,42%,nan,nan,33%,5%,18%,32%,5%,5%,nan,36%,350,B+,n/a,n/a,Wisconsin,50.0,1709,Primarily in person,True
-04450197ceb480d35a723e593b000627a8b25c99,St. Francis College,61%,39%,nan,30%,10%,nan,60%,4%,8%,31%,15%,nan,8%,35%,351,B+,n/a,n/a,New York,2.0,2315,n/a,False
-dfec9160ae269d3e6881c85dc6cb7861c3e1496e,University of Montana,55%,45%,21%,23%,33%,2%,21%,19%,51%,15%,2%,nan,1%,12%,352,B+,n/a,n/a,Montana,127.0,n/a,n/a,False
-a5ef757d6dff094878ef0868ca9cc689c749b810,Saginaw Valley State University,61%,39%,23%,37%,21%,nan,19%,6%,13%,19%,6%,1%,nan,53%,353,B+,n/a,n/a,Michigan,82.0,7431,Primarily in person,True
-9622ac4cf255aa543a6a30f25166993cf3ed63fc,Arkansas State University,57%,43%,27%,13%,24%,2%,33%,3%,11%,24%,16%,1%,nan,45%,354,B+,n/a,n/a,Arkansas,548.0,n/a,n/a,False
-bc759d03aa880248fe545f03ea0bf583cb985997,Southern New Hampshire University,62%,38%,16%,28%,23%,5%,28%,7%,6%,15%,4%,1%,nan,67%,355,B+,n/a,n/a,New Hampshire,0.0,80170,Fully online,True
-a46e4cc7824a9768fc95c7e303bff40606d527fb,SUNY Geneseo,62%,38%,8%,46%,19%,4%,23%,2%,50%,30%,4%,nan,2%,12%,356,B+,n/a,n/a,New York,15.0,n/a,n/a,False
-6b3f11a8c0db96b90e4d4b4ae1e7cfedd884eca9,Haverford College,51%,49%,nan,43%,43%,nan,14%,8%,83%,nan,nan,nan,nan,8%,357,B+,n/a,n/a,Pennsylvania,4.0,1305,n/a,False
-2a191e038cb8e4abc9a95f21726fd0e0d8f0af48,Chapman University,61%,39%,16%,35%,25%,2%,23%,2%,34%,34%,12%,2%,2%,14%,358,B+,n/a,n/a,California,9.0,7026,Primarily online,True
-3d5aab16c11e8e1811865a4e76dcb6f433d42dc5,Benedict College,52%,48%,11%,56%,11%,nan,22%,19%,11%,26%,7%,nan,nan,37%,359,B+,n/a,n/a,South Carolina,6.0,2165,Hybrid,True
-682f33a86438c88feafcad609c8041b5a0c25130,California State University - Northridge,55%,45%,5%,37%,17%,5%,36%,9%,33%,18%,3%,1%,1%,35%,360,B+,n/a,n/a,n/a,n/a,34911,n/a,False
-241b379c22cc9c3a28cef78b9db6302b46fe8903,Gonzaga University,53%,47%,9%,41%,29%,6%,15%,nan,24%,39%,17%,3%,nan,17%,361,B+,n/a,n/a,Washington,65.0,5237,Hybrid,True
-facba4854e01ea8aa51b9f0c4cb2cbe7e336ff69,Kennesaw State University,49%,51%,26%,28%,13%,3%,28%,4%,15%,32%,9%,1%,nan,39%,362,B+,n/a,n/a,Georgia,353.0,31511,Hybrid,True
-8c03658e6eeb4360460d983bf6af35deb1954560,Wayne State University,58%,42%,7%,47%,12%,5%,29%,9%,24%,23%,2%,1%,nan,41%,363,B+,n/a,n/a,Michigan,68.0,17114,Primarily online,True
-388e85a6009b8c54ac2c5bdffe5db0b73ef4d1e5,High Point University,57%,43%,32%,34%,21%,4%,9%,2%,3%,17%,38%,8%,2%,28%,364,B+,n/a,n/a,North Carolina,153.0,4498,Fully in person,True
-1c183dba2da2930b063d394cb77ebb4cead95c1b,Hofstra University,56%,44%,8%,47%,16%,4%,25%,18%,32%,19%,2%,nan,1%,28%,365,B+,n/a,n/a,New York,109.0,6616,Primarily in person,True
-c3daf49249724b4744d6fa885f22050b74602cdf,Worcester Polytechnic Institute,39%,61%,13%,38%,25%,nan,25%,3%,18%,18%,5%,nan,nan,55%,366,B+,n/a,n/a,Massachusetts,10.0,4571,Hybrid,True
-b24558573f6cd92d2a3f820ed646bfb2625fe5f8,Doane University,45%,55%,22%,22%,44%,nan,11%,5%,25%,35%,5%,5%,nan,25%,367,B+,n/a,n/a,Nebraska,84.0,1002,n/a,False
-1ff4da3b5c1345fd0368e7bf15987aa7f6aa4338,Loyola University Maryland,58%,42%,46%,14%,21%,nan,18%,2%,20%,24%,33%,2%,nan,18%,368,B+,n/a,n/a,Maryland,nan,3860,Fully online,True
-8e96cb590192e79004917c6706dfc21f50631f48,Gannon University,59%,41%,33%,33%,13%,nan,20%,nan,2%,28%,33%,5%,nan,33%,369,B+,n/a,n/a,Pennsylvania,40.0,2733,Hybrid,True
-618f584c3a7154b0996251fcdd032a1ba04471b8,University of Missouri - Kansas City,57%,43%,22%,30%,11%,11%,26%,10%,18%,22%,7%,nan,1%,41%,370,B+,n/a,n/a,Missouri,146.0,7681,n/a,False
-eaae2ff11ca52517d4e75ad39f5e5f989dcdb908,New Mexico State University,55%,45%,20%,29%,21%,3%,28%,9%,16%,25%,8%,1%,3%,39%,371,B+,n/a,n/a,New Mexico,127.0,n/a,n/a,False
-86520e4c29257cb01174056267ed3a4a53854cf5,Lincoln University - Missouri,57%,43%,18%,36%,18%,nan,27%,nan,22%,33%,nan,nan,nan,44%,372,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-deeab325166db6ff51d04906cc53494db37f46bc,Drexel University,46%,54%,13%,39%,27%,nan,21%,7%,30%,29%,1%,1%,2%,31%,373,B+,n/a,n/a,Pennsylvania,28.0,15557,Fully online,True
-9f3cb7c9f5f5b32e4a2b08f2fc235cb752f3ccbd,Full Sail University,28%,72%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,374,B+,n/a,n/a,n/a,n/a,18545,n/a,False
-1baf374d7451cecab1852c231fad0038be9054f5,Kansas Wesleyan University,40%,60%,nan,nan,17%,nan,83%,nan,36%,18%,9%,9%,nan,27%,375,B+,n/a,n/a,Kansas,13.0,650,n/a,False
-bd758a75cde40b55fb429be4638efe691e39f2a2,Colorado College,55%,45%,11%,63%,21%,nan,5%,49%,46%,5%,nan,nan,nan,nan,376,B+,n/a,n/a,Colorado,14.0,2098,Fully online,True
-a118b638da375af5f5b626e361735e9fd24b3c6c,Montana Technological University,34%,66%,29%,6%,18%,6%,41%,3%,13%,26%,26%,nan,nan,32%,377,B+,n/a,n/a,Montana,52.0,1585,Fully in person,True
-9ba57cfdf845f1ab431f256fc9f07a0526281084,Saint Augustine's University,49%,51%,nan,80%,nan,20%,nan,6%,18%,35%,12%,nan,nan,29%,378,B+,n/a,n/a,North Carolina,nan,767,n/a,False
-019a9db2a74f727cf939819fc96bcb3b78666de3,Eastern Washington University,54%,46%,29%,21%,22%,5%,24%,4%,16%,41%,7%,1%,1%,31%,379,B+,n/a,n/a,Washington,102.0,10379,Primarily online,True
-b31fc33bd9be9022311c8a037a8a1764aed67e4c,Edgewood College,74%,26%,21%,50%,nan,7%,21%,3%,45%,16%,6%,nan,nan,29%,380,B+,n/a,n/a,Wisconsin,65.0,1435,Hybrid,True
-31acb60e9a755a4f1edeb7260281210cc1368244,Wilberforce University,55%,45%,20%,nan,40%,nan,40%,nan,25%,25%,25%,13%,nan,13%,381,B+,n/a,n/a,n/a,n/a,643,n/a,False
-a1ec8d754319959488ecae8278a40e2f1ffa154e,Longwood University,67%,33%,34%,17%,29%,nan,20%,2%,15%,20%,18%,4%,2%,40%,382,B+,n/a,n/a,Virginia,59.0,4028,Primarily in person,True
-3c6e61f4e46cb5fc868751cf3713c0b66e3862e4,Augsburg University,52%,48%,13%,56%,6%,6%,19%,34%,34%,17%,nan,nan,nan,14%,383,B+,n/a,n/a,Minnesota,18.0,2311,Primarily online,True
-c87bd92b09f758a52675832105e2747a5a88ff44,Birmingham-Southern College,52%,48%,30%,40%,10%,10%,10%,14%,32%,36%,14%,nan,nan,5%,384,B+,n/a,n/a,Alabama,125.0,1265,n/a,False
-a0fa1141175f759d7d641333eb85a3eaa320ded8,Missouri University of Science & Technology,24%,76%,27%,18%,21%,3%,30%,5%,14%,34%,12%,2%,2%,32%,385,B+,n/a,n/a,Missouri,127.0,6785,Primarily in person,True
-f188759f8bf6ca864ad5c0b26d6284f348766020,Villanova University,53%,47%,37%,26%,22%,2%,13%,nan,nan,26%,40%,8%,nan,27%,386,B+,n/a,n/a,Pennsylvania,193.0,6819,Primarily in person,True
-bf4e3e93c10c3fe53b65b872720502426235357b,John Carroll University,47%,53%,48%,22%,17%,nan,13%,2%,12%,29%,31%,8%,2%,16%,387,B+,n/a,n/a,Ohio,117.0,3013,Fully online,True
-d4559fcc816ad50287edafd200abc944196d31ee,Berkeley College - New York,62%,38%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,388,B+,n/a,n/a,n/a,n/a,3505,n/a,False
-f8199199a7875f60edbe7e79a471020a1ffb853e,Colorado Mesa University,53%,47%,29%,20%,32%,nan,20%,1%,15%,22%,4%,3%,1%,53%,389,B+,n/a,n/a,Colorado,68.0,8384,Primarily in person,True
-fa06599a4e84966227c76505dba8f626926939b0,University of Colorado Denver,54%,46%,7%,48%,24%,3%,18%,12%,39%,22%,2%,nan,2%,23%,390,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-79165d736b11f0457082a167f81c80bf393ee220,The College of Idaho,52%,48%,25%,17%,33%,nan,25%,21%,29%,14%,11%,nan,nan,25%,391,B+,n/a,n/a,n/a,n/a,939,n/a,False
-f866f3ee78bc7266de5e35e6074a27bcc412e3e7,Youngstown State University,51%,49%,15%,35%,15%,9%,26%,8%,28%,23%,4%,4%,nan,33%,392,B+,n/a,n/a,Ohio,17.0,10030,Primarily online,True
-305ab6697590f82362de80a5953c598a92cd8bee,University of Louisiana - Monroe,63%,37%,10%,33%,5%,10%,43%,4%,6%,28%,6%,4%,nan,51%,393,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-839343fd28a279006566598d33ef2bdf669b3d74,West Liberty University,62%,38%,40%,20%,nan,nan,40%,nan,7%,36%,nan,nan,nan,57%,394,B+,n/a,n/a,West Virginia,29.0,1994,Primarily online,True
-f13e9e73b5c96b41866db62d6a966fddb3747e90,Fayetteville State University,68%,32%,nan,65%,12%,nan,23%,8%,20%,26%,nan,nan,2%,44%,395,B+,n/a,n/a,North Carolina,110.0,4915,Primarily online,True
-462c81d50b9031c0eee2fd1997d4aac61892a62b,Millsaps College,52%,48%,20%,60%,nan,nan,20%,17%,50%,17%,17%,nan,nan,nan,396,B+,n/a,n/a,Mississippi,38.0,793,n/a,False
-8c5b9dcfb2be611544193fc61e2b6dfa0071fcee,University of California - Davis,61%,39%,11%,41%,20%,1%,28%,13%,44%,17%,2%,0%,0%,23%,397,B+,n/a,n/a,n/a,n/a,30698,n/a,False
-85a428a7ed5f33b56d9d66e6331cd8b3e82e5bb8,West Virginia Wesleyan College,55%,45%,38%,38%,23%,nan,nan,4%,27%,27%,8%,4%,nan,31%,398,B+,n/a,n/a,West Virginia,1.0,1176,n/a,False
-f8090b5016d6489cb48afadc12a1906a010a2b6a,Kentucky State University,56%,44%,nan,75%,nan,nan,25%,10%,20%,20%,5%,10%,5%,30%,399,B+,n/a,n/a,Kentucky,94.0,1233,Primarily online,True
-6617dcff88dc66eeeeac858a435baaa542fe59c3,Pace University,62%,38%,8%,57%,16%,nan,19%,17%,33%,15%,2%,2%,1%,31%,400,B+,n/a,n/a,New York,45.0,8439,Primarily online,True
-c12247fe331d09a244b4525f0398b8ca3394ec92,Ripon College,53%,47%,13%,7%,40%,nan,40%,6%,27%,30%,12%,3%,nan,21%,401,B+,n/a,n/a,Wisconsin,10.0,787,n/a,False
-0f1c405cc30e61ab7cdbe712ffb293403fd573b6,St. John's University - New York,57%,43%,13%,44%,13%,1%,29%,4%,20%,22%,21%,2%,1%,31%,402,B+,n/a,n/a,n/a,n/a,11907,n/a,False
-9b4eac55789fdf26b84e184ccab30cd1a18ff536,Eastern Kentucky University,57%,43%,27%,29%,10%,nan,34%,2%,12%,37%,19%,1%,nan,29%,403,B+,n/a,n/a,Kentucky,189.0,12246,Primarily in person,True
-41c61ffda3fcfa314b843e253ffd63df59d088a8,University of St. Thomas - Minnesota,47%,53%,36%,22%,22%,4%,16%,3%,18%,30%,30%,3%,nan,15%,404,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-46749729f6065ca252c15fa4f1535608176f78da,Tufts University,52%,48%,11%,46%,24%,11%,8%,31%,57%,3%,nan,2%,nan,8%,405,B+,n/a,n/a,Massachusetts,36.0,5597,Hybrid,True
-1576c4dde05ff7d4a03c05711f26cb576be55b51,St. Ambrose University,55%,45%,27%,20%,23%,nan,30%,2%,23%,25%,7%,5%,5%,34%,406,B+,n/a,n/a,n/a,n/a,n/a,Primarily in person,False
-2ebee1857945b8041e8546ba111ac76697f1ed3d,Colby College,52%,48%,13%,38%,25%,13%,13%,6%,74%,18%,nan,nan,3%,nan,407,B+,n/a,n/a,Maine,11.0,2000,Primarily in person,True
-f10935afaadfc6038391253b32b325f63f2f0f69,Ursinus College,51%,49%,29%,47%,6%,nan,18%,7%,33%,30%,7%,3%,nan,20%,408,B+,n/a,n/a,Pennsylvania,19.0,1406,n/a,False
-feb8bd1cd26427e2ab4e4af658933bf7b71d5858,University of Evansville,58%,42%,41%,18%,18%,nan,24%,3%,41%,21%,3%,nan,nan,32%,409,B+,n/a,n/a,Indiana,69.0,2018,Primarily online,True
-3aa8ffafd65b37fbda06390e58fd8aea6d52a8fb,Marist College,58%,42%,18%,31%,23%,3%,26%,2%,23%,23%,19%,nan,nan,33%,410,B+,n/a,n/a,New York,6.0,5405,Primarily in person,True
-83d4af95c69dcceba16be753254d1ad254978f68,Johnson & Wales University - Charlotte,67%,33%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,411,B+,n/a,n/a,North Carolina,2.0,1681,n/a,False
-addbceddfd0732d080e04341af4331520fd4cdc6,Texas Tech University Health Sciences Center,85%,15%,20%,10%,50%,nan,20%,7%,7%,13%,47%,7%,nan,20%,412,B+,n/a,n/a,Texas,304.0,1520,n/a,False
-a91e06c053d6491f781820659cc29ad8b3a7c07c,Duquesne University,64%,36%,23%,31%,20%,6%,20%,nan,9%,29%,28%,6%,nan,27%,413,B+,n/a,n/a,Pennsylvania,27.0,6008,Hybrid,True
-8864cbcf8bd962d26a80b8a81577f5286acf3bc2,Quincy University,45%,55%,20%,30%,20%,nan,30%,nan,16%,53%,16%,nan,nan,16%,414,B+,n/a,n/a,Illinois,89.0,916,n/a,False
-6d2904fd72e3dc9042c45cc7d5d18dc830b4293c,Harvey Mudd College,49%,51%,nan,25%,50%,25%,nan,nan,71%,14%,nan,nan,nan,14%,415,B+,n/a,n/a,California,5.0,886,n/a,False
-6ddc09ce4b1f6f087ab1ce129818763cb06606be,Westminster College - Utah,60%,40%,9%,41%,27%,18%,5%,34%,36%,14%,5%,nan,2%,10%,416,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-6e9814fe08e477805671afae2147edcc3a05a3c4,Rose-Hulman Institute of Technology,25%,75%,33%,22%,33%,nan,11%,5%,nan,32%,18%,nan,nan,45%,417,B+,n/a,n/a,Indiana,40.0,2073,Hybrid,True
-587d39fea8d8e4607e6c71b8037d41a8b2abf3be,Transylvania University,60%,40%,29%,43%,nan,nan,29%,11%,47%,37%,nan,nan,nan,5%,418,B+,n/a,n/a,Kentucky,71.0,987,n/a,False
-bbc091589ea0d9376f5454caf573039eac1fc2e9,University of Montana - Western,60%,40%,13%,13%,25%,nan,50%,nan,nan,21%,21%,nan,nan,57%,419,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-6853970fbc41b9f6054a2ea006c0db72d017037e,Illinois Wesleyan University,52%,48%,6%,44%,13%,6%,31%,16%,26%,35%,3%,nan,nan,19%,420,B+,n/a,n/a,Illinois,122.0,1686,n/a,False
-d773ca3ad4d1bb1f6548b5f57d3e36490f46eb14,Tarleton State University,61%,39%,46%,15%,10%,1%,27%,nan,5%,26%,28%,7%,1%,32%,421,B+,n/a,n/a,Texas,277.0,11312,Primarily in person,True
-e8615f13043758c38b6b5a4c10c649a64265a6e2,Western Washington University,58%,42%,6%,51%,16%,4%,23%,32%,55%,4%,1%,1%,2%,6%,422,B+,n/a,n/a,Washington,4.0,15071,Primarily online,True
-9c422f7c3d65046a2ba917ef32bacb7f80630270,North Seattle College,47%,53%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,423,B+,n/a,n/a,Washington,2.0,2913,Primarily online,True
-d71b8281f6b0430734de67577c07136d3c7f3864,Fordham University,57%,43%,6%,44%,31%,2%,17%,8%,24%,35%,16%,2%,1%,13%,424,B+,n/a,n/a,New York,30.0,9392,Hybrid,True
-43b5c7016624e9be2cdf42c8b53edeaac882586a,St. Joseph's College - New York,68%,32%,50%,33%,nan,nan,17%,6%,24%,12%,18%,nan,12%,29%,425,B+,n/a,n/a,n/a,n/a,937,n/a,False
-521916eb55d990a47ffca7736656546314fb4c20,Hanover College,55%,45%,33%,44%,11%,nan,11%,nan,19%,45%,10%,nan,3%,23%,426,B+,n/a,n/a,Indiana,nan,1099,n/a,False
-3dfe18a5b949ddd15fc9f8c97ef2a692af407976,Otterbein University,62%,38%,40%,13%,13%,7%,27%,16%,42%,11%,3%,nan,nan,29%,427,B+,n/a,n/a,Ohio,17.0,2361,Primarily online,True
-3266be24e6519bc6bf097d6328eda3e76875c1df,Clarkson University,31%,69%,37%,16%,26%,nan,21%,3%,14%,20%,23%,nan,3%,37%,428,B+,n/a,n/a,New York,3.0,2983,Hybrid,True
-9a4fc456b01616ed26c33274f9c9e80e61226ce7,University of Baltimore,58%,42%,8%,77%,nan,8%,8%,3%,40%,27%,3%,3%,nan,23%,429,B+,n/a,n/a,Maryland,nan,2486,Fully online,True
-5cdce0128daaced161e1342c24b8bcc640d9a5d6,Carthage College,56%,44%,15%,32%,24%,nan,29%,5%,23%,29%,17%,2%,nan,25%,430,B+,n/a,n/a,Wisconsin,37.0,2751,Primarily in person,True
-2173e90b60cb97752451b0462dcd8cc349307d1e,William Paterson University of New Jersey,55%,45%,4%,62%,8%,nan,27%,10%,29%,25%,4%,2%,nan,31%,431,B+,n/a,n/a,n/a,n/a,8643,Primarily in person,False
-85085e2b7f4e38483d79b3f8e931f0457b96f70b,California Institute of Technology,45%,55%,nan,nan,nan,nan,nan,25%,25%,13%,nan,13%,nan,25%,432,B+,n/a,n/a,California,25.0,948,Fully online,True
-55cda44387bcf6a05e35b5d642790e02d5f4e749,Alfred University,49%,51%,8%,31%,23%,15%,23%,10%,37%,23%,7%,nan,nan,23%,433,B+,n/a,n/a,New York,1.0,1591,Primarily in person,True
-e6bf61e107b815db826f518be6ff028306d8fff7,Louisiana Tech University,45%,55%,31%,9%,29%,nan,31%,nan,3%,22%,27%,10%,nan,37%,434,B+,n/a,n/a,Louisiana,373.0,8192,Primarily in person,True
-fe6071dc91743dcacbf93403c4f35c96dcc205ec,Wofford College,53%,47%,50%,17%,8%,nan,25%,nan,5%,20%,50%,10%,nan,15%,435,B+,n/a,n/a,South Carolina,69.0,1659,Primarily in person,True
-b2004fcc8e8f0c7d474b6f728fd38861ef46c18b,Peru State College,58%,42%,44%,11%,22%,nan,22%,7%,7%,20%,20%,7%,nan,40%,436,B+,n/a,n/a,Nebraska,70.0,1324,Primarily in person,True
-133bafe855c268cd99e97cc9a88d939dbf035dce,University of Northern Colorado,64%,36%,16%,44%,21%,3%,16%,2%,23%,28%,7%,2%,nan,38%,437,B+,n/a,n/a,Colorado,48.0,8903,Hybrid,True
-4be18c67db2639d21c1f959b9a7e871d1df8dbb3,University of San Francisco,63%,37%,5%,53%,12%,7%,24%,29%,38%,18%,3%,1%,1%,10%,438,B+,n/a,n/a,California,9.0,6661,Fully online,True
-0e94a9ff301ff625b68797ff301e5bfa95591127,Trine University,32%,68%,24%,10%,10%,5%,52%,6%,9%,16%,28%,6%,nan,34%,439,B+,n/a,n/a,Indiana,81.0,2059,Primarily in person,True
-e9ff895800a3a7998dd5b6b2ba047b855b79445f,Keiser University - Fort Lauderdale,67%,33%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,440,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-20e6df0ffb614319d990e60ac8014425d191292d,Knox College,56%,44%,7%,53%,20%,nan,20%,50%,41%,5%,nan,nan,nan,5%,441,B+,n/a,n/a,Illinois,22.0,1318,n/a,False
-1f41b91273d1316bf98fe6f80d3fafa28ea78f48,Princeton University,49%,51%,20%,40%,10%,10%,20%,14%,41%,27%,9%,nan,5%,5%,442,B+,n/a,n/a,New Jersey,50.0,5301,Fully online,True
-fc94f06b1ba80cab22710e575043726b95af4651,Kansas City Art Institute,71%,29%,nan,17%,17%,nan,67%,25%,19%,6%,6%,6%,nan,38%,443,B+,n/a,n/a,Missouri,5.0,665,n/a,False
-f16253dd4b660ddb0ec10f599b8942fd670aa4f0,Grand View University,55%,45%,nan,36%,36%,9%,18%,12%,18%,29%,18%,nan,nan,24%,444,B+,n/a,n/a,n/a,n/a,1731,Primarily in person,False
-71365a0c1a8713523b3ccf82a0dd5abd9d57caa4,Loyola Marymount University,56%,44%,15%,45%,11%,2%,26%,6%,31%,21%,16%,nan,1%,24%,445,B+,n/a,n/a,California,1.0,6557,Primarily online,True
-1856f1bde653d11bc0eb52f60533aff30614bec0,Lafayette College,52%,48%,44%,19%,25%,nan,13%,4%,37%,37%,6%,2%,nan,14%,446,B+,n/a,n/a,Pennsylvania,8.0,2616,Fully online,True
-2968d2110785be453e1ef499dbb87f1eac5c9049,University of Tennessee - Chattanooga,57%,43%,38%,18%,18%,5%,23%,nan,19%,28%,12%,5%,nan,37%,447,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-837b1a00bb22a89d97f6b11794b7aff334126e06,University of Texas - El Paso,52%,48%,7%,51%,20%,2%,20%,6%,28%,24%,5%,1%,3%,34%,448,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-a4e4780f4c9c5cb1d423f7f2d2b416f83c72f880,Eastern Michigan University,60%,40%,14%,42%,13%,4%,26%,11%,23%,27%,2%,nan,2%,34%,449,B+,n/a,n/a,Michigan,101.0,15325,Primarily online,True
-422391daa3fe4776ca34e5d367abde5dd8d2233f,Austin Peay State University,60%,40%,24%,27%,12%,10%,27%,4%,8%,27%,7%,3%,nan,51%,450,B+,n/a,n/a,Tennessee,136.0,9064,Hybrid,True
-af674d9d111b048c0b50cfe4e4b9d821773f0df3,CUNY John Jay College of Criminal Justice,60%,40%,8%,57%,9%,nan,26%,13%,30%,18%,4%,1%,nan,33%,451,B+,n/a,n/a,New York,6.0,12852,n/a,False
-4cf2ed0013b9d2008ab3f4e1d7aaf8d263d8e560,Bentley University,40%,60%,32%,21%,32%,nan,16%,nan,7%,14%,51%,7%,2%,19%,452,B+,n/a,n/a,Massachusetts,6.0,4177,Primarily online,True
-787edcece44ecdc2c6b876cc5459523069088b44,Buena Vista University,64%,36%,nan,29%,29%,nan,43%,nan,25%,25%,13%,nan,6%,31%,453,B+,n/a,n/a,Iowa,43.0,1546,Fully in person,True
-e11f4c1bf3d3faed83fe24217c5ea59f20f00780,Roanoke College,58%,42%,30%,40%,15%,5%,10%,3%,31%,17%,25%,3%,3%,19%,454,B+,n/a,n/a,Virginia,67.0,1981,Hybrid,True
-4218fefb217b093c19eb57724558ac853756ff5b,King's College - Pennsylvania,46%,54%,17%,50%,17%,nan,17%,nan,17%,22%,6%,nan,nan,56%,455,B+,n/a,n/a,n/a,n/a,n/a,n/a,False
-d7d98323396420d933985bf5bdf51569b3e046ef,Creighton University,57%,43%,29%,39%,23%,3%,6%,nan,12%,32%,32%,10%,2%,13%,456,B+,n/a,n/a,Nebraska,242.0,4405,Primarily in person,True
-e36195d17cae3260530a67fd92112021212278cf,Iona College,50%,50%,5%,40%,25%,nan,30%,5%,10%,36%,17%,5%,nan,29%,457,B+,n/a,n/a,New York,14.0,3005,Primarily online,True
-839b7dd67929c8fc1ff7b6380eb8a8b0962eca7e,Miles College,52%,48%,nan,64%,9%,nan,27%,nan,6%,25%,6%,6%,nan,56%,458,B+,n/a,n/a,Alabama,nan,1546,Primarily in person,True
-4b441747ed4a9ae58c13bd799b57996a6b0f3f0b,Carleton College,50%,50%,13%,50%,13%,6%,19%,49%,51%,nan,nan,nan,nan,nan,459,B+,n/a,n/a,Minnesota,14.0,2046,Hybrid,True
-2494c88d8ab0c9b9378fe831ff1064e2cea39d26,School of the Art Institute of Chicago,75%,25%,4%,32%,21%,11%,32%,47%,27%,8%,nan,nan,nan,18%,460,B+,n/a,n/a,Illinois,8.0,2893,Fully online,True
-89779d4eea2d5ef5a90bdb7ed245a01504e16a08,Tallahassee Community College,50%,50%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,461,B+,n/a,n/a,Florida,157.0,10711,Hybrid,True
-24f8673f412fae291b1a3dc7dd27639ea6be66dc,Johns Hopkins University,51%,49%,13%,51%,23%,nan,13%,7%,38%,28%,3%,nan,1%,23%,462,B+,n/a,n/a,Maryland,397.0,5567,Fully online,True
-07017784c53a1b9fffd73a65207a83fb12d075d5,Vincennes University,47%,53%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,463,B,n/a,n/a,Indiana,11.0,6282,Other,True
-2adf0b3bb3c4ad2012625f01a6f57c9328fa8995,LeMoyne-Owen College,69%,31%,nan,nan,nan,nan,nan,33%,11%,22%,nan,nan,nan,33%,464,B,n/a,n/a,Tennessee,nan,884,n/a,False
-3c907fba6825a14a1299202704738c6ca384ae48,Long Island University - Brooklyn,70%,30%,nan,56%,10%,3%,31%,8%,25%,22%,6%,nan,1%,38%,465,B,n/a,n/a,n/a,n/a,n/a,n/a,False
-4b36451e16b8e97b36d114732e90df6ffeb6bbf9,American International College,62%,38%,7%,29%,36%,7%,21%,nan,19%,19%,nan,nan,nan,63%,466,B,n/a,n/a,Massachusetts,7.0,1307,Primarily online,True
-47f2efac19286028d3dac12ea74b8096bcd5e8b6,Utica College,57%,43%,21%,17%,13%,nan,50%,3%,22%,16%,nan,nan,3%,57%,467,B,n/a,n/a,New York,16.0,3602,Hybrid,True
-3aa493b6eb13df05f46acbf45f79172cbd41ceb0,Emory University,60%,40%,23%,48%,10%,nan,20%,15%,44%,22%,1%,nan,2%,16%,468,B,n/a,n/a,Georgia,178.0,6975,n/a,False
-599f261114260e516b63e744d5dc71a2f146a05f,University of Mount Union,45%,55%,42%,26%,5%,5%,21%,7%,29%,31%,10%,nan,nan,22%,469,B,n/a,n/a,Ohio,37.0,2155,Hybrid,True
-9bf0c864cdd7eeb851249ade399599a193cb257e,American University,62%,38%,12%,59%,19%,1%,9%,45%,41%,6%,nan,nan,nan,8%,470,B,n/a,n/a,Washington D.C.,26.0,7485,Fully online,True
-72eb692b5a12b76964177b416d4ec2df62f5f259,Christian Brothers University,51%,49%,10%,nan,30%,nan,60%,5%,5%,24%,10%,nan,nan,57%,471,B,n/a,n/a,Tennessee,33.0,1535,Primarily in person,True
-35caaeb627888f9d8cd16176fe5aeeac42bdf743,Kalamazoo College,58%,42%,17%,42%,17%,8%,17%,52%,38%,5%,nan,nan,nan,5%,472,B,n/a,n/a,Michigan,10.0,1446,Fully online,True
-b6a7f6124558906a5b26537a69144c0d3ba1aad9,University of Hawaii at Manoa,57%,43%,8%,30%,13%,nan,48%,5%,30%,17%,4%,nan,1%,43%,473,B,n/a,n/a,Hawaii,22.0,12609,n/a,False
-ac86027e0f145fc26d6e5395c8000d490afcba90,University of West Florida,55%,45%,27%,22%,28%,5%,18%,5%,5%,30%,9%,2%,1%,49%,474,B,n/a,n/a,Florida,131.0,n/a,Hybrid,False
-53b019fdf2832e5e152a50fb3b050dab4690c940,University of New Mexico,56%,44%,32%,31%,14%,1%,23%,9%,35%,20%,4%,1%,1%,31%,475,B,n/a,n/a,New Mexico,49.0,n/a,Hybrid,False
-c317a21681674cb6f80f3caa583789d8f199e40e,Drury University,58%,42%,21%,32%,21%,11%,16%,15%,27%,27%,3%,nan,nan,27%,476,B,n/a,n/a,Missouri,88.0,1486,Fully in person,True
-f8499d3f94f5bc727a9751103f6f963a95c7803d,Macalester College,59%,41%,nan,80%,nan,nan,20%,82%,18%,nan,nan,nan,nan,nan,477,B,n/a,n/a,Minnesota,8.0,2160,Primarily online,True
-34baaba3fd9c1ca5c9b35afe986e3ef454fb73bb,Stillman College,54%,46%,nan,50%,25%,nan,25%,nan,20%,30%,10%,10%,nan,30%,478,B,n/a,n/a,n/a,n/a,689,n/a,False
-5898b3401b9c9f087be8381abe80bcc1cb52052a,Saint Michael's College,55%,45%,19%,31%,44%,nan,6%,19%,44%,15%,nan,nan,nan,22%,479,B,n/a,n/a,Vermont,1.0,1655,Primarily in person,True
-2690c635727560c113e5f1e8166b1c0c9348c970,Point Park University,61%,39%,14%,49%,20%,3%,14%,18%,36%,13%,2%,nan,3%,28%,480,B,n/a,n/a,Pennsylvania,13.0,3170,Hybrid,True
-f26f62ffbced7eb55a727a16b16cee24e207e37b,Saint Joseph's University,54%,46%,26%,23%,29%,nan,23%,4%,12%,33%,25%,7%,nan,19%,481,B,n/a,n/a,Pennsylvania,224.0,4814,n/a,False
-de09a02714c4a9adbaf624699be7ba8dc7e62420,University of Redlands,59%,41%,16%,48%,12%,8%,16%,10%,46%,23%,5%,3%,nan,13%,482,B,n/a,n/a,California,6.0,2945,Fully online,True
-8278bb0fa5a0ed1073ec7e9b5f2aad3343987471,Millikin University,57%,43%,44%,nan,11%,nan,44%,9%,30%,15%,nan,3%,nan,42%,483,B,n/a,n/a,Illinois,45.0,1918,Hybrid,True
-8c5c7af9e8c7be01e675cb8cb2250b23dd985aa7,Nicholls State University,63%,37%,7%,33%,27%,nan,33%,nan,10%,21%,10%,3%,nan,55%,484,B,n/a,n/a,Louisiana,133.0,5543,Primarily online,True
-703e3a6fe55cc6604f52b8db80e2d5e432a8fe7c,Michigan Technological University,27%,73%,23%,14%,40%,nan,23%,2%,8%,23%,27%,2%,2%,37%,485,B,n/a,n/a,Michigan,189.0,5736,Primarily in person,True
-21622fb6b9b38ceeaa439f4c3d6568663a652a19,Salve Regina University,67%,33%,5%,25%,30%,5%,35%,2%,17%,22%,22%,2%,nan,34%,486,B,n/a,n/a,Rhode Island,2.0,1996,Primarily in person,True
-22bcdd717265d97ff12b88090483be0535a1e356,New York Film Academy - Los Angeles,44%,56%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,487,B,n/a,n/a,n/a,n/a,n/a,n/a,False
-fb2ced99337c71e6ce3c1ec2ead1acb329422663,Le Moyne College,57%,43%,28%,28%,17%,6%,22%,4%,14%,29%,14%,4%,nan,36%,488,B,n/a,n/a,New York,14.0,2607,Primarily in person,True
-9db8843ad8764454230d15efd33092ebad35c229,Emerson College,60%,40%,nan,39%,39%,nan,21%,59%,34%,3%,nan,nan,nan,3%,489,B,n/a,n/a,Massachusetts,16.0,3817,Hybrid,True
-e819ee07b3d001a98da57d56e1c1137419d30c8f,Texas A&M University - Corpus Christi,59%,41%,21%,28%,17%,4%,31%,2%,10%,26%,9%,3%,5%,46%,490,B,n/a,n/a,Texas,107.0,9672,n/a,False
-c17ab9081c108c5964cc54112e39d4d1f3ce45ec,Franklin College,51%,49%,35%,30%,5%,nan,30%,11%,21%,14%,11%,nan,nan,43%,491,B,n/a,n/a,Indiana,4.0,925,n/a,False
-b38d5aae926b253177fc3c97cfedd29974a46f3d,Kenyon College,55%,45%,nan,64%,18%,9%,9%,19%,75%,6%,nan,nan,nan,nan,492,B,n/a,n/a,Ohio,2.0,1719,Primarily online,True
-8112745f2667618278502aabb0b444a4010721be,University of Lynchburg,60%,40%,25%,15%,20%,nan,40%,6%,23%,26%,6%,nan,3%,37%,493,B,n/a,n/a,Virginia,104.0,1986,Fully online,True
-acf61ce478f5ff6de2e2909f62ccf0eb8be9df78,Illinois College,51%,49%,31%,31%,8%,nan,31%,5%,32%,5%,5%,nan,nan,53%,494,B,n/a,n/a,Illinois,6.0,971,n/a,False
-8a5000e70cf9cf2e8761cf321b223f99124224cf,Rensselaer Polytechnic Institute,32%,68%,14%,46%,11%,4%,25%,4%,20%,36%,nan,2%,2%,38%,495,B,n/a,n/a,New York,5.0,6590,Primarily online,True
-6d264e59522c1cb1cc45880ab790912b025fb8b1,Bowdoin College,51%,49%,11%,72%,11%,nan,6%,24%,60%,14%,nan,nan,nan,2%,496,B,n/a,n/a,Maine,3.0,1825,Primarily online,True
-0569d7f8cce221e8a768ae638193415041a03604,Morris College,60%,40%,13%,63%,13%,nan,13%,8%,nan,38%,nan,8%,nan,46%,497,B,n/a,n/a,n/a,n/a,649,n/a,False
-00124bfda8cdc998f586f8e8bee56f8de5ec7cec,National Louis University,69%,31%,nan,50%,13%,nan,38%,14%,21%,21%,nan,nan,nan,43%,498,B,n/a,n/a,n/a,n/a,2960,n/a,False
-450a3fbf06c7852c91d6a30bfd4a6343a45e83c6,Hobart and William Smith Colleges,52%,48%,18%,47%,6%,6%,24%,5%,29%,34%,21%,nan,nan,11%,499,B,n/a,n/a,n/a,n/a,n/a,Hybrid,False
-2464d23313f96fd65ed5771be60552ef0b7b2daf,Franklin & Marshall College,55%,45%,20%,60%,10%,10%,nan,5%,43%,29%,10%,nan,2%,12%,500,B,n/a,n/a,Pennsylvania,13.0,2298,Hybrid,True
-c1aec65ec41a28fed095256f94334348f5c9241b,Jarvis Christian College,54%,46%,nan,57%,14%,nan,29%,10%,10%,30%,10%,nan,nan,40%,501,B,n/a,n/a,n/a,n/a,955,n/a,False
-afb21a4e59b0b4bb78e178b9293079cadddac0e6,Colorado Technical University - Colorado Springs,64%,36%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,502,B,n/a,n/a,n/a,n/a,22243,n/a,False
-a1f5f3f52a4156181cde35f47e7da642dc0f2ea7,Northland College,54%,46%,nan,75%,nan,25%,nan,50%,33%,nan,nan,nan,nan,17%,503,B,n/a,n/a,Wisconsin,0.0,563,n/a,False
-96d35554e4928f10e4c0360f9f1dc20a955f17f3,Coppin State University,76%,24%,nan,70%,nan,nan,30%,3%,16%,30%,11%,nan,nan,41%,504,B,n/a,n/a,Maryland,8.0,2326,Hybrid,True
-ebb62bdbf7b25598382eb93844dc0c8358552eec,SUNY Delhi,49%,51%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,505,B,n/a,n/a,New York,5.0,n/a,n/a,False
-b9a57424dab6cd284abbf8fd35519863d1d56d97,Fitchburg State University,52%,48%,18%,41%,18%,nan,23%,12%,28%,12%,nan,2%,nan,47%,506,B,n/a,n/a,Massachusetts,4.0,4070,Primarily in person,True
-cb83406c2b567ed97ff1280c5658b91e4ead914b,Shenandoah University,60%,40%,46%,12%,23%,nan,19%,7%,22%,27%,17%,nan,nan,28%,507,B,n/a,n/a,Virginia,28.0,2022,Hybrid,True
-de6a2e566f82c522f1306696e96d562ce91337f9,Bryant University,38%,62%,11%,36%,29%,7%,18%,6%,9%,16%,39%,3%,2%,25%,508,B,n/a,n/a,Rhode Island,28.0,3471,Primarily in person,True
-f09f603cf9d090a844e6dd11d75f92459fed7f0a,Seton Hall University,54%,46%,22%,30%,17%,2%,29%,2%,10%,31%,14%,6%,1%,36%,509,B,n/a,n/a,New Jersey,14.0,5919,Hybrid,True
-bfb4884722937d63a1520bf03a0a805e8a3c6cc3,Saint Mary's College - Indiana,100%,0%,17%,29%,33%,nan,21%,3%,8%,19%,42%,6%,3%,19%,510,B,n/a,n/a,n/a,n/a,n/a,n/a,False
-3c91e0877e7d873b0491820082cfc48ee44d1584,California University of Pennsylvania,53%,47%,36%,24%,14%,2%,24%,1%,6%,24%,4%,1%,nan,64%,511,B,n/a,n/a,Pennsylvania,7.0,5063,Fully online,True
-bf1c9ce50e9e009aa8da3bfa740c4a3ffe509861,Hamilton College,53%,47%,7%,33%,27%,7%,27%,17%,47%,30%,3%,nan,nan,3%,512,B,n/a,n/a,New York,1.0,1989,n/a,False
-a05f17242fe944c4fe17a1d913834bc4279ff7b9,Metropolitan College of New York,73%,27%,nan,100%,nan,nan,nan,18%,9%,18%,nan,nan,nan,55%,513,B,n/a,n/a,n/a,n/a,697,n/a,False
-ae42a1a2b0d29238a3d330587ef778b2c2b2f8d0,Lycoming College,53%,47%,18%,35%,18%,nan,29%,7%,25%,32%,11%,nan,nan,25%,514,B,n/a,n/a,Pennsylvania,5.0,1131,n/a,False
-52766dcb341d25bfdead6c9f948242a0919fbcd0,The College of St. Scholastica,69%,31%,14%,57%,7%,nan,21%,4%,32%,25%,11%,4%,nan,25%,515,B,n/a,n/a,n/a,n/a,n/a,n/a,False
-f0a235680f09e616dbc3c6fb45681aefdefcb38d,Monmouth College,49%,51%,nan,44%,22%,11%,22%,4%,22%,26%,15%,nan,4%,30%,516,B,n/a,n/a,Illinois,26.0,901,n/a,False
-2efe496e2fe393fd1998735391671c37f5602cf7,University of Dallas,53%,47%,54%,nan,38%,nan,8%,nan,5%,nan,27%,55%,nan,14%,517,B,n/a,n/a,Texas,8.0,1467,Hybrid,True
-a00f97be236b68a57b23c8c459c1ef8e7cced4ea,CUNY Medgar Evers College,70%,30%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,518,B,n/a,n/a,New York,2.0,5919,n/a,False
-dbde2c4b4ed72590b914ef48987ec362c2175ced,Murray State University,59%,41%,28%,28%,13%,6%,25%,3%,18%,27%,14%,3%,nan,35%,519,B,n/a,n/a,Kentucky,181.0,6830,Primarily in person,True
-384e706225ae26567cbcd6528b631a0462844235,Penn State Altoona,45%,55%,32%,39%,4%,4%,21%,4%,9%,31%,7%,4%,nan,44%,520,B,n/a,n/a,n/a,n/a,n/a,n/a,False
-7b35441c0dac91cccc04b86d8947a139f7c708e7,Nebraska Wesleyan University,58%,42%,23%,38%,15%,nan,23%,4%,17%,35%,9%,4%,nan,30%,521,B,n/a,n/a,Nebraska,160.0,1839,Primarily in person,True
-2e85515756e0b61512829f4d13cc800b6aca3f82,SUNY Brockport,56%,44%,14%,29%,20%,11%,26%,10%,19%,22%,3%,nan,nan,45%,522,B,n/a,n/a,New York,10.0,n/a,n/a,False
-d3c9056b893b454f0826d17b9535a71981d3e52a,Carnegie Mellon University,49%,51%,21%,38%,24%,nan,17%,8%,36%,32%,3%,nan,2%,18%,523,B,n/a,n/a,Pennsylvania,57.0,6483,Primarily online,True
-aa78a59eee8eaaf229c5318595e0825f36c27934,Suffolk University,55%,45%,3%,38%,19%,3%,38%,8%,38%,16%,2%,nan,2%,35%,524,B,n/a,n/a,Massachusetts,19.0,5012,Primarily online,True
-c30bb2786febec2c95d6d22edd61b7f35072f637,University of Illinois at Chicago,52%,48%,8%,50%,16%,nan,26%,14%,33%,17%,2%,nan,1%,32%,525,B,n/a,n/a,Illinois,171.0,20435,Primarily online,True
-152dadb78af482ccfb81fee70e3f944ab86f87e9,Strayer University - Virginia,42%,58%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,526,B,n/a,n/a,n/a,n/a,4111,n/a,False
-e4c19864c6b091b9f9fc28519d02b33d2095a58f,Western New England University,37%,63%,13%,35%,17%,nan,35%,5%,5%,23%,7%,nan,nan,60%,527,B,n/a,n/a,Massachusetts,4.0,2746,Primarily in person,True
-41c9648018c5c87782f354180c12c3d426f0cc6e,Saint John's University - Minnesota,0%,100%,8%,67%,17%,nan,8%,8%,24%,28%,16%,nan,nan,24%,528,B,n/a,n/a,n/a,n/a,n/a,n/a,False
-11abe79ac64fcbc861b76df69e2e6b72b2637df7,Rust College,60%,40%,25%,25%,25%,nan,25%,8%,8%,8%,31%,nan,nan,46%,529,B,n/a,n/a,Mississippi,1.0,846,n/a,False
-bb7fe3f9ee45f0e0999db83b33a9471a4482f088,Purdue University Global - Davenport Campus,71%,29%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,530,B,n/a,n/a,n/a,n/a,n/a,n/a,False
-4bc439d53a3ff713b095e987c3ac1d8b59888417,College of Saint Benedict,100%,0%,13%,44%,13%,6%,25%,nan,26%,29%,11%,3%,nan,32%,531,B,n/a,n/a,Minnesota,nan,1782,Hybrid,True
-45208b79b16a617a63494bdf7abfffab8619d74d,Kean University,60%,40%,6%,39%,6%,nan,49%,6%,21%,16%,6%,1%,nan,49%,532,B,n/a,n/a,New Jersey,7.0,11679,Primarily online,True
-cb648f3ce9b71eb8a6e63db338004bae5ceb12f8,Allegheny College,55%,45%,18%,76%,nan,nan,6%,18%,59%,13%,2%,nan,nan,9%,533,B,n/a,n/a,Pennsylvania,29.0,1735,Fully in person,True
-64ba2b011c6ad69f6bc4e810600c1b77272539a6,Davidson College,48%,52%,13%,25%,13%,25%,25%,8%,16%,52%,12%,nan,4%,8%,534,B,n/a,n/a,North Carolina,24.0,1839,Hybrid,True
-254083e21758ab5e30400b94746577524f53b17f,University of Massachusetts - Dartmouth,48%,52%,7%,34%,24%,5%,29%,7%,27%,20%,3%,nan,2%,42%,535,B,n/a,n/a,n/a,n/a,6649,n/a,False
-51255e30df60d3f2fcd2c0e4e0171e83f1929002,New Jersey Institute of Technology,24%,76%,4%,44%,18%,nan,33%,4%,22%,24%,nan,nan,nan,50%,536,B,n/a,n/a,New Jersey,9.0,7820,Hybrid,True
-f27850abe1332fdb7f3503048f781c0ca0624869,Cleveland State University,52%,48%,14%,33%,22%,5%,26%,8%,25%,18%,2%,1%,2%,46%,537,B,n/a,n/a,Ohio,1.0,11603,Primarily online,True
-346812fed5f86807ccbe885a9905ddb6c14e2bd9,Mercer University,60%,40%,19%,26%,32%,4%,19%,nan,20%,28%,20%,1%,1%,29%,538,B,n/a,n/a,Georgia,259.0,4765,Fully in person,True
-f4d2d62f178e64cc8e134d1b566fa0f0e3d8c35f,Chicago State University,66%,34%,6%,71%,12%,nan,12%,12%,28%,19%,5%,2%,nan,35%,539,B,n/a,n/a,Illinois,17.0,2024,Primarily online,True
-1785ad6ceacf64c9f6ed8d7d1261e43c51bed23d,Roosevelt University,66%,34%,4%,60%,16%,8%,12%,24%,40%,14%,7%,nan,nan,16%,540,B,n/a,n/a,n/a,n/a,2377,Primarily online,False
-f75e4710ea683fe42b3e86d39a9d5f6867da0be6,University of New Haven,54%,46%,9%,33%,15%,2%,40%,7%,19%,19%,4%,1%,nan,50%,541,B,n/a,n/a,Connecticut,5.0,5041,Primarily in person,True
-fb2ff4b8f44d9b42127ba824a18149257490d93c,University of Portland,60%,40%,9%,48%,4%,4%,35%,7%,33%,26%,9%,nan,nan,24%,542,B,n/a,n/a,Oregon,nan,3757,Fully online,True
-cd460bf00e4fce92a21e0670a77d2b45ef6b4bf3,Bates College,50%,50%,14%,50%,29%,nan,7%,15%,54%,31%,nan,nan,nan,nan,543,B,n/a,n/a,Maine,4.0,1832,Primarily in person,True
-9cff179a1c168ab53c7574ed709bec13b29b5c33,Lamar University,56%,44%,32%,22%,16%,4%,26%,6%,13%,26%,8%,5%,1%,42%,544,B,n/a,n/a,Texas,163.0,8623,Primarily in person,True
-7e53226a35a86ff6893e66601acb350f9879ffec,Oglethorpe University,58%,42%,16%,37%,26%,nan,21%,9%,44%,21%,3%,nan,nan,24%,545,B,n/a,n/a,Georgia,3.0,1241,n/a,False
-e1de162dcd54cb7544813c4444fdc8df32f1c33f,Henderson State University,56%,44%,23%,18%,36%,nan,23%,nan,27%,24%,7%,2%,nan,39%,546,B,n/a,n/a,Arkansas,88.0,2996,Primarily online,True
-ba12f478525f0959a9241cb1b1eed5e633151715,Stetson University,56%,44%,20%,40%,22%,2%,16%,6%,24%,31%,11%,nan,nan,27%,547,B,n/a,n/a,Florida,98.0,3124,Hybrid,True
-aa1904ad29a6c47dc6d8d05afac69c02ecfed038,Scripps College,100%,0%,nan,63%,13%,13%,13%,42%,42%,13%,nan,nan,4%,nan,548,B,n/a,n/a,California,4.0,1048,n/a,False
-376df3b7ebc481c5d6b3ca7a90d5eaf38b4f21d9,Southern Illinois University Edwardsville,52%,48%,22%,27%,9%,4%,38%,5%,17%,27%,3%,nan,1%,47%,549,B,n/a,n/a,Illinois,120.0,n/a,n/a,False
-945335c4e27d984584c21302e7362cde97376d5c,University of Texas - Health Science Center at San Antonio,70%,30%,25%,nan,25%,nan,50%,nan,nan,33%,11%,nan,nan,56%,550,B,n/a,n/a,n/a,n/a,n/a,n/a,False
-afbecab9d1c38469c97908d5cdb6b05f2b3a7ad4,Spalding University,69%,31%,17%,25%,25%,nan,33%,11%,7%,26%,nan,nan,nan,56%,551,B,n/a,n/a,Kentucky,6.0,955,Hybrid,True
-e85fea1719ac44caef7a15e513751630357dbc92,Culver-Stockton College,48%,52%,9%,27%,18%,nan,45%,nan,6%,6%,13%,6%,6%,63%,552,B,n/a,n/a,n/a,n/a,975,n/a,False
-3f7df02577c5e640c1b860c8e4264a5703a799e6,Pennsylvania College of Technology,32%,68%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,553,B,n/a,n/a,Pennsylvania,58.0,5289,Primarily in person,True
-310fc322671655c703ca87dba676ee5931a80fe7,Seattle University,61%,39%,4%,54%,27%,nan,15%,34%,42%,12%,4%,nan,nan,8%,554,B,n/a,n/a,Washington,6.0,4674,Primarily online,True
-189bbe4181fa89049e832c60e19811b5f60db1a4,Metropolitan State University of Denver,53%,47%,19%,31%,26%,3%,21%,8%,33%,25%,1%,nan,2%,30%,555,B,n/a,n/a,Colorado,27.0,18809,Hybrid,True
-92809b7035cdaeadafeb324e0adbbb5b474ba5c4,Morehead State University,60%,40%,19%,47%,13%,3%,19%,2%,21%,38%,9%,nan,nan,31%,556,B,n/a,n/a,Kentucky,78.0,6253,Hybrid,True
-64b464cfc93ff71e5264f6360368987425860490,Middlebury College,53%,47%,8%,54%,31%,8%,nan,16%,76%,5%,nan,nan,nan,3%,557,B,n/a,n/a,Vermont,4.0,2550,Hybrid,True
-5b0167ace17746975fc2b40ecd1866ff50d80a29,Grinnell College,55%,45%,nan,64%,18%,nan,18%,76%,21%,nan,nan,nan,nan,3%,558,B,n/a,n/a,Iowa,4.0,1683,Fully online,True
-7ddd8308a81b0b2609f2378fd16295b1716c9692,Columbus State University,60%,40%,36%,25%,8%,3%,28%,4%,13%,30%,4%,1%,nan,46%,559,B,n/a,n/a,Georgia,62.0,6266,Primarily in person,True
-2ceaa2cdba68f564d8eb959892a26eb1f3c43782,Dixie State University,57%,43%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,560,B,n/a,n/a,Utah,110.0,7627,Primarily in person,True
-1da1e5c453e243899542523972d7e048dbf73ae1,University of Wisconsin - River Falls,63%,37%,24%,29%,12%,6%,29%,3%,14%,28%,17%,nan,nan,39%,561,B,n/a,n/a,Wisconsin,184.0,5570,n/a,False
-36b9c8133420b67b1da91e015e4abe3929ca33e6,Tougaloo College,68%,32%,nan,56%,11%,nan,33%,18%,24%,nan,6%,6%,nan,47%,562,B,n/a,n/a,n/a,n/a,719,n/a,False
-704a12982188971410c7c158d1492e2b5f5368ba,Lawrence University,54%,46%,14%,29%,33%,nan,24%,29%,60%,2%,nan,nan,nan,10%,563,B,n/a,n/a,Wisconsin,13.0,1431,Hybrid,True
-da76d9dc236f8078b8f3b9d737c5428eaa0336ac,Trinity University - Texas,53%,47%,19%,29%,48%,nan,5%,14%,44%,28%,2%,5%,nan,7%,564,B,n/a,n/a,n/a,n/a,n/a,n/a,False
-41afc6a47dfb925c1b2cb9f90d19a5947642ef42,Albion College,54%,46%,26%,30%,4%,nan,39%,11%,32%,11%,14%,4%,nan,29%,565,B,n/a,n/a,Michigan,14.0,1512,Fully in person,True
-15e91475a5f80e9607bc3f3028211a0f32e1f70e,Adrian College,47%,53%,24%,29%,nan,nan,48%,6%,8%,22%,6%,nan,nan,58%,566,B,n/a,n/a,Michigan,253.0,1781,Primarily in person,True
-ceb20cd908d1c10c68380c10f7b1a113e497f3fb,Reed College,54%,46%,nan,38%,25%,25%,13%,78%,11%,nan,nan,nan,nan,11%,567,B,n/a,n/a,Oregon,12.0,1456,Hybrid,True
-da48d4039bacb98b59707edbcff90e78b38c707a,Lock Haven University,56%,44%,34%,28%,22%,nan,16%,2%,20%,27%,4%,2%,nan,45%,568,B,n/a,n/a,Pennsylvania,61.0,3020,Primarily online,True
-d7506a2ba878c49c431b39d3df9e8419c741301b,New College of Florida,62%,38%,nan,54%,31%,15%,nan,73%,18%,3%,nan,3%,3%,nan,569,B,n/a,n/a,Florida,2.0,808,n/a,False
-de77575969c87a5ae417be10cdaeed125954950f,George Mason University,50%,50%,10%,36%,29%,4%,22%,10%,35%,23%,1%,0%,1%,29%,570,B,n/a,n/a,Virginia,72.0,25508,Hybrid,True
-0b648404082b4c8e31f5341dadf6d9d4b553f79f,Angelo State University,56%,44%,30%,14%,8%,nan,48%,1%,8%,23%,27%,3%,1%,36%,571,B,n/a,n/a,Texas,127.0,5892,Hybrid,True
-0c213bf60a9e5c386ddd5a4665d957e1b9114485,Truman State University,59%,41%,11%,32%,29%,nan,29%,13%,41%,18%,5%,nan,nan,23%,572,B,n/a,n/a,Missouri,96.0,4906,Hybrid,True
-27e037c2e8afca26e3f4b41b8c9ee8b811fd2490,Muskingum University,52%,48%,17%,nan,33%,nan,50%,nan,nan,33%,33%,nan,nan,33%,573,B,n/a,n/a,Ohio,0.0,1544,Fully in person,True
-a664a124173130ce012ca7d8bb4a1c36b59098cd,Bemidji State University,53%,47%,13%,25%,6%,13%,44%,nan,13%,19%,9%,nan,nan,59%,574,B,n/a,n/a,Minnesota,82.0,4308,Primarily online,True
-e02279ca5d574f612819d4919993efe06676dccf,Elizabeth City State University,56%,44%,8%,31%,31%,8%,23%,6%,20%,20%,14%,nan,nan,40%,575,B,n/a,n/a,North Carolina,27.0,1553,Hybrid,True
-9b93ac38f534fe8ec904507a12c5192582557ef2,The Los Angeles Film School,27%,73%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,157,A,n/a,n/a,n/a,n/a,n/a,n/a,False
+54b02902147a41d613ba299712d27b49d8c62119,University of Wisconsin,52%,48%,16%,48%,22%,nan,13%,22%,52%,13%,3%,nan,2%,8%,1,A+,n/a,4,n/a,n/a,n/a,n/a,False,
+d0d9be7207df7eddb0aabc88aaf34abcd5f2dc8c,Tulane University,59%,41%,16%,43%,27%,6%,8%,11%,46%,25%,nan,nan,1%,16%,2,A+,1,1,n/a,n/a,n/a,Primarily in person,False,
+144d941e3d68effccc71509edbc2a2783a5e2e84,Florida State University,58%,42%,27%,31%,24%,4%,15%,5%,23%,34%,4%,1%,1%,32%,3,A+,9,9,Florida,1656.0,32072,Primarily online,True,
+564d8da9022e216289fd495535e459e704cac8dc,Howard University,70%,30%,3%,64%,17%,2%,15%,21%,39%,17%,2%,nan,1%,21%,4,A+,n/a,5,Washington D.C.,15.0,6166,Fully online,True,
+18ffdf57076ad58ffdfde4196b5a8e69655a78b1,University of Illinois at Urbana-Champaign,46%,54%,13%,51%,13%,2%,22%,7%,30%,23%,5%,0%,1%,33%,5,A+,n/a,6,n/a,n/a,32974,Hybrid,False,
+2aa6e56112e1ea1066c9e531ab7436360af4e1c4,University of Georgia,57%,43%,26%,34%,21%,4%,15%,2%,18%,32%,25%,2%,1%,21%,6,A+,3,2,Georgia,3888.0,29474,Primarily in person,True,
+79bab14c37fb7753a11b08e156cf45a3eb59f2a4,Syracuse University,54%,46%,7%,53%,23%,1%,15%,10%,29%,25%,3%,1%,2%,30%,7,A+,17,19,New York,124.0,14759,Hybrid,True,
+f8925888c1916151efec4790be2466e76f206f1b,The University of Alabama,55%,45%,38%,25%,17%,3%,18%,1%,3%,22%,31%,12%,1%,29%,8,A+,n/a,n/a,n/a,n/a,32177,n/a,False,
+07d9b4e08564d89d45bb065e498bd65c882c0507,West Virginia University,48%,52%,24%,29%,25%,6%,15%,2%,18%,30%,7%,1%,1%,40%,9,A+,4,3,West Virginia,638.0,20499,Primarily online,True,
+c1b025abae2f458b0537ec43f4eeaab34e619620,Penn State,47%,53%,24%,36%,19%,1%,19%,6%,20%,29%,5%,1%,1%,38%,10,A+,n/a,15,n/a,n/a,n/a,n/a,False,
+3590a9ffac5c758f57b1e13f3501d6b71da6f8c4,University of Southern California,52%,48%,12%,45%,15%,7%,21%,5%,31%,32%,6%,1%,1%,23%,11,A+,n/a,18,California,459.0,19548,Primarily online,True,
+496db1ba2a1c86f151149193c4af8074804c525d,University of Iowa,54%,46%,21%,48%,12%,3%,17%,18%,42%,19%,2%,nan,nan,19%,12,A+,11,11,Iowa,2109.0,23410,Primarily in person,True,
+eccbd1576fe98527df709e164e6a1af9ffc12631,Ohio University,54%,46%,19%,34%,27%,1%,19%,8%,36%,16%,4%,0%,1%,34%,13,A+,n/a,16,Ohio,173.0,n/a,Primarily online,False,
+642c232800d994f17f3122af3d7fb9244ba34c0a,Indiana University - Bloomington,50%,50%,12%,42%,21%,2%,23%,11%,40%,20%,4%,nan,1%,23%,14,A+,n/a,7,n/a,n/a,32991,n/a,False,
+f2cc36663483964d7f7a6dc2a9e50cb9acfa3cf4,University of California - Santa Barbara,55%,45%,6%,51%,17%,6%,20%,19%,49%,14%,1%,0%,1%,16%,15,A+,n/a,13,n/a,n/a,23063,n/a,False,
+490301fa077db99ddbd327f6eb079f82598ea3e3,Miami University,50%,50%,35%,24%,23%,1%,17%,1%,9%,25%,38%,13%,nan,15%,16,A+,n/a,14,n/a,n/a,n/a,n/a,False,
+1d2b9ce80cddd82dd2b04f18470183c79b804e56,University of Texas - Austin,54%,46%,17%,35%,26%,2%,21%,13%,48%,18%,3%,1%,1%,15%,17,A+,n/a,10,n/a,n/a,n/a,n/a,False,
+a108fb6614336480a70f1f1b935638c7aaa30e60,University of Mississippi,57%,43%,46%,17%,16%,6%,16%,2%,5%,28%,28%,16%,2%,20%,18,A+,18,17,Mississippi,701.0,17784,Hybrid,True,
+7caa7815b02b76b0aa66bc69905c8d5652daeaf9,San Diego State University,55%,45%,17%,37%,22%,4%,20%,11%,33%,25%,2%,nan,0%,28%,19,A+,n/a,25,n/a,n/a,30018,Primarily online,False,
+75575c076e3aff9ad50fcc0b0b42ede2346eb591,Michigan State University,51%,49%,16%,35%,19%,5%,25%,4%,26%,36%,4%,nan,0%,29%,20,A+,24,26,Michigan,1420.0,39208,Fully online,True,
+adf3e0a5b98179aca397e3b704760f5bd47dc24d,Southern Methodist University,49%,51%,51%,18%,5%,3%,23%,1%,7%,12%,39%,32%,3%,7%,21,A+,21,12,Texas,665.0,6448,Hybrid,True,
+89e41a54e6689149a2bf647d21e37c87af22f3fa,University of Delaware,58%,42%,15%,48%,17%,1%,18%,6%,22%,32%,6%,nan,1%,33%,22,A+,2,35,Delaware,388.0,19060,Primarily online,True,
+19179a9827841888d537a705ac7c6854d39fd304,Vanderbilt University,51%,49%,22%,40%,16%,9%,13%,5%,15%,45%,26%,2%,1%,6%,23,A+,n/a,43,Tennessee,252.0,6840,Other,True,
+f821238d7909276dec8e20a30c4d2293843bab8b,Clark Atlanta University,76%,24%,nan,69%,7%,4%,20%,18%,15%,20%,11%,2%,1%,33%,24,A+,n/a,21,Georgia,0.0,3320,Fully online,True,
+9d360e2fe4c313b152784d71db4652296de27a73,University of Miami,52%,48%,23%,31%,19%,1%,27%,6%,34%,31%,4%,1%,1%,23%,25,A+,n/a,30,Florida,479.0,10873,Primarily in person,True,
+56cd4df88264712c395971e34a834be900fee555,The Ohio State University,49%,51%,20%,35%,21%,3%,21%,4%,32%,33%,6%,nan,1%,24%,26,A+,n/a,31,n/a,n/a,n/a,n/a,False,
+985ceb51bc7d694a41d80d7fb6e5b02a769ba730,University of Colorado - Boulder,45%,55%,18%,37%,29%,4%,12%,26%,49%,11%,4%,nan,1%,10%,27,A+,n/a,28,n/a,n/a,n/a,n/a,False,
+111f918a99073211a455ddb38c935faa87faed7e,Rutgers University - New Brunswick,50%,50%,9%,44%,13%,3%,30%,13%,36%,18%,1%,nan,nan,33%,28,A+,n/a,29,n/a,n/a,35656,n/a,False,
+8d2bac5baa5cd7e695edd86301f2210d4f506b5e,University of Pennsylvania,53%,47%,8%,58%,17%,4%,13%,8%,48%,22%,6%,nan,1%,15%,29,A+,n/a,24,Pennsylvania,376.0,10764,Fully online,True,
+73f4fa2c044975dc7d0952c0ac7c958d5a123970,University of South Carolina,53%,47%,42%,22%,19%,2%,14%,2%,8%,36%,24%,4%,nan,24%,30,A+,n/a,32,South Carolina,2494.0,n/a,n/a,False,
+2ed1430f34e706eed19ea7f72a6a33035081ae92,Florida A&M University,65%,35%,3%,71%,12%,nan,14%,13%,20%,28%,3%,1%,1%,33%,31,A+,n/a,36,Florida,91.0,n/a,Hybrid,False,
+ea8c39db23c63cd83af6087f403a2ae832abb62d,University of Florida,57%,43%,26%,31%,26%,nan,17%,7%,30%,30%,7%,nan,0%,26%,32,A+,25,33,Florida,2908.0,34564,Primarily online,True,
+547843beb959bbb25cc8ac447edc1773955cbd2d,James Madison University,59%,41%,24%,30%,29%,5%,12%,4%,28%,37%,7%,nan,nan,23%,33,A+,n/a,n/a,Virginia,1527.0,19679,Fully online,True,
+d346c18ad2eecb6f3be01d0e5b9fd906a36f6236,University of Michigan - Ann Arbor,50%,50%,13%,42%,25%,3%,17%,26%,47%,13%,1%,nan,0%,12%,34,A+,n/a,27,n/a,n/a,30079,n/a,False,
+15e075a94f7526734500ca44aeddfbb96c968c9a,University of Virginia,54%,46%,29%,40%,19%,2%,11%,2%,29%,44%,9%,1%,2%,13%,35,A+,n/a,47,Virginia,844.0,n/a,Primarily online,False,
+cee07b09648ff8d68e91a0ca815623770d0bcf06,University of Kansas,52%,48%,24%,27%,19%,6%,24%,10%,50%,18%,6%,2%,1%,13%,36,A+,n/a,20,Kansas,1009.0,19135,Primarily in person,True,
+4eba52779e4f83b8af7cabbc5e0e8fa4cd727422,University of Dayton,48%,52%,29%,20%,16%,2%,33%,nan,7%,27%,36%,3%,1%,27%,37,A+,n/a,45,Ohio,1299.0,8508,Primarily online,True,
+8e831c0949d2d579595ee34e5e89e6b71825042a,College of Charleston,65%,35%,25%,24%,29%,3%,19%,8%,33%,24%,13%,nan,1%,22%,38,A+,n/a,37,South Carolina,414.0,9622,Primarily online,True,
+83902e476cea44b3e0743853dccc1a883cb3ecdd,Washington State University,53%,47%,20%,38%,19%,2%,22%,7%,25%,27%,9%,1%,nan,31%,39,A+,n/a,n/a,Washington,263.0,25675,Primarily online,True,
+98108705d8a015a05ca6a4927fffffb41bd45731,University of Massachusetts - Amherst,49%,51%,4%,32%,37%,2%,24%,16%,51%,12%,1%,nan,nan,21%,40,A+,n/a,40,n/a,n/a,23202,n/a,False,
+838f9781b22fd0041408f196a81d0405805675ea,University of Cincinnati,47%,53%,24%,32%,17%,11%,16%,6%,19%,29%,12%,1%,2%,31%,41,A+,n/a,n/a,Ohio,585.0,n/a,Hybrid,False,
+033a2ceedf7e0a499ccb0fc50059971eb376f732,University of Missouri,53%,47%,19%,41%,15%,5%,20%,5%,26%,29%,11%,3%,1%,25%,42,A+,n/a,22,Missouri,1773.0,n/a,n/a,False,
+c620e24ea08e9ded9d1d5b7f80ddc65391ce6445,University of Oklahoma,51%,49%,25%,32%,30%,4%,9%,4%,18%,35%,19%,3%,1%,20%,43,A+,n/a,n/a,Oklahoma,515.0,n/a,n/a,False,
+d019ecb347f3fa08eb986a941f75c5dd2e4ea853,Lehigh University,46%,54%,18%,32%,18%,nan,32%,nan,15%,23%,29%,2%,4%,27%,44,A+,7,n/a,Pennsylvania,102.0,5030,Primarily online,True,
+ed6f3737e388eb869a611507406f11815fc93dec,University of Arkansas,54%,46%,31%,17%,26%,1%,25%,2%,12%,29%,15%,4%,nan,37%,45,A+,n/a,38,Arkansas,2034.0,23121,n/a,False,
+2bb7c105533ac248f1cf68be48b751a2f518097f,University at Albany SUNY,51%,49%,8%,45%,15%,1%,30%,9%,31%,17%,2%,nan,nan,40%,46,A+,n/a,44,n/a,n/a,n/a,n/a,False,
+993c68ae6e1b4af6d8c58cdcb9883c2b93ee0c23,Western Michigan University,48%,52%,17%,32%,15%,4%,32%,8%,23%,26%,2%,1%,1%,39%,47,A+,n/a,n/a,Michigan,588.0,17519,Primarily in person,True,
+e21ac4d0a06f3f8295f528f822bc6ad0b486cfb2,Morehouse College,0%,100%,nan,48%,30%,4%,17%,19%,21%,26%,5%,2%,nan,28%,48,A+,n/a,48,Georgia,nan,2205,Fully online,True,
+3a9e72183af3b605810a3c96e60d744e6e0ed443,University of Arizona,53%,47%,17%,31%,23%,2%,27%,6%,26%,34%,6%,1%,nan,28%,49,A+,n/a,n/a,Arizona,2381.0,33509,Primarily online,True,
+f2810a06ccd55269f6fd7799a01e373287f88b32,Temple University,54%,46%,8%,53%,20%,2%,17%,15%,38%,18%,1%,0%,0%,28%,50,A+,n/a,46,Pennsylvania,528.0,28965,Primarily online,True,
+fd83976f05eb090cf23e7a190f28c62be85d8817,Louisiana State University,53%,47%,30%,30%,22%,2%,16%,3%,11%,29%,23%,3%,nan,30%,51,A+,n/a,23,Louisiana,1082.0,n/a,n/a,False,
+f16467df173259d88784506c0dc33c4085c78b37,East Carolina University,57%,43%,31%,33%,15%,3%,18%,1%,10%,37%,16%,1%,1%,35%,52,A+,n/a,n/a,North Carolina,1297.0,22330,Fully online,True,
+61d9426e5fdbf056e6cd8a01c440d82654c735d0,Arizona State University,45%,55%,19%,34%,21%,3%,23%,8%,21%,28%,6%,1%,1%,36%,53,A+,n/a,n/a,Arizona,1821.0,n/a,Hybrid,False,
+1a7b2d0a09a6cae1f5471796eb0b7fae4d4b5468,Texas Tech University,47%,53%,29%,36%,17%,2%,16%,0%,7%,25%,33%,8%,1%,25%,54,A+,n/a,n/a,Texas,1768.0,30795,Primarily in person,True,
+cb9e83afc0158792c464fcd3c6540406b71cd7ca,University of Maryland - College Park,47%,53%,15%,44%,20%,2%,19%,11%,38%,22%,3%,nan,0%,27%,55,A+,n/a,n/a,n/a,n/a,30184,n/a,False,
+023b2b3d572ea618ed7fb7c40d10421e7669251b,Loyola University New Orleans,63%,37%,6%,41%,31%,3%,19%,18%,50%,23%,nan,nan,nan,9%,56,A+,n/a,34,Louisiana,71.0,2868,Primarily online,True,
+80e7ebbeb971eec1dcc80759fe25437ab30b93c9,North Carolina A&T State University,57%,43%,2%,58%,21%,2%,16%,11%,19%,21%,7%,nan,nan,42%,57,A+,n/a,49,North Carolina,123.0,10299,Primarily in person,True,
+11037c193bb06a75007a634eec599a7326602bd4,Bowling Green State University,56%,44%,18%,28%,25%,2%,26%,4%,18%,36%,9%,1%,nan,33%,58,A+,n/a,42,Ohio,443.0,n/a,n/a,False,
+62ec6516a2286cfa56aa4945e0aa3e939214700c,University of Wisconsin - La Crosse,57%,43%,13%,35%,5%,3%,45%,6%,21%,30%,6%,nan,1%,37%,59,A+,n/a,n/a,Wisconsin,350.0,9517,n/a,False,
+fc4a61bc1d14884249db25c4a5bc5d3c3c3546ef,University of Minnesota Twin Cities,54%,46%,17%,36%,22%,5%,19%,15%,50%,20%,2%,nan,0%,13%,60,A+,n/a,n/a,Minnesota,298.0,n/a,n/a,False,
+e0af680deb79696177f3a4301ec6a19264a7733c,Texas Southern University,57%,43%,5%,56%,9%,nan,30%,14%,14%,33%,5%,nan,1%,32%,61,A+,n/a,n/a,Texas,1.0,7604,Hybrid,True,
+b74cf62b3773c9c77ee6ddc986300dc10696c8b1,Texas State University,59%,41%,25%,34%,13%,3%,26%,7%,24%,31%,7%,0%,nan,31%,62,A+,n/a,41,Texas,674.0,34187,Primarily in person,True,
+dbf7b8e241866737fa075dd472ac1b690a2d6971,University of California - Los Angeles,58%,42%,10%,47%,14%,5%,24%,12%,48%,22%,1%,nan,1%,17%,63,A+,n/a,50,n/a,n/a,31568,n/a,False,
+41743168e8648c311adcc49ad7c5484556bdfa02,California State University - Chico,53%,47%,10%,44%,16%,2%,27%,10%,33%,26%,3%,1%,nan,28%,64,A+,n/a,n/a,n/a,n/a,16317,n/a,False,
+0429701f990d46728212b2b4bbe6bbc29cd727c1,Savannah State University,60%,40%,5%,54%,18%,nan,23%,15%,16%,15%,9%,1%,2%,40%,65,A+,n/a,n/a,Georgia,35.0,3742,Undetermined,True,
+79a4df14a75fb233d8db22f3ce191aeaabf4d400,University of Tennessee,51%,49%,30%,24%,24%,2%,19%,4%,10%,35%,19%,4%,1%,27%,66,A+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+5d3466db84678c5c3805fc9fc6615b423196d5b1,Morgan State University,55%,45%,1%,65%,8%,4%,22%,12%,23%,23%,9%,1%,1%,32%,67,A+,n/a,n/a,Maryland,15.0,6404,Fully online,True,
+cc9eee655c971f447a26779f5879fb4dc094bf8d,Kansas State University,47%,53%,35%,27%,21%,2%,15%,2%,2%,32%,26%,7%,1%,30%,68,A+,n/a,n/a,Kansas,811.0,17611,Primarily in person,True,
+0fa80734ba009206eff43ca31063c7369f1308e1,University of Oregon,54%,46%,9%,52%,20%,3%,16%,29%,48%,11%,2%,nan,2%,9%,69,A+,n/a,n/a,Oregon,208.0,18923,Primarily online,True,
+f84b70906aaac695f9a8fe4e3065d935f07f80af,University of Kentucky,56%,44%,31%,35%,19%,1%,15%,3%,14%,31%,18%,2%,nan,31%,70,A+,n/a,n/a,Kentucky,2070.0,21746,Primarily online,True,
+92309ed6052eabf70a0763af1299767c607a1e88,Yale University,50%,50%,7%,64%,11%,4%,14%,31%,50%,7%,2%,2%,nan,9%,71,A+,n/a,n/a,Connecticut,175.0,5963,Primarily online,True,
+dd7382371ffe97f412c86285ba61a34e2527d288,Auburn University,50%,50%,39%,30%,19%,1%,11%,2%,1%,24%,32%,16%,1%,23%,72,A+,n/a,n/a,Alabama,1982.0,24147,Hybrid,True,
+0f95012f00711c414767a03e29a4165ec666c481,SUNY Oswego,50%,50%,13%,32%,26%,2%,28%,9%,33%,17%,4%,nan,nan,37%,73,A+,n/a,n/a,New York,271.0,n/a,n/a,False,
+47f7ac8c1f8ea7d6b472307605558cdd33bd64fc,SUNY Oneonta,62%,38%,7%,50%,18%,nan,25%,8%,28%,20%,nan,2%,nan,42%,74,A+,n/a,n/a,New York,707.0,6021,n/a,False,
+67cee744c01888c62c5dccdfe909d86e750c410a,University of North Carolina at Chapel Hill,60%,40%,26%,40%,19%,2%,13%,14%,59%,16%,1%,1%,nan,9%,75,A+,n/a,n/a,North Carolina,1229.0,18946,Fully online,True,
+4131aeb79b59c752a3086c97b4262feb555264d4,SUNY Cortland,57%,43%,13%,33%,17%,nan,38%,4%,8%,31%,6%,2%,nan,50%,76,A+,n/a,n/a,New York,225.0,6325,n/a,False,
+fcb2744402fa1b1e3587d205c1c21240cbd261f7,Alabama State University,63%,37%,3%,64%,11%,nan,22%,16%,19%,13%,6%,5%,nan,40%,77,A+,n/a,n/a,Alabama,nan,3903,Hybrid,True,
+2f557d90b7ea46d2fc529124ee6aae1723de8e36,University of Wisconsin - Oshkosh,59%,41%,30%,23%,20%,3%,23%,4%,23%,24%,5%,1%,1%,41%,78,A+,n/a,n/a,Wisconsin,735.0,10749,n/a,False,
+59de98d9da21ea24ce7213c57409e3ba0abcb2e9,DePauw University,53%,47%,18%,35%,35%,6%,6%,5%,38%,24%,14%,3%,nan,16%,79,A,n/a,n/a,Indiana,22.0,2141,n/a,False,
+0696fb5cc6c9a5d9916a03bc64654227f8caf03e,Norfolk State University,65%,35%,3%,55%,12%,nan,30%,6%,20%,18%,1%,1%,nan,54%,80,A,n/a,n/a,Virginia,8.0,4636,Primarily online,True,
+fd1e09472d3501e588ad1f33af46ea9a6c8d093e,New York University,58%,42%,4%,49%,24%,4%,18%,38%,42%,8%,0%,nan,2%,10%,81,A,n/a,n/a,New York,251.0,26339,Hybrid,True,
+860a0c38a6c9f275ca2a90f5b08ce699af2dc10b,Alabama A&M University,59%,41%,3%,47%,16%,8%,26%,9%,20%,27%,9%,2%,nan,33%,82,A,n/a,n/a,Alabama,41.0,4990,Hybrid,True,
+10119527fa0cab0466a6d5e618d83722a667a704,Colgate University,55%,45%,35%,35%,23%,4%,4%,4%,27%,30%,21%,nan,nan,18%,83,A,14,n/a,New York,48.0,2934,Hybrid,True,
+58264a9bef5fcd3036487aac6d48c56914bcb102,University of South Dakota,62%,38%,28%,20%,28%,4%,20%,2%,24%,36%,10%,2%,nan,26%,84,A,n/a,n/a,South Dakota,243.0,6228,Primarily in person,True,
+079cc6608695aea7b0bca50fb55ec374ce5e26b8,Virginia Tech,43%,57%,41%,27%,18%,nan,14%,2%,15%,42%,13%,1%,0%,27%,85,A,n/a,n/a,Virginia,1115.0,n/a,Primarily in person,False,
+b8802e75e99edd6cf65c972868f10f0f882f829f,Prairie View A & M University,64%,36%,4%,59%,7%,nan,30%,8%,19%,23%,10%,2%,nan,39%,86,A,n/a,n/a,Texas,178.0,8524,Primarily in person,True,
+308fd874c6bae3d89fc1bfcc4d868b6a053fb84d,Spelman College,100%,0%,nan,79%,15%,nan,6%,9%,48%,17%,6%,nan,nan,20%,87,A,n/a,n/a,n/a,n/a,2166,Fully online,False,
+e7bc5e71c9ef9060a2ae06ef0df867420de7fe64,University of Central Florida,54%,46%,16%,34%,25%,3%,22%,7%,24%,31%,3%,0%,1%,34%,88,A,n/a,n/a,Florida,1210.0,58392,Primarily in person,True,
+73ec12b23ed5352ad024a729191fac93bcf7d199,Albany State University,71%,29%,3%,62%,7%,nan,28%,10%,12%,29%,6%,nan,nan,43%,89,A,n/a,n/a,Georgia,63.0,5545,Hybrid,True,
+826e336d83680241a73dda4c97a4f01b44b044c5,Tennessee State University,63%,37%,8%,60%,9%,2%,21%,8%,16%,23%,7%,2%,nan,43%,90,A,n/a,n/a,Tennessee,1.0,6116,Hybrid,True,
+6d15152fc37fe54c1c1324261032f76cb29d681e,Georgia State University,59%,41%,6%,45%,19%,5%,26%,14%,32%,19%,3%,1%,0%,31%,91,A,n/a,n/a,Georgia,197.0,26489,Hybrid,True,
+0079febc0ccee3d78ecaf86b0826fe8311272d63,University of Tampa,59%,41%,20%,34%,15%,1%,30%,2%,23%,29%,7%,nan,nan,39%,92,A,n/a,n/a,Florida,315.0,n/a,Primarily in person,False,
+63aa414204c436c7101b0939b5dad7fb33398c9e,Southern University & A&M College,64%,36%,nan,67%,8%,nan,25%,10%,19%,29%,10%,5%,nan,29%,93,A,n/a,n/a,Louisiana,110.0,5612,n/a,False,
+d11d4c32a5907002a214026194eb29caab720236,Bethune-Cookman University,63%,37%,2%,63%,13%,nan,21%,11%,16%,30%,14%,3%,nan,25%,94,A,n/a,n/a,Florida,1.0,3619,Primarily online,True,
+8aa76adf379b6843019068d5d8667d6a8110c24c,University of Louisville,54%,46%,17%,44%,17%,3%,19%,10%,25%,30%,5%,1%,1%,28%,95,A,n/a,n/a,Kentucky,568.0,14488,Primarily online,True,
+1ae5fb493276676096b0a01e21b263ec5f979f8f,Binghamton University SUNY,50%,50%,13%,41%,15%,1%,29%,8%,39%,25%,3%,nan,nan,26%,96,A,n/a,n/a,n/a,n/a,n/a,n/a,False,
+87a1f8874902d8716d9697918aef6d7ba915eca4,North Carolina Central University,67%,33%,10%,55%,21%,3%,10%,16%,16%,26%,7%,nan,nan,36%,97,A,n/a,n/a,North Carolina,76.0,5913,Hybrid,True,
+1f04dca862ebc3884143091a29f20256b2028590,Southern Illinois University Carbondale,47%,53%,13%,38%,11%,5%,33%,5%,16%,32%,5%,2%,3%,39%,98,A,n/a,n/a,Illinois,97.0,n/a,n/a,False,
+f8ce4878433dc27778e2dade4db268a77b3f445a,University of Pittsburgh,53%,47%,19%,42%,15%,2%,22%,3%,33%,28%,4%,0%,1%,30%,99,A,n/a,n/a,Pennsylvania,326.0,n/a,n/a,False,
+d19a217890d0b5e81d77ca7c19401f94235b6c11,Jackson State University,64%,36%,4%,55%,11%,nan,30%,10%,11%,26%,10%,4%,1%,38%,100,A,n/a,n/a,Mississippi,11.0,5305,Primarily online,True,
+2a9034c35d6f87d67d7a9e33821416107e28b9db,Wake Forest University,53%,47%,41%,12%,35%,6%,6%,nan,8%,34%,44%,6%,2%,6%,101,A,n/a,n/a,North Carolina,142.0,5225,Primarily online,True,
+41c379105f29d5d7de96af32ab74e5e6f03276b7,Massachusetts Institute of Technology,47%,53%,8%,23%,15%,15%,38%,16%,58%,13%,nan,nan,2%,11%,102,A,n/a,n/a,Massachusetts,44.0,4550,Primarily online,True,
+26a7dd0df031619799837e2393a54af7e07ad103,Indiana University of Pennsylvania,59%,41%,28%,37%,18%,3%,14%,6%,19%,37%,3%,2%,1%,33%,103,A,n/a,n/a,Pennsylvania,234.0,n/a,Hybrid,False,
+2b9b42984c45c37da8b6732a6bfebb6948a243fb,Pittsburg State University,48%,52%,46%,7%,25%,nan,21%,2%,nan,23%,21%,4%,nan,50%,104,A,n/a,n/a,Kansas,170.0,5067,Hybrid,True,
+54fff97656b551d000c79894d08a8aca683ce5f5,Clemson University,49%,51%,39%,23%,16%,2%,20%,2%,7%,21%,34%,12%,nan,23%,105,A,n/a,n/a,South Carolina,3770.0,19564,Primarily online,True,
+401520ba492d21110a8097fac931d8cfe3140513,Texas Christian University,59%,41%,33%,29%,17%,2%,19%,nan,7%,23%,45%,10%,nan,15%,106,A,n/a,n/a,Texas,1167.0,9407,Hybrid,True,
+bd50d2f3cfad8cdd6a6b9b78b33f03d1b9ab4e6c,Providence College,54%,46%,25%,29%,17%,nan,29%,nan,6%,20%,35%,18%,nan,22%,107,A,15,n/a,Rhode Island,229.0,4079,Fully online,True,
+dcba03012705028f12584db97c264896427136c2,Rice University,48%,52%,2%,48%,24%,7%,19%,17%,36%,33%,nan,nan,nan,14%,108,A,n/a,n/a,Texas,105.0,3962,Hybrid,True,
+62e2b9949c03f51828e2d77526f39312a41ed0f0,Rollins College,60%,40%,14%,36%,18%,4%,29%,8%,19%,25%,21%,6%,nan,21%,109,A,n/a,n/a,Florida,9.0,2571,Hybrid,True,
+3790334a5686249a22dd1df02cc233274d33ba13,George Washington University,62%,38%,12%,54%,20%,2%,12%,20%,49%,16%,2%,nan,1%,12%,110,A,n/a,39,Washington D.C.,18.0,12161,Fully online,True,
+4b72b4427eb6ff087b2e66cd03a12d3e82a05b79,Illinois State University,56%,44%,22%,34%,17%,1%,25%,2%,22%,33%,6%,1%,1%,36%,111,A,n/a,n/a,Illinois,1384.0,18044,n/a,False,
+c86788edc9530212d1042464bfec9b3bb72bcfb6,Tuskegee University,64%,36%,nan,66%,9%,6%,20%,10%,16%,26%,10%,1%,nan,36%,112,A,n/a,n/a,Alabama,62.0,2529,Hybrid,True,
+dd47386a182abdfd99ad96856964e82a719a9949,Old Dominion University,55%,45%,15%,40%,19%,1%,25%,8%,18%,25%,7%,nan,1%,41%,113,A,n/a,n/a,Virginia,70.0,19194,Primarily in person,True,
+8635275fa5723aa3ec77efd0dd02eb0036776612,Iowa State University,43%,57%,30%,24%,22%,3%,20%,4%,22%,31%,11%,nan,1%,31%,114,A,n/a,n/a,Iowa,1340.0,29248,Primarily in person,True,
+0c29b30eede32b6d4b3efb8b17b3488f505eaecb,SUNY Buffalo State College,58%,42%,2%,74%,4%,nan,19%,8%,28%,14%,6%,nan,2%,42%,115,A,n/a,n/a,n/a,n/a,n/a,n/a,False,
+bdd9782df42387eeb1821a4d18901e5fcb82fba3,Georgia Southern University,54%,46%,25%,36%,14%,5%,20%,2%,11%,30%,17%,3%,0%,37%,116,A,n/a,n/a,Georgia,1178.0,22239,Primarily in person,True,
+03e2a9c797bacf2c908b07df35c263cfdb1f21c4,Harris-Stowe State University,66%,34%,14%,71%,nan,14%,nan,13%,nan,56%,nan,6%,nan,25%,117,A,n/a,n/a,Missouri,22.0,1709,Primarily in person,True,
+68a2037568700804543536169cd52767a380b768,University of Nebraska - Lincoln,48%,52%,35%,36%,17%,nan,12%,1%,11%,28%,23%,4%,1%,33%,118,A,n/a,n/a,Nebraska,782.0,20592,n/a,False,
+0dbe91d5f327374d6d0c26f9d9433a317c30ef90,Central Michigan University,57%,43%,24%,33%,15%,2%,26%,5%,22%,29%,4%,1%,1%,38%,119,A,n/a,n/a,Michigan,323.0,16157,Hybrid,True,
+f88095bb03ba62bc1a1024da8d22e27dca71e52e,Johnson & Wales University- Providence,60%,40%,13%,35%,15%,nan,37%,9%,15%,21%,6%,1%,3%,45%,120,A,n/a,n/a,n/a,n/a,6569,n/a,False,
+d46be7584aa05d280714e99ddf310e684b58b787,Eckerd College,67%,33%,8%,65%,15%,nan,12%,42%,42%,4%,nan,nan,2%,11%,121,A,n/a,n/a,Florida,3.0,1987,Primarily in person,True,
+9b8e606bd3edfcd012608c3a3a1a5a8574a0ec79,Virginia Commonwealth University,60%,40%,10%,49%,11%,1%,29%,19%,39%,16%,1%,0%,1%,23%,122,A,n/a,n/a,Virginia,294.0,22497,Primarily in person,True,
+0678da3419240758f2c497e69b79548546a3e75a,Santa Clara University,49%,51%,17%,52%,7%,nan,24%,3%,32%,36%,7%,1%,3%,19%,123,A,n/a,n/a,California,22.0,5504,Primarily online,True,
+a0a46909bd8b4a721d8f84865d561248695606f4,Plymouth State University,50%,50%,7%,37%,37%,nan,19%,5%,26%,28%,7%,nan,nan,35%,124,A,n/a,n/a,New Hampshire,17.0,4135,Hybrid,True,
+488f0715ec00c5c7cf0104d2de3e9ba621b93f43,Western Illinois University,52%,48%,6%,53%,8%,2%,32%,4%,14%,30%,4%,1%,2%,46%,125,A,n/a,n/a,Illinois,145.0,6754,n/a,False,
+7d996f120d20b414f40c859bb46d807b189dd59f,University of Washington,54%,46%,5%,48%,26%,2%,18%,23%,50%,13%,1%,nan,nan,14%,126,A,n/a,n/a,Washington,527.0,n/a,Primarily online,False,
+0519d457214b4ffbde6c2fc59299defa079ea1ef,South Carolina State University,50%,50%,9%,59%,5%,5%,23%,11%,19%,23%,14%,2%,2%,30%,127,A,n/a,n/a,South Carolina,nan,2415,Hybrid,True,
+3649f8f119accce49521b4fa37038edc21d31aa5,Bloomsburg University of Pennsylvania,57%,43%,26%,33%,14%,nan,28%,3%,23%,29%,11%,nan,nan,34%,128,A,n/a,n/a,Pennsylvania,362.0,7920,Fully online,True,
+bfd0e5e2bdde11c1c20bb0f57776cb634af35647,Kent State University,62%,38%,18%,37%,13%,5%,27%,12%,32%,22%,1%,0%,0%,33%,129,A,n/a,n/a,Ohio,165.0,n/a,n/a,False,
+a919d34045fe4739ac8841d0d50d5c4e1fb20b62,Huston-Tillotson University,62%,38%,nan,33%,17%,nan,50%,8%,4%,29%,8%,nan,nan,50%,130,A,n/a,n/a,n/a,n/a,1084,n/a,False,
+fac20232633ddeed989139eb872f29631fab12f9,Duke University,50%,50%,9%,44%,28%,nan,19%,10%,45%,21%,11%,5%,nan,8%,131,A,n/a,n/a,North Carolina,121.0,6596,Hybrid,True,
+ecaa9080cde73cbd4a3c6392ef148ff19f3f4ce3,Texas A&M University,48%,52%,40%,23%,15%,5%,17%,nan,4%,12%,49%,19%,1%,15%,132,A,n/a,n/a,Texas,1661.0,n/a,n/a,False,
+182564c252c8bbd64012f7807ae19e44ab028316,Missouri State University,58%,42%,18%,32%,19%,5%,26%,6%,19%,23%,11%,3%,2%,36%,133,A,n/a,n/a,Missouri,1200.0,n/a,Hybrid,False,
+d892deb94cca56066d3314d35d052579f0a6c2a0,Salisbury University,56%,44%,19%,26%,33%,2%,21%,3%,18%,22%,5%,1%,1%,51%,134,A,n/a,n/a,Maryland,436.0,7444,Hybrid,True,
+77dbdde831eaa4427136d93aae6e6985bb6cef8b,North Dakota State University,44%,56%,20%,17%,20%,9%,35%,1%,6%,16%,20%,4%,nan,53%,135,A,n/a,n/a,North Dakota,306.0,n/a,Hybrid,False,
+6c9b8c0829bd4d0a3513bfce491c9c6ff1a588fb,Minnesota State University Mankato,52%,48%,24%,24%,24%,3%,24%,3%,24%,25%,3%,nan,1%,43%,136,A,n/a,n/a,Minnesota,129.0,n/a,n/a,False,
+edb1025fce98764563eb2a7554baf90eb3001918,University of Idaho,48%,52%,26%,30%,17%,nan,28%,1%,29%,32%,9%,1%,2%,26%,137,A,n/a,n/a,Idaho,307.0,7528,Primarily in person,True,
+687adcf124155df314dc92e397efc21413a763a1,Oklahoma State University,49%,51%,33%,22%,29%,1%,15%,2%,7%,29%,28%,5%,1%,28%,138,A,n/a,n/a,Oklahoma,1485.0,n/a,n/a,False,
+12b134a6605d14062b314e943b4c3510cf7d5a9d,Towson University,60%,40%,13%,42%,21%,2%,21%,6%,31%,21%,2%,1%,1%,38%,139,A,n/a,n/a,Maryland,491.0,19623,Primarily online,True,
+56ffcbba3a28a7d2e139d578286189eddc35daef,University of Wisconsin - Whitewater,49%,51%,11%,32%,16%,3%,38%,3%,22%,17%,6%,3%,nan,49%,140,A,n/a,n/a,Wisconsin,421.0,11045,n/a,False,
+110370f1721c42338451b7eb6891cbaa27618ab3,The New School,75%,25%,6%,35%,12%,12%,35%,63%,18%,5%,nan,nan,3%,11%,141,A,n/a,n/a,New York,2.0,7274,n/a,False,
+96b84a4feb080d48db99848e27ba5d7efbaa7b65,University of Denver,54%,46%,27%,41%,25%,nan,7%,5%,30%,38%,9%,2%,2%,14%,142,A,n/a,n/a,Colorado,151.0,5791,Primarily online,True,
+ee78e744ed1e178e515451d6aba5b32f68f54be7,University of California - Berkeley,53%,47%,3%,57%,15%,3%,21%,37%,48%,9%,2%,nan,0%,5%,143,A,n/a,n/a,n/a,n/a,30845,n/a,False,
+24ff0248b913abdef27ad94a202e547d299fd3d4,University of New Hampshire,55%,45%,17%,26%,28%,3%,26%,8%,36%,15%,5%,nan,nan,36%,144,A,n/a,n/a,New Hampshire,191.0,n/a,Primarily online,False,
+3ff802977a8abe066acd82b88798536cab24e3c4,Boston University,60%,40%,9%,57%,20%,1%,13%,18%,45%,15%,1%,nan,1%,21%,145,A,n/a,n/a,Massachusetts,141.0,17238,Hybrid,True,
+97ed7f3b9a061e796191fae9c7171c38ebd204d4,Augustana College - Illinois,57%,43%,25%,50%,8%,nan,17%,8%,36%,25%,3%,nan,nan,28%,146,A,n/a,n/a,n/a,n/a,n/a,n/a,False,
+814601b0c07cff3b29a1233d01a3e5d115fc2121,Winston-Salem State University,71%,29%,8%,64%,17%,nan,11%,15%,13%,25%,7%,nan,2%,39%,147,A,n/a,n/a,North Carolina,42.0,4610,Hybrid,True,
+c9af9d012aa8bede0a90a75fd58bff90c9f16ffc,University of North Dakota,47%,53%,25%,36%,7%,4%,29%,5%,13%,22%,27%,2%,nan,31%,148,A,n/a,n/a,North Dakota,890.0,9910,Hybrid,True,
+adb899b18a09bdfa40984a033189c2662e2694ee,Trinity College - Connecticut,50%,50%,13%,42%,17%,13%,17%,2%,2%,31%,29%,12%,2%,23%,149,A,n/a,n/a,n/a,n/a,n/a,n/a,False,
+a47344b19463d5a1c909704978d228396db7ce16,Coastal Carolina University,54%,46%,10%,38%,13%,nan,38%,3%,11%,30%,6%,1%,nan,48%,150,A,n/a,n/a,South Carolina,306.0,9474,Primarily online,True,
+73dafbcd818c2d2a780c754d5d153ed2eceded68,University of Nevada - Reno,53%,47%,18%,30%,30%,4%,18%,4%,30%,32%,6%,nan,1%,28%,151,A,n/a,n/a,n/a,n/a,17513,n/a,False,
+0790af8edaa5fd24c518a8e5ce657998a71752cb,Ball State University,59%,41%,23%,31%,19%,2%,24%,4%,23%,20%,4%,1%,0%,46%,152,A,n/a,n/a,Indiana,1027.0,15529,Primarily in person,True,
+13d4aca3a4f0593199879af873711cabc43f6d29,University of Maine,47%,53%,23%,21%,26%,2%,28%,6%,36%,24%,4%,nan,1%,30%,153,A,20,n/a,Maine,8.0,8861,n/a,False,
+0a75a29ddcd33b700e3b08badde78a775b406c48,University of Louisiana - Lafayette,56%,44%,27%,31%,12%,4%,25%,4%,13%,31%,16%,1%,1%,33%,154,A,n/a,n/a,n/a,n/a,n/a,n/a,False,
+9448bf81b6f45b62650cb7f75a326727d68f9035,University of Vermont,59%,41%,12%,43%,24%,6%,14%,51%,37%,4%,1%,nan,nan,8%,155,A,n/a,n/a,Vermont,22.0,10612,Hybrid,True,
+97fc81ec99004e4a8bba259f317442770a989a1a,Rowan University,45%,55%,16%,36%,19%,nan,30%,7%,21%,20%,5%,nan,1%,46%,156,A,n/a,n/a,New Jersey,207.0,15755,Primarily in person,True,
+929e7c250b7018b2631098ed186f5a3942dcee9a,Grambling State University,60%,40%,4%,70%,9%,nan,17%,13%,20%,27%,9%,7%,nan,24%,158,A,n/a,n/a,Louisiana,20.0,4110,Primarily in person,True,
+acb8dc699793604fabcd6a9c13402ed7f0d81cb7,Union College - New York,46%,54%,20%,30%,30%,nan,20%,nan,27%,27%,14%,nan,3%,30%,159,A,n/a,n/a,n/a,n/a,n/a,n/a,False,
+5c92ea3b40a6f8364f08d1d352347239ed4364f8,University of North Texas,53%,47%,20%,37%,18%,3%,22%,13%,38%,21%,4%,1%,0%,22%,160,A,n/a,n/a,Texas,277.0,31375,Hybrid,True,
+9e4446b71a1117d500fc9b0a67f183ff81010de6,Bucknell University,51%,49%,17%,38%,21%,nan,25%,5%,14%,33%,16%,7%,2%,23%,161,A,6,n/a,Pennsylvania,19.0,3583,Primarily in person,True,
+0a0e070612793e65634192e0a3bb3964dd422b81,Georgetown University,56%,44%,16%,50%,18%,5%,11%,7%,35%,36%,8%,1%,nan,13%,162,A,n/a,n/a,Washington D.C.,147.0,7089,Fully online,True,
+a759a84138244034a5ee22c2bd9dceccaece02fd,Dartmouth College,49%,51%,12%,42%,31%,4%,12%,2%,38%,30%,12%,6%,2%,10%,163,A,n/a,n/a,New Hampshire,12.0,4312,Primarily online,True,
+b3ebd62c40d9abaff8ed2f05a30be9e4edaf1906,St. Bonaventure University,46%,54%,27%,47%,27%,nan,nan,4%,20%,44%,4%,nan,4%,24%,164,A,n/a,n/a,New York,7.0,1730,Primarily in person,True,
+d52146595303814dbe5d558bb7788bd3b3524a20,Radford University,58%,42%,44%,16%,20%,2%,18%,2%,22%,23%,9%,4%,nan,40%,165,A,n/a,n/a,Virginia,413.0,7880,Primarily in person,True,
+d68d9b699de3b8c79e7c4e77304889faa69b154a,Western Kentucky University,58%,42%,34%,34%,16%,5%,11%,nan,11%,34%,11%,1%,1%,41%,166,A,n/a,n/a,Kentucky,700.0,13959,Primarily online,True,
+ef926eaa9c25e83a5bb2e3cd65c907f7a42e6842,Stephen F Austin State University,64%,36%,28%,26%,15%,2%,28%,5%,10%,29%,17%,5%,nan,34%,167,A,n/a,n/a,Texas,231.0,10474,Hybrid,True,
+8ed325a778a47e7e2fe90e6b641d4d5c5d021ed6,West Chester University of Pennsylvania,60%,40%,23%,42%,18%,2%,15%,2%,22%,31%,4%,nan,2%,39%,168,A,n/a,n/a,n/a,n/a,14249,Fully online,False,
+e0493e935f94a5efa32b938ffcad2c5e03f8598e,DePaul University,54%,46%,9%,48%,25%,1%,17%,16%,40%,16%,8%,nan,1%,19%,169,A,n/a,n/a,Illinois,10.0,14280,n/a,False,
+5303cc06eb0f92be77982187a0de943e696c3e3d,Keene State College,55%,45%,6%,28%,39%,nan,28%,7%,24%,20%,2%,nan,2%,44%,170,A,n/a,n/a,New Hampshire,7.0,3416,Hybrid,True,
+2df420d58f9d920e49ebdfc5aec16537dc096c5d,Northwest Missouri State University,57%,43%,18%,20%,27%,2%,33%,3%,10%,31%,4%,nan,1%,49%,171,A,n/a,n/a,Missouri,408.0,5193,Hybrid,True,
+a8769f504787a22b06f9e4d0a75be5a55b65dc83,University of Nevada Las Vegas,57%,43%,13%,33%,19%,5%,30%,10%,23%,25%,1%,1%,1%,39%,172,A,n/a,n/a,Nevada,178.0,n/a,n/a,False,
+84ceba9298d90eb3af7627723dcdce4d77dcf7c2,Cornell University,53%,47%,23%,39%,14%,3%,21%,14%,46%,26%,2%,nan,nan,13%,173,A,n/a,n/a,New York,153.0,15105,Hybrid,True,
+06d563f4b3d38b11d41454f9d9a107514b6c3c3f,Washington & Lee University,50%,50%,33%,17%,42%,8%,nan,nan,nan,11%,46%,32%,7%,4%,174,A,n/a,n/a,Virginia,52.0,1822,Primarily in person,True,
+e41ad4a722553e966c413ec874591dfd41cc1104,University of Wisconsin - Milwaukee,52%,48%,10%,29%,23%,9%,29%,10%,37%,26%,2%,1%,nan,24%,175,A,n/a,n/a,Wisconsin,516.0,21027,n/a,False,
+623edf341becbb6579c3e762912a50654c679717,Mississippi State University,50%,50%,37%,21%,19%,nan,23%,3%,8%,26%,22%,6%,1%,34%,176,A,n/a,n/a,Mississippi,542.0,18010,Hybrid,True,
+c1c6702b513551ffeaa9ed2ac920b58a727143a2,Hartwick College,58%,42%,17%,25%,8%,nan,50%,14%,34%,21%,nan,nan,nan,31%,177,A,n/a,n/a,New York,20.0,1165,n/a,False,
+64947af3142c47a8344d1248cc0d74ed6b78c74a,Alcorn State University,64%,36%,5%,63%,11%,5%,16%,14%,10%,43%,2%,nan,5%,26%,178,A,n/a,n/a,Mississippi,36.0,3106,Primarily online,True,
+e334d5595c04e2e4540bfdfcad388710a6cbee43,San Jose State University,50%,50%,4%,54%,13%,3%,26%,12%,34%,19%,4%,nan,2%,29%,179,A,n/a,n/a,California,50.0,27125,Primarily online,True,
+fbe4334457e5b6590869d87a90f727e58d945c7b,Gallaudet University,54%,46%,nan,11%,22%,nan,67%,11%,25%,21%,nan,nan,4%,39%,180,A,n/a,n/a,Washington D.C.,1.0,1112,Fully online,True,
+c19c0108e226171d4ac7437f81badd60c04c2998,Brown University,54%,46%,9%,62%,29%,nan,nan,51%,40%,3%,nan,nan,2%,5%,181,A,n/a,n/a,Rhode Island,24.0,6752,Primarily online,True,
+6a8884a188e9715ede59769e9eb6653458ea07de,Harvard University,49%,51%,11%,37%,33%,nan,19%,27%,49%,6%,6%,4%,2%,6%,182,A,n/a,n/a,Massachusetts,72.0,7582,Fully online,True,
+7bce4b8012b5eee844df5bc1faf096bdae08547a,University of Rhode Island,56%,44%,18%,32%,21%,2%,28%,12%,23%,26%,4%,1%,1%,33%,183,A,22,n/a,Rhode Island,192.0,13743,Other,True,
+a77200ab9bd80f5a03892a17b128b45e06284f93,Central State University,60%,40%,nan,62%,15%,nan,23%,7%,20%,37%,13%,7%,nan,17%,184,A,n/a,n/a,Ohio,10.0,2079,Primarily in person,True,
+c895149b9614db6dc7fa944e2188ceb3605c89b9,California Polytechnic State University (Cal Poly) - San Luis Obispo,49%,51%,17%,43%,17%,4%,19%,1%,22%,33%,16%,2%,1%,25%,185,A,n/a,n/a,n/a,n/a,n/a,n/a,False,
+9359aa01232a99c205b428a6a5fe73e1fa298819,Columbia University,47%,53%,10%,46%,21%,13%,10%,32%,47%,13%,1%,nan,nan,7%,186,A,n/a,n/a,New York,14.0,n/a,Fully online,False,
+af759a1a9446405dd6b02f9b95a390bb4f5fdc21,Fort Hays State University,59%,41%,32%,14%,29%,4%,21%,4%,6%,29%,18%,8%,nan,35%,187,A,n/a,n/a,Kansas,284.0,12456,Hybrid,True,
+0e4bc3a8af48da934ce3353912d13866d14c1377,Oregon State University,46%,54%,19%,36%,21%,3%,21%,8%,27%,24%,10%,1%,1%,30%,188,A,n/a,n/a,Oregon,99.0,24787,Primarily online,True,
+88f27d0d5887135ce176024ae3bf9430df4949a2,University of Central Missouri,55%,45%,19%,25%,17%,nan,39%,5%,17%,14%,5%,2%,2%,58%,189,A,n/a,n/a,Missouri,494.0,8113,Primarily in person,True,
+5a211a4708d5e3d8c99a455573416da2e5150c95,Eastern Illinois University,59%,41%,22%,34%,17%,5%,22%,8%,13%,28%,7%,nan,1%,43%,190,A,n/a,n/a,Illinois,305.0,4631,Primarily in person,True,
+465c75177be4e3c855b96374b2bde3ce032b55e0,SUNY Fredonia,58%,42%,10%,31%,38%,nan,21%,13%,32%,16%,2%,nan,3%,35%,191,A,n/a,n/a,n/a,n/a,n/a,n/a,False,
+968369180365f6ea4cabebad6aa149d3eebd6d59,Colorado State University,52%,48%,26%,26%,23%,3%,22%,6%,26%,33%,6%,0%,1%,27%,192,A,n/a,n/a,Colorado,468.0,n/a,n/a,False,
+821d85d04b9dff4c3bde00063079914eb85631c2,Fort Valley State University,60%,40%,nan,67%,20%,nan,13%,5%,10%,32%,10%,10%,nan,34%,193,A,n/a,n/a,Georgia,39.0,2337,Primarily in person,True,
+90a6a3606f3c3bad0928ea0bfbef6d565acc30be,The College of Saint Rose,67%,33%,nan,31%,31%,4%,35%,6%,24%,24%,2%,2%,nan,43%,194,A,n/a,n/a,New York,2.0,2469,n/a,False,
+a5f763c5186f23ae49666e3d2406414457bbb81b,SUNY Plattsburgh,57%,43%,nan,35%,29%,12%,24%,6%,28%,21%,nan,nan,nan,45%,195,A,n/a,n/a,New York,3.0,n/a,n/a,False,
+90099a93486e74903c8a12e6449cf73e52c9af8f,Langston University,63%,37%,3%,45%,29%,3%,21%,13%,15%,27%,10%,nan,2%,33%,196,A,n/a,n/a,Oklahoma,28.0,1910,Primarily online,True,
+872fa019a3639f16b2a669975369218dce712ef0,Wittenberg University,55%,45%,22%,39%,28%,nan,11%,5%,32%,35%,8%,nan,nan,19%,197,A,n/a,n/a,Ohio,178.0,1701,Hybrid,True,
+dfcf113da61439bb2dc90420695945c8265f9829,Berklee College of Music,41%,59%,7%,39%,24%,5%,24%,31%,23%,13%,3%,1%,nan,30%,198,A,n/a,n/a,n/a,n/a,6332,Fully online,False,
+96dacd91ff9da7af67584db33075c2aa27c004ac,University of Houston,50%,50%,13%,41%,14%,1%,31%,9%,26%,31%,5%,0%,1%,28%,199,A-,n/a,n/a,Texas,245.0,37291,Primarily online,True,
+b28dec0404fd7986f8ba1133e8f4b6965a62aff7,University of Richmond,52%,48%,23%,38%,19%,4%,15%,nan,2%,61%,24%,7%,nan,5%,200,A-,n/a,n/a,Virginia,20.0,3215,Primarily in person,True,
+b0602634dbe7c45c97c52145105046e77dc45750,University of Notre Dame,48%,52%,51%,22%,15%,5%,7%,nan,1%,17%,64%,10%,1%,6%,201,A-,n/a,n/a,Indiana,787.0,8568,Primarily in person,True,
+4acd75ab5ce05e6b7a39c7310550e61816754277,East Stroudsburg University of Pennsylvania,56%,44%,11%,35%,14%,5%,35%,7%,11%,32%,2%,nan,nan,49%,202,A-,n/a,n/a,n/a,n/a,5599,Primarily online,False,
+121e681f63c250b357ffab117ebab01abdf53ebc,Boston College,53%,47%,23%,35%,29%,3%,10%,2%,16%,36%,28%,4%,nan,13%,203,A-,n/a,n/a,Massachusetts,188.0,9639,Primarily in person,True,
+70b0609d3450d7cd12ffb31effd019920f31fdec,North Carolina State University,47%,53%,29%,28%,28%,1%,14%,2%,12%,38%,21%,3%,1%,24%,204,A-,n/a,n/a,North Carolina,1134.0,n/a,Fully online,False,
+ed4a1d9eeefa1ea49f8f4521930ee327ff865a39,Marquette University,54%,46%,28%,35%,15%,2%,20%,3%,17%,39%,26%,3%,nan,13%,205,A-,n/a,n/a,Wisconsin,381.0,8200,Hybrid,True,
+d6249e8c2c4f43e976ea78c19157d33df6e6c64a,University at Buffalo SUNY,43%,57%,13%,33%,19%,2%,34%,7%,30%,23%,3%,nan,1%,37%,206,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+f505c38eb2b615cf005b8137f6a988f851c0c3d5,University of Nebraska at Kearney,59%,41%,13%,29%,25%,nan,33%,3%,9%,38%,9%,3%,nan,38%,207,A-,n/a,n/a,Nebraska,119.0,4328,Hybrid,True,
+f428303c9b75ae91a16383e7862784d47a670389,University of Connecticut,51%,49%,16%,34%,24%,2%,23%,5%,33%,19%,1%,nan,1%,41%,208,A-,n/a,n/a,Connecticut,300.0,18830,Primarily online,True,
+4172b3fa07abaabbc3fc62358b354804892c73f3,Rutgers University - Newark,55%,45%,5%,60%,12%,nan,24%,11%,26%,24%,2%,3%,nan,35%,209,A-,n/a,n/a,n/a,n/a,8761,n/a,False,
+f6bfb0f5c20e03956942621dc8fe3180434616cf,Philander Smith College,66%,34%,9%,64%,9%,9%,9%,13%,17%,25%,17%,nan,nan,29%,210,A-,n/a,n/a,n/a,n/a,1000,n/a,False,
+970c859687638dd31763828c31400d5756d3ebb6,Purdue University,42%,58%,33%,20%,18%,2%,27%,3%,17%,30%,18%,2%,nan,31%,211,A-,n/a,n/a,Indiana,1008.0,n/a,n/a,False,
+5a241cef281708fdd0868ba59cc3056bf90b4734,Kutztown University of Pennsylvania,53%,47%,21%,37%,23%,2%,16%,1%,10%,31%,7%,nan,4%,48%,212,A-,n/a,n/a,n/a,n/a,7335,Hybrid,False,
+0d53668d5220af4d783a8891ae37eff124f348fd,Florida International University,57%,43%,14%,39%,23%,3%,22%,14%,20%,23%,4%,0%,1%,37%,213,A-,n/a,n/a,Florida,153.0,41777,Primarily online,True,
+7bcac1fe40ff478a223b9a7a6446336295b23e90,Lincoln University of Pennsylvania,66%,34%,10%,65%,5%,nan,20%,5%,21%,26%,8%,5%,nan,36%,214,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+bbdb08d9567bce03af932fbf7c68ef97e70b0774,Spring Hill College,61%,39%,31%,31%,19%,nan,19%,nan,16%,24%,20%,4%,nan,36%,215,A-,n/a,n/a,Alabama,104.0,1252,n/a,False,
+6c9ad05004225146be31abcb37b83e4f799a7b4a,SUNY College of Environmental Science & Forestry,47%,53%,nan,40%,30%,nan,30%,21%,37%,11%,nan,nan,nan,32%,216,A-,n/a,n/a,New York,3.0,1819,n/a,False,
+3f06b281b473160f3fbb1f5c6eba794612361169,Stevens Institute of Technology,29%,71%,14%,10%,29%,5%,43%,9%,15%,15%,9%,nan,3%,50%,217,A-,n/a,n/a,New Jersey,15.0,3420,Hybrid,True,
+25302b64f0e41dceae4e9efedab7b3a656962831,Appalachian State University,56%,44%,26%,28%,28%,4%,14%,17%,38%,25%,4%,nan,1%,15%,218,A-,n/a,n/a,North Carolina,863.0,17265,Primarily online,True,
+88f6786e4a91d54932c971ff7d5091f21a1bc0f4,University of South Florida,55%,45%,19%,30%,20%,4%,27%,9%,26%,28%,4%,0%,0%,33%,219,A-,n/a,n/a,Florida,550.0,n/a,Hybrid,False,
+6182cbb96136851997a7136dd2b77975e1fee1fc,Northern Illinois University,51%,49%,11%,45%,10%,1%,33%,6%,24%,17%,5%,1%,1%,45%,220,A-,n/a,n/a,Illinois,301.0,12761,n/a,False,
+abded54a8f92eaaafa323e899f68b62f96562553,California State University - Long Beach,57%,43%,6%,53%,16%,4%,21%,14%,41%,18%,2%,nan,0%,25%,221,A-,n/a,n/a,n/a,n/a,31503,n/a,False,
+7ffdb54b54ac384a09453a490ec0899f33ea6ea8,Ferris State University,50%,50%,30%,22%,15%,nan,33%,6%,10%,22%,10%,nan,1%,51%,222,A-,n/a,n/a,Michigan,161.0,11008,Primarily in person,True,
+c2ad3251e785a6fbe6cd2a5c5e10f7a7c2cc0245,Virginia State University,58%,42%,3%,68%,nan,nan,29%,12%,17%,31%,7%,2%,1%,29%,223,A-,n/a,n/a,Virginia,3.0,3986,Fully online,True,
+e8d859336ad8bcf9e2b5786828e507843437ac1d,University of Wisconsin - Stout,43%,57%,30%,26%,4%,4%,35%,3%,13%,21%,5%,nan,3%,55%,224,A-,n/a,n/a,Wisconsin,15.0,7445,Primarily online,True,
+9877431105d7c87e0dd4cfc80749784346897987,SUNY New Paltz,62%,38%,5%,45%,13%,nan,38%,31%,46%,5%,2%,1%,1%,14%,225,A-,n/a,n/a,New York,45.0,n/a,n/a,False,
+2087578be444bc94bdc4a31de201ac1853a3550f,Bradley University,51%,49%,11%,24%,19%,nan,46%,nan,17%,33%,9%,nan,nan,41%,226,A-,n/a,n/a,Illinois,338.0,4598,Primarily online,True,
+b731e25ec85423e53b2171b5f65ee1b6cea46cf7,South Dakota State University,51%,49%,51%,23%,10%,nan,15%,1%,10%,23%,16%,6%,nan,44%,227,A-,n/a,n/a,South Dakota,91.0,9314,Hybrid,True,
+a2e699bd7657a682854849898b7315e83fba0489,University of the Arts,63%,37%,nan,54%,14%,4%,29%,47%,18%,13%,nan,nan,nan,22%,228,A-,n/a,n/a,n/a,n/a,n/a,Fully online,False,
+ca75fd6f72493fcd530f79aa879dc906b9fd50aa,Bowie State University,62%,38%,3%,58%,13%,3%,24%,13%,17%,29%,8%,2%,nan,32%,229,A-,n/a,n/a,Maryland,18.0,5197,Primarily in person,True,
+a91d18f0496feb8570396199762eb96b377b16f6,University of Akron,46%,54%,14%,25%,17%,2%,42%,6%,16%,27%,2%,1%,2%,47%,230,A-,n/a,n/a,Ohio,61.0,n/a,Primarily online,False,
+47a108eb631482b2e201061a91f56615bf5b7a3d,Georgia College & State University,63%,37%,28%,23%,21%,nan,28%,3%,14%,25%,13%,6%,3%,36%,231,A-,n/a,n/a,Georgia,724.0,5834,Primarily in person,True,
+7748e57c8d0caf2ba69efd7464ee8d2b88352c69,Rhodes College,56%,44%,7%,50%,36%,nan,7%,2%,19%,40%,14%,2%,nan,23%,232,A-,n/a,n/a,Tennessee,5.0,1985,Fully online,True,
+d77ea2d90646b935d653bec8764b613b87f6091d,University of Memphis,58%,42%,14%,33%,19%,5%,28%,3%,20%,32%,8%,2%,nan,36%,233,A-,n/a,n/a,Tennessee,256.0,15563,Primarily online,True,
+94e14423c70e2e2ba36068b805c1dc9e40eb21c6,University of Scranton,57%,43%,13%,31%,13%,nan,44%,nan,6%,26%,26%,6%,nan,35%,234,A-,n/a,n/a,Pennsylvania,380.0,3624,Hybrid,True,
+9c2b520715a37fb5c26ec546171213fdc4d3fdfc,Gettysburg College,52%,48%,29%,35%,29%,nan,6%,5%,22%,38%,19%,nan,nan,16%,235,A-,n/a,n/a,Pennsylvania,87.0,2441,Primarily online,True,
+d48a5c61f4704be45da4628909664ea53c8701cd,Hendrix College,52%,48%,23%,54%,8%,nan,15%,45%,52%,3%,nan,nan,nan,nan,236,A-,n/a,n/a,Arkansas,9.0,1192,n/a,False,
+b06807dec186127855712b1288b11a095bd42af5,Hampden-Sydney College,0%,100%,nan,nan,nan,nan,nan,nan,14%,nan,43%,43%,nan,nan,237,A-,n/a,n/a,Virginia,58.0,1072,n/a,False,
+fbf06ad5368da676db7b8d7cea034eb9a7b7755d,Georgia Institute of Technology,39%,61%,20%,27%,30%,5%,18%,3%,15%,31%,20%,nan,3%,28%,238,A-,n/a,n/a,Georgia,929.0,n/a,Hybrid,False,
+bf96e5f3fb107915ce2fdf26e0f8d812aa585cd8,Wayne State College,56%,44%,56%,19%,6%,nan,19%,nan,10%,27%,17%,3%,nan,43%,239,A-,n/a,n/a,Nebraska,102.0,2754,Fully in person,True,
+08229f6ec4267daa0f1b344e869d47a3261d156c,Southeast Missouri State University,58%,42%,16%,16%,19%,nan,48%,4%,13%,28%,6%,2%,nan,47%,240,A-,n/a,n/a,Missouri,315.0,8379,Primarily in person,True,
+f75187dea4fb2cc76c9261226f027a1b226ccee3,University of Southern Mississippi,65%,35%,13%,32%,17%,4%,34%,7%,4%,38%,9%,2%,nan,40%,241,A-,n/a,n/a,Mississippi,301.0,11834,Primarily online,True,
+679fb5b346113abb3e64dbe016e5b1dc4ee9d988,Washington University in St. Louis,53%,47%,6%,46%,29%,6%,14%,18%,57%,12%,1%,nan,nan,12%,242,A-,n/a,n/a,Missouri,76.0,7356,Primarily online,True,
+ff9b03e9cf854d2404e6f3f14e47b1ff26fa0e70,University of Wisconsin - Eau Claire,62%,38%,26%,37%,12%,7%,19%,8%,33%,24%,1%,1%,1%,31%,243,A-,n/a,n/a,Wisconsin,436.0,10485,n/a,False,
+45b00659948db918f2965d4755c98e3bbfc533b1,University of West Georgia,63%,37%,19%,31%,13%,3%,34%,2%,13%,30%,11%,2%,2%,42%,244,A-,n/a,n/a,Georgia,178.0,10448,Primarily in person,True,
+ff3b8366a8cd59f4a011552e0f3eaf30d1afd371,SUNY Potsdam,60%,40%,5%,45%,18%,9%,23%,8%,8%,28%,8%,nan,3%,44%,245,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+71282ab71274d682ba1691b16f4b7a55cb5ea1a0,University of North Carolina - Wilmington,60%,40%,29%,29%,27%,nan,15%,6%,24%,36%,9%,nan,1%,23%,246,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+7a00c8deebfbacdea661a62602163a32f67292d1,Dillard University,76%,24%,nan,71%,6%,6%,18%,9%,16%,22%,13%,3%,nan,38%,247,A-,n/a,n/a,n/a,n/a,1309,n/a,False,
+000c19fedf2ab904bb12d379c328107ace8845cc,Mississippi Valley State University,57%,43%,nan,64%,nan,9%,27%,nan,nan,33%,19%,10%,nan,38%,248,A-,n/a,n/a,Mississippi,35.0,1659,Primarily online,True,
+4143787e2913843b1b7ae513b65cc09108934857,Cornish College of the Arts,68%,32%,nan,40%,40%,nan,20%,57%,36%,nan,nan,nan,nan,7%,249,A-,n/a,n/a,n/a,n/a,623,n/a,False,
+ae4394b3771b08d206983a0b70fb534c0cdfc1b0,Winona State University,64%,36%,17%,17%,30%,4%,30%,2%,18%,18%,7%,nan,2%,52%,250,A-,n/a,n/a,Minnesota,403.0,7052,Primarily online,True,
+07686cd1a62959aa18272b45eb0334948cb492b0,Indiana State University,55%,45%,20%,27%,17%,nan,36%,5%,16%,36%,8%,1%,1%,33%,251,A-,n/a,n/a,Indiana,99.0,10348,Primarily in person,True,
+8c632ff702ecc338cfe3eb08ac99fecaf65f76dc,Boise State University,55%,45%,22%,27%,25%,6%,19%,5%,13%,40%,13%,4%,1%,24%,252,A-,n/a,n/a,Idaho,400.0,16526,Primarily in person,True,
+8ac3716edd50538667a49d8c837280e14bcb5cb1,University of Utah,47%,53%,29%,31%,19%,9%,12%,2%,28%,38%,10%,2%,1%,20%,253,A-,n/a,n/a,Utah,694.0,23396,Primarily online,True,
+e00d8514ad583a626b1c7252aefea99eed23180e,Frostburg State University,47%,53%,21%,42%,9%,6%,21%,5%,25%,30%,2%,nan,nan,38%,254,A-,n/a,n/a,Maryland,60.0,4359,Primarily online,True,
+c1741b30d7f72671bf99477e391ef45c7a4196fa,California Institute of the Arts,55%,45%,14%,14%,29%,14%,29%,60%,33%,nan,nan,nan,nan,7%,255,A-,n/a,n/a,n/a,n/a,1003,Primarily online,False,
+39c516495a2082b435b332dc3051a7d9ab410ace,Florida Memorial University,61%,39%,6%,53%,6%,nan,35%,14%,12%,24%,19%,2%,2%,26%,256,A-,n/a,n/a,Florida,2.0,1117,n/a,False,
+73446bb9dc679e871b4ddf42a4e2ddb5510e1e50,Quinnipiac University,61%,39%,18%,28%,31%,2%,21%,3%,15%,27%,9%,3%,1%,43%,257,A-,n/a,n/a,Connecticut,11.0,7371,Primarily in person,True,
+7f1bce587c23f0e61e0bcb0f2f641ac41d43067d,Barnard College,100%,0%,nan,67%,17%,nan,17%,45%,45%,6%,3%,nan,nan,nan,258,A-,n/a,n/a,New York,1.0,2557,Fully online,True,
+4e6ce2d8189720e50e469059a400cc5d36f30a23,University of North Carolina - Greensboro,66%,34%,15%,34%,23%,1%,27%,21%,31%,16%,1%,1%,1%,29%,259,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+81461fa2a044930615186a5c3ff4aac593c68ecc,St. Norbert College,58%,42%,25%,21%,29%,4%,21%,3%,13%,21%,21%,3%,3%,38%,260,A-,n/a,n/a,n/a,n/a,n/a,Primarily online,False,
+5b694b9acf26dc2b3e189e9ae893a5c3257c792a,University of Wyoming,49%,51%,47%,18%,20%,4%,12%,nan,7%,27%,27%,14%,1%,24%,261,A-,n/a,n/a,Wyoming,456.0,9854,Primarily in person,True,
+1a5c7b9463b0b5bd55f992a54efbaf60fc8eeeea,Montana State University,46%,54%,23%,27%,27%,5%,19%,8%,16%,34%,20%,1%,1%,21%,262,A-,n/a,n/a,Montana,157.0,14566,n/a,False,
+3abcea8dcb5b8f257c103af53dc49f46e985ebed,Slippery Rock University,55%,45%,32%,34%,13%,nan,21%,4%,17%,32%,7%,1%,nan,39%,263,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+4c3f02f361a7989e0b605c6ef60b6ad9c5335d64,University of California - Riverside,54%,46%,8%,59%,13%,1%,18%,15%,35%,21%,2%,nan,nan,28%,264,A-,n/a,n/a,n/a,n/a,20574,n/a,False,
+f8c9e10276de9b24a0aeb3a36096c0dea907021f,Valdosta State University,63%,37%,21%,39%,23%,nan,18%,5%,15%,32%,12%,nan,nan,36%,265,A-,n/a,n/a,Georgia,118.0,8404,Primarily in person,True,
+dd04c219be6117e6494d4e49b006169d2ea3a54c,University of Tennessee - Martin,58%,42%,47%,21%,nan,nan,32%,nan,15%,13%,26%,2%,nan,43%,266,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+21e16a19813e2f979fba06ad9bdacac5b3210925,Sewanee - The University of the South,51%,49%,14%,36%,21%,7%,21%,6%,19%,38%,28%,nan,nan,9%,267,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+7f4b5e4b3a960c7b7537d3b35b3b9305385db326,Southern Connecticut State University,61%,39%,12%,34%,17%,5%,32%,8%,24%,17%,5%,nan,nan,45%,268,A-,n/a,n/a,Connecticut,20.0,7890,Primarily online,True,
+04c87b5c4409cabf4cff6bb734fe512f3d0e6489,Shaw University,57%,43%,8%,42%,25%,8%,17%,3%,14%,21%,10%,7%,nan,45%,269,A-,n/a,n/a,North Carolina,4.0,1302,n/a,False,
+d6e9ab140fe463144e75c6dc717f4c5d022e024b,University of South Carolina - Upstate,67%,33%,17%,29%,26%,nan,29%,5%,19%,19%,14%,nan,nan,43%,270,A-,n/a,n/a,n/a,n/a,5403,n/a,False,
+8172ae9657f99bf5c35500020bff4809bf09fa9c,Northwestern University,51%,49%,3%,69%,14%,7%,7%,11%,60%,20%,2%,nan,nan,6%,271,A-,n/a,n/a,Illinois,146.0,8451,Primarily online,True,
+bf1faa80aa3249a567901b6513dd167372ac62fc,Texas A&M University - Commerce,60%,40%,30%,30%,24%,nan,15%,3%,2%,32%,16%,3%,nan,44%,272,A-,n/a,n/a,Texas,200.0,8201,n/a,False,
+27f51ca11911e865c01a1c76510524c446dcb430,Community College of Denver,57%,43%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,273,A-,n/a,n/a,Colorado,42.0,6738,Hybrid,True,
+cb7c29971d50ba8d7e0bfb5b6097acd5fb6832c9,St. Lawrence University,55%,45%,31%,38%,31%,nan,nan,9%,32%,34%,9%,2%,nan,14%,274,A-,n/a,n/a,New York,2.0,2406,Hybrid,True,
+e41ddae658d330511bd9cf1609d53df00e6dca37,Xavier University of Louisiana,75%,25%,3%,63%,19%,3%,13%,8%,14%,24%,17%,2%,nan,35%,275,A-,n/a,n/a,n/a,n/a,2437,Primarily in person,False,
+256845ddb6d7a08aed7b1be409d05e5f22a021d8,University of North Carolina at Charlotte,46%,54%,18%,35%,23%,1%,23%,4%,22%,25%,6%,1%,nan,41%,276,A-,n/a,n/a,North Carolina,217.0,23939,Primarily online,True,
+a5be3bd4c8dc2ebaeb83aab05ee6cec18cf0c8c4,Northern Arizona University,61%,39%,17%,34%,29%,nan,20%,11%,33%,20%,3%,1%,0%,32%,277,A-,n/a,n/a,Arizona,188.0,26647,Primarily online,True,
+d20726e1620c0f1cb733d3009d99070620f0c4dc,Marshall University,57%,43%,18%,33%,27%,4%,18%,5%,16%,38%,9%,1%,nan,31%,278,A-,n/a,n/a,West Virginia,97.0,8086,Primarily online,True,
+115ad31ea68f82cac7790143f895fb731957da47,Wartburg College,54%,46%,36%,21%,21%,nan,21%,4%,25%,25%,7%,nan,nan,39%,279,A-,n/a,n/a,Iowa,69.0,1468,Primarily in person,True,
+baad8270a997eb4d3c601fb0859873174bbee062,Monmouth University,58%,42%,12%,15%,24%,6%,42%,6%,9%,26%,9%,2%,2%,46%,280,A-,n/a,n/a,New Jersey,90.0,4595,Primarily in person,True,
+bf719fd72bb87c306ee3cd1e22377c38aec7509e,SUNY Alfred State College,35%,65%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,281,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+8b53c8f1975d4effc310756a7742b16b385b4ecb,Saint Louis University,60%,40%,22%,36%,21%,7%,14%,7%,12%,35%,17%,4%,1%,24%,282,A-,n/a,n/a,Missouri,157.0,6917,Primarily in person,True,
+f79e169a3165c044ec51e13158f59644e1093332,Louisiana State University Health Sciences Center - New Orleans,88%,12%,nan,nan,nan,nan,nan,nan,nan,33%,nan,nan,nan,67%,283,A-,n/a,n/a,n/a,n/a,915,n/a,False,
+266aa4e5a0a6f706c9ec12ca423da1ec31c239d8,University of Texas - San Antonio,51%,49%,15%,30%,16%,3%,36%,6%,20%,30%,6%,1%,1%,37%,284,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+6fd15e4fcf5adbc12ecf32a24f5c5949f3490781,Westminster College - Missouri,45%,55%,33%,50%,nan,nan,17%,8%,17%,17%,8%,nan,nan,50%,285,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+ddb55f46c171820b7685f91a0feeebbaba62c721,Minerva Schools at Keck Graduate Institute,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,286,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+7d3db1e1f13638a59bade82e688e04420acd0925,California State University - Fullerton,57%,43%,11%,45%,21%,2%,21%,5%,32%,27%,4%,0%,0%,31%,287,A-,n/a,n/a,n/a,n/a,34637,n/a,False,
+ed795237472be68f8d86a3fb3df6c0b95893bd9f,Sacred Heart University,64%,36%,25%,25%,17%,6%,28%,2%,11%,23%,11%,6%,nan,47%,288,A-,n/a,n/a,Connecticut,283.0,5907,Primarily in person,True,
+e387e3ddf8cfbca6be4ad29879c256b79ed47b8c,Arizona State University - Downtown Phoenix Campus,69%,31%,17%,42%,21%,4%,17%,4%,44%,16%,nan,nan,nan,36%,289,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+c1f3e0b4902895e3102a36d54bf5971252ee70aa,Sam Houston State University,62%,38%,23%,26%,17%,2%,33%,2%,12%,33%,12%,2%,2%,37%,290,A-,n/a,n/a,Texas,476.0,18498,Hybrid,True,
+2a8d2107bce6b6181afd8ec89656841787f9f8b0,York College of Pennsylvania,55%,45%,9%,26%,35%,nan,29%,6%,14%,37%,11%,3%,nan,29%,291,A-,n/a,n/a,Pennsylvania,27.0,3960,Hybrid,True,
+11d776c5aa13c456601aa38c830240b728f6fe76,Northeastern University,51%,49%,5%,57%,24%,3%,11%,10%,43%,25%,2%,nan,nan,20%,292,A-,n/a,n/a,Massachusetts,106.0,13760,Hybrid,True,
+9f92dd335989b7aa1089f885c21e3fef21cb45d8,Jacksonville State University,57%,43%,26%,22%,22%,nan,30%,6%,4%,42%,10%,4%,nan,35%,293,A-,n/a,n/a,Alabama,219.0,6394,Primarily online,True,
+9dac8c5ec9fcda00170798353c2eca54ad564894,La Salle University,61%,39%,20%,50%,15%,nan,15%,nan,21%,33%,2%,5%,nan,40%,294,A-,n/a,n/a,Pennsylvania,15.0,3766,Fully online,True,
+be873224a7b31d2333c8da87d672068349aaf977,University of Alabama - Birmingham,60%,40%,23%,44%,7%,7%,20%,10%,18%,30%,4%,1%,1%,37%,295,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+ff704033f1a5c858322381d84c9b0db21321177c,Pitzer College,56%,44%,nan,57%,29%,14%,nan,57%,32%,5%,3%,nan,nan,3%,296,A-,n/a,n/a,California,1.0,1072,n/a,False,
+df3799d2b6076b2515954148f09d87cbe5b167a1,University of Arkansas at Pine Bluff,59%,41%,4%,62%,8%,nan,27%,8%,13%,23%,15%,3%,nan,38%,297,A-,n/a,n/a,Arkansas,139.0,2467,Primarily online,True,
+ab9d1f61157f15cb56cd3a409db3193ab40f6eb1,Elon University,60%,40%,22%,54%,17%,2%,5%,3%,19%,33%,28%,3%,1%,13%,298,A-,n/a,n/a,North Carolina,239.0,6196,Primarily in person,True,
+5aa75d05dbfe8206a7c287006f947ad5b2b46305,Springfield College - Massachusetts,50%,50%,11%,39%,22%,nan,28%,4%,15%,26%,7%,nan,nan,48%,299,A-,n/a,n/a,n/a,n/a,n/a,n/a,False,
+35d1264adafc21d4a846c36aa07c3064cf9eeaec,University of Toledo,49%,51%,17%,38%,14%,2%,30%,4%,13%,34%,6%,nan,nan,43%,300,A-,n/a,n/a,Ohio,358.0,14893,Primarily in person,True,
+18f9368affc77286017d07fa6239a34873571dfb,Johnson C. Smith University,61%,39%,nan,72%,11%,nan,17%,10%,26%,21%,nan,2%,nan,41%,301,A-,n/a,n/a,North Carolina,1.0,1480,Fully online,True,
+4ff85eb338971f1f1f865d89f4ec02d3faef3b19,Claremont McKenna College,48%,52%,9%,45%,18%,9%,18%,4%,19%,56%,4%,nan,7%,11%,302,B+,n/a,n/a,California,nan,1318,n/a,False,
+01f62be9121def85a485f2c4c6634ab543dd6848,Stanford University,50%,50%,14%,50%,21%,nan,14%,22%,48%,20%,1%,1%,nan,7%,303,B+,n/a,n/a,California,137.0,7083,Primarily online,True,
+4be9eb7a2c99cb0b7e78175fcea26087e2f2be08,College of the Holy Cross,51%,49%,28%,44%,17%,nan,11%,nan,22%,28%,31%,11%,nan,8%,304,B+,n/a,n/a,Massachusetts,20.0,2913,Fully online,True,
+04784a8c906a6a07b60088b592891aa64805b588,Northwestern State University of Louisiana,69%,31%,29%,33%,17%,4%,17%,4%,6%,33%,6%,2%,nan,50%,305,B+,n/a,n/a,Louisiana,261.0,8265,n/a,False,
+c665810325ad7c49ca76b783521a94e20b72372f,Ithaca College,57%,43%,2%,46%,24%,2%,26%,43%,49%,nan,nan,nan,1%,8%,306,B+,n/a,n/a,New York,13.0,6072,Fully online,True,
+78f2ac835b805627e04c93348a8d437355f928e0,Lynn University,49%,51%,25%,25%,13%,nan,38%,6%,18%,35%,6%,nan,nan,35%,307,B+,n/a,n/a,Florida,29.0,2194,n/a,False,
+b923eb19db9ed32ad86b809ba44927a55b83a396,St. Cloud State University,52%,48%,26%,32%,16%,3%,24%,8%,29%,15%,9%,nan,2%,38%,308,B+,n/a,n/a,Minnesota,69.0,n/a,Primarily online,False,
+2ce3e7d48bbaedb6216a3ac0dcd83379a8bb46d6,Fisk University,70%,30%,nan,68%,16%,nan,16%,6%,25%,28%,9%,3%,3%,25%,309,B+,n/a,n/a,n/a,n/a,743,n/a,False,
+e161032b24ed9001d3b25c360fcc5ed51d39932b,Wesleyan University,55%,45%,4%,74%,17%,nan,4%,72%,24%,2%,nan,nan,nan,2%,310,B+,n/a,n/a,Connecticut,9.0,2922,n/a,False,
+6db7723cd631b26451e43134f279d8b1ae615f47,LIM College,89%,11%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,311,B+,n/a,n/a,n/a,n/a,1503,n/a,False,
+4f7888195a5ef9bdce75bb4a46736548618b1d21,California State University - Sacramento,56%,44%,13%,33%,19%,4%,31%,5%,28%,27%,3%,0%,nan,37%,312,B+,n/a,n/a,n/a,n/a,28439,n/a,False,
+9ef3de947477875410c3cbbf6154ea6461f651be,Troy University,61%,39%,38%,23%,10%,2%,28%,3%,7%,25%,17%,3%,1%,45%,313,B+,n/a,n/a,Alabama,160.0,13147,Hybrid,True,
+b26758079627454899d7e87fdb5aa6b6dde5548b,Loras College,46%,54%,50%,10%,10%,nan,30%,nan,20%,35%,25%,5%,nan,15%,314,B+,n/a,n/a,Iowa,nan,1361,Hybrid,True,
+1b9ccb997d3093055c11bf2d90a1ad5d9032784e,University of Central Arkansas,61%,39%,26%,30%,21%,2%,21%,3%,16%,40%,11%,1%,nan,28%,315,B+,n/a,n/a,Arkansas,238.0,8906,Primarily online,True,
+3c39fe1a54db0c727d65eb8de5ce7ccf14c89ed4,Widener University,55%,45%,23%,27%,17%,3%,30%,7%,7%,38%,5%,nan,nan,43%,316,B+,n/a,n/a,Pennsylvania,25.0,3201,Primarily online,True,
+858ca82985bac366382edaf675f508c9aa18a8f5,Rockhurst University,57%,43%,50%,17%,8%,nan,25%,4%,nan,29%,29%,4%,nan,33%,317,B+,n/a,n/a,Missouri,30.0,1579,Primarily online,True,
+c3b1dc8f86c714b9a214acd5ae195b07f5331dc0,Virginia Union University,54%,46%,7%,64%,7%,14%,7%,6%,16%,29%,3%,6%,nan,39%,318,B+,n/a,n/a,Virginia,6.0,1132,Undetermined,True,
+853929c326977e501d8b50ecddfd3fa9f0a308e4,Columbia College Chicago,58%,42%,2%,49%,12%,3%,34%,39%,34%,6%,1%,2%,1%,17%,319,B+,n/a,n/a,Illinois,3.0,6496,Primarily online,True,
+e7a450d7cb478e94bc668030b4a01ef83e9bef78,Academy of Art University,54%,46%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,320,B+,n/a,n/a,California,nan,6898,n/a,False,
+1e9a7a05802eefc1c1c481c5284e9baceb49d78e,University of Northern Iowa,59%,41%,27%,25%,31%,2%,15%,5%,22%,18%,10%,nan,nan,45%,321,B+,n/a,n/a,Iowa,178.0,9391,Primarily in person,True,
+39c6424e11e04c040fced9b5c357b9fcb6cc700d,Middle Tennessee State University,54%,46%,20%,40%,13%,4%,23%,4%,17%,29%,6%,2%,1%,40%,322,B+,n/a,n/a,Tennessee,277.0,18001,Hybrid,True,
+0173d3804ef6d84e693f6e09a6e8c12fef3767be,Fairfield University,60%,40%,19%,15%,44%,7%,15%,nan,7%,33%,33%,9%,nan,19%,323,B+,n/a,n/a,Connecticut,119.0,4103,Primarily in person,True,
+f3aae3c84a75af0c5cde166966806dc628e09135,University of San Diego,55%,45%,34%,36%,20%,2%,9%,5%,8%,32%,33%,2%,nan,20%,324,B+,n/a,n/a,California,89.0,5760,Primarily online,True,
+657a87f0515d88133c743a2050628a018712c9b8,Skidmore College,61%,39%,nan,50%,33%,nan,17%,28%,57%,8%,3%,nan,nan,5%,325,B+,n/a,n/a,New York,4.0,2598,Hybrid,True,
+cf3886b4dc7f81ef244ccf5f82c89512a273a7cb,Southeastern Louisiana University,62%,38%,11%,37%,37%,nan,16%,2%,5%,34%,12%,7%,nan,41%,326,B+,n/a,n/a,Louisiana,106.0,10994,Hybrid,True,
+7334071cf31022a2eb4fd38074ea6ef67ec7ab4f,Edward Waters College,48%,52%,nan,67%,nan,nan,33%,nan,13%,nan,nan,nan,nan,88%,327,B+,n/a,n/a,Florida,nan,968,Primarily online,True,
+05b0badb39766fc0568f41946d01d809e26b297f,University of Minnesota Duluth,48%,52%,15%,31%,15%,5%,33%,4%,21%,31%,11%,1%,3%,28%,328,B+,n/a,n/a,Minnesota,20.0,n/a,n/a,False,
+94daab4964d08eb0442a8aa8d9fa9856747b1b13,Grand Valley State University,60%,40%,30%,24%,15%,3%,28%,3%,26%,27%,12%,1%,1%,30%,329,B+,n/a,n/a,Michigan,964.0,21589,Hybrid,True,
+94bf247a8d7aea0b56b2d6f3adbbf334b5f2df4a,Drake University,59%,41%,38%,38%,14%,nan,10%,10%,48%,17%,4%,2%,nan,19%,330,B+,n/a,n/a,Iowa,7.0,2952,Primarily in person,True,
+1c50f11896ef7c62591fdae32077ee3bb7572281,Shippensburg University of Pennsylvania,51%,49%,24%,41%,10%,nan,24%,4%,10%,25%,13%,2%,nan,46%,331,B+,n/a,n/a,Pennsylvania,33.0,5343,Primarily online,True,
+17d3b2baeeb51a28dc57ac2f28a67284abcc3ecd,California State University - Fresno,60%,40%,15%,47%,13%,3%,23%,2%,22%,25%,6%,1%,1%,43%,332,B+,n/a,n/a,n/a,n/a,21732,n/a,False,
+98d70f766b74d629f06158f9a05a025a66ef617f,Delaware State University,66%,34%,3%,61%,6%,nan,29%,5%,16%,32%,11%,3%,nan,32%,333,B+,n/a,n/a,Delaware,54.0,3835,Primarily online,True,
+f9ddaaa398b748da18abbc5e647652667db57544,Milwaukee School of Engineering,26%,74%,10%,50%,10%,10%,20%,8%,nan,15%,27%,nan,nan,50%,334,B+,n/a,n/a,Wisconsin,19.0,2582,Hybrid,True,
+a4ab867eb79d4b25f9b69922dae02d7609380420,University of Wisconsin - Platteville,34%,66%,28%,19%,22%,3%,28%,nan,10%,34%,14%,5%,2%,34%,335,B+,n/a,n/a,Wisconsin,240.0,7786,n/a,False,
+5a5343b27afebcbdebf21cd572217f00aa24614b,Claflin University,69%,31%,2%,63%,7%,5%,23%,12%,22%,16%,12%,12%,nan,25%,336,B+,n/a,n/a,South Carolina,1.0,2043,Primarily online,True,
+02059b46b46c1cb7725799fcc77cb4e877b2d01b,University of the District of Columbia,52%,48%,nan,75%,8%,nan,17%,8%,22%,25%,3%,nan,nan,42%,337,B+,n/a,n/a,Washington D.C.,2.0,3656,Primarily online,True,
+2dddcd9a48b67c918a2b0ea2ca47d556c3c23880,Hampton University,66%,34%,4%,76%,10%,2%,8%,9%,23%,26%,12%,4%,nan,26%,338,B+,n/a,n/a,Virginia,nan,3661,Fully online,True,
+ebd2ba965a518d2f0aedbf727aaa5254915b2538,Franklin Pierce University,54%,46%,15%,23%,38%,8%,15%,9%,14%,23%,nan,nan,nan,55%,339,B+,n/a,n/a,New Hampshire,11.0,1627,Primarily in person,True,
+207fd68798473b240ccfd79c8c66c44f4d9b3a15,University of Wisconsin - Stevens Point,52%,48%,10%,35%,19%,13%,23%,5%,25%,22%,4%,2%,4%,38%,340,B+,n/a,n/a,Wisconsin,259.0,8161,n/a,False,
+850ae790872721f993c63a85d66ae80164808841,Merrimack College,50%,50%,6%,nan,65%,nan,29%,4%,18%,14%,7%,7%,nan,50%,341,B+,n/a,n/a,Massachusetts,100.0,3648,Hybrid,True,
+1c1e5f80e3d27d75200646a700f155b8400a9728,Butler University,59%,41%,28%,32%,16%,4%,20%,2%,23%,36%,23%,nan,nan,16%,342,B+,n/a,n/a,Indiana,151.0,4553,Primarily online,True,
+c4a94825e6b14099421bc84ff7042746c181be01,East Tennessee State University,57%,43%,40%,9%,29%,nan,23%,6%,9%,25%,14%,nan,2%,45%,343,B+,n/a,n/a,Tennessee,240.0,10760,Primarily online,True,
+32c37989e1a48b0a1356273c4d89551234c87a82,Aquinas College - Michigan,60%,40%,31%,31%,19%,4%,15%,nan,33%,23%,20%,5%,nan,20%,344,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+1b8db696f4ec638319008feed8bd93aeae78b75c,University of Massachusetts - Lowell,38%,62%,11%,25%,31%,3%,31%,8%,16%,19%,3%,2%,nan,53%,345,B+,n/a,n/a,n/a,n/a,13385,n/a,False,
+68539b3bd6d0400e810965898a1211e784cd630b,Florida Atlantic University,56%,44%,13%,35%,22%,1%,28%,8%,16%,24%,5%,1%,1%,45%,346,B+,n/a,n/a,Florida,180.0,23265,Primarily online,True,
+3e580065d9af46604bc28fc60e82ec4b0628a43b,University of South Alabama,59%,41%,20%,44%,8%,2%,25%,2%,11%,27%,12%,5%,nan,42%,347,B+,n/a,n/a,Alabama,276.0,10035,Primarily online,True,
+b19889e1cb395d3bff1dd55c732d69075df7cbfc,Chadron State College,55%,45%,47%,18%,nan,nan,35%,nan,5%,10%,33%,nan,nan,52%,348,B+,n/a,n/a,Nebraska,53.0,1750,Hybrid,True,
+d64300724062dd472e377e25ad792d36bf3268c7,The Catholic University of America,53%,47%,24%,31%,24%,nan,21%,nan,2%,16%,47%,29%,nan,7%,349,B+,n/a,n/a,n/a,n/a,3294,n/a,False,
+b3b11f0b637252f5af009a51c76588212ceb7e8a,Viterbo University,74%,26%,25%,42%,nan,nan,33%,5%,18%,32%,5%,5%,nan,36%,350,B+,n/a,n/a,Wisconsin,50.0,1709,Primarily in person,True,
+04450197ceb480d35a723e593b000627a8b25c99,St. Francis College,61%,39%,nan,30%,10%,nan,60%,4%,8%,31%,15%,nan,8%,35%,351,B+,n/a,n/a,New York,2.0,2315,n/a,False,
+dfec9160ae269d3e6881c85dc6cb7861c3e1496e,University of Montana,55%,45%,21%,23%,33%,2%,21%,19%,51%,15%,2%,nan,1%,12%,352,B+,n/a,n/a,Montana,127.0,n/a,n/a,False,
+a5ef757d6dff094878ef0868ca9cc689c749b810,Saginaw Valley State University,61%,39%,23%,37%,21%,nan,19%,6%,13%,19%,6%,1%,nan,53%,353,B+,n/a,n/a,Michigan,82.0,7431,Primarily in person,True,
+9622ac4cf255aa543a6a30f25166993cf3ed63fc,Arkansas State University,57%,43%,27%,13%,24%,2%,33%,3%,11%,24%,16%,1%,nan,45%,354,B+,n/a,n/a,Arkansas,548.0,n/a,n/a,False,
+bc759d03aa880248fe545f03ea0bf583cb985997,Southern New Hampshire University,62%,38%,16%,28%,23%,5%,28%,7%,6%,15%,4%,1%,nan,67%,355,B+,n/a,n/a,New Hampshire,0.0,80170,Fully online,True,
+a46e4cc7824a9768fc95c7e303bff40606d527fb,SUNY Geneseo,62%,38%,8%,46%,19%,4%,23%,2%,50%,30%,4%,nan,2%,12%,356,B+,n/a,n/a,New York,15.0,n/a,n/a,False,
+6b3f11a8c0db96b90e4d4b4ae1e7cfedd884eca9,Haverford College,51%,49%,nan,43%,43%,nan,14%,8%,83%,nan,nan,nan,nan,8%,357,B+,n/a,n/a,Pennsylvania,4.0,1305,n/a,False,
+2a191e038cb8e4abc9a95f21726fd0e0d8f0af48,Chapman University,61%,39%,16%,35%,25%,2%,23%,2%,34%,34%,12%,2%,2%,14%,358,B+,n/a,n/a,California,9.0,7026,Primarily online,True,
+3d5aab16c11e8e1811865a4e76dcb6f433d42dc5,Benedict College,52%,48%,11%,56%,11%,nan,22%,19%,11%,26%,7%,nan,nan,37%,359,B+,n/a,n/a,South Carolina,6.0,2165,Hybrid,True,
+682f33a86438c88feafcad609c8041b5a0c25130,California State University - Northridge,55%,45%,5%,37%,17%,5%,36%,9%,33%,18%,3%,1%,1%,35%,360,B+,n/a,n/a,n/a,n/a,34911,n/a,False,
+241b379c22cc9c3a28cef78b9db6302b46fe8903,Gonzaga University,53%,47%,9%,41%,29%,6%,15%,nan,24%,39%,17%,3%,nan,17%,361,B+,n/a,n/a,Washington,65.0,5237,Hybrid,True,
+facba4854e01ea8aa51b9f0c4cb2cbe7e336ff69,Kennesaw State University,49%,51%,26%,28%,13%,3%,28%,4%,15%,32%,9%,1%,nan,39%,362,B+,n/a,n/a,Georgia,353.0,31511,Hybrid,True,
+8c03658e6eeb4360460d983bf6af35deb1954560,Wayne State University,58%,42%,7%,47%,12%,5%,29%,9%,24%,23%,2%,1%,nan,41%,363,B+,n/a,n/a,Michigan,68.0,17114,Primarily online,True,
+388e85a6009b8c54ac2c5bdffe5db0b73ef4d1e5,High Point University,57%,43%,32%,34%,21%,4%,9%,2%,3%,17%,38%,8%,2%,28%,364,B+,n/a,n/a,North Carolina,153.0,4498,Fully in person,True,
+1c183dba2da2930b063d394cb77ebb4cead95c1b,Hofstra University,56%,44%,8%,47%,16%,4%,25%,18%,32%,19%,2%,nan,1%,28%,365,B+,n/a,n/a,New York,109.0,6616,Primarily in person,True,
+c3daf49249724b4744d6fa885f22050b74602cdf,Worcester Polytechnic Institute,39%,61%,13%,38%,25%,nan,25%,3%,18%,18%,5%,nan,nan,55%,366,B+,n/a,n/a,Massachusetts,10.0,4571,Hybrid,True,
+b24558573f6cd92d2a3f820ed646bfb2625fe5f8,Doane University,45%,55%,22%,22%,44%,nan,11%,5%,25%,35%,5%,5%,nan,25%,367,B+,n/a,n/a,Nebraska,84.0,1002,n/a,False,
+1ff4da3b5c1345fd0368e7bf15987aa7f6aa4338,Loyola University Maryland,58%,42%,46%,14%,21%,nan,18%,2%,20%,24%,33%,2%,nan,18%,368,B+,n/a,n/a,Maryland,nan,3860,Fully online,True,
+8e96cb590192e79004917c6706dfc21f50631f48,Gannon University,59%,41%,33%,33%,13%,nan,20%,nan,2%,28%,33%,5%,nan,33%,369,B+,n/a,n/a,Pennsylvania,40.0,2733,Hybrid,True,
+618f584c3a7154b0996251fcdd032a1ba04471b8,University of Missouri - Kansas City,57%,43%,22%,30%,11%,11%,26%,10%,18%,22%,7%,nan,1%,41%,370,B+,n/a,n/a,Missouri,146.0,7681,n/a,False,
+eaae2ff11ca52517d4e75ad39f5e5f989dcdb908,New Mexico State University,55%,45%,20%,29%,21%,3%,28%,9%,16%,25%,8%,1%,3%,39%,371,B+,n/a,n/a,New Mexico,127.0,n/a,n/a,False,
+86520e4c29257cb01174056267ed3a4a53854cf5,Lincoln University - Missouri,57%,43%,18%,36%,18%,nan,27%,nan,22%,33%,nan,nan,nan,44%,372,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+deeab325166db6ff51d04906cc53494db37f46bc,Drexel University,46%,54%,13%,39%,27%,nan,21%,7%,30%,29%,1%,1%,2%,31%,373,B+,n/a,n/a,Pennsylvania,28.0,15557,Fully online,True,
+9f3cb7c9f5f5b32e4a2b08f2fc235cb752f3ccbd,Full Sail University,28%,72%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,374,B+,n/a,n/a,n/a,n/a,18545,n/a,False,
+1baf374d7451cecab1852c231fad0038be9054f5,Kansas Wesleyan University,40%,60%,nan,nan,17%,nan,83%,nan,36%,18%,9%,9%,nan,27%,375,B+,n/a,n/a,Kansas,13.0,650,n/a,False,
+bd758a75cde40b55fb429be4638efe691e39f2a2,Colorado College,55%,45%,11%,63%,21%,nan,5%,49%,46%,5%,nan,nan,nan,nan,376,B+,n/a,n/a,Colorado,14.0,2098,Fully online,True,
+a118b638da375af5f5b626e361735e9fd24b3c6c,Montana Technological University,34%,66%,29%,6%,18%,6%,41%,3%,13%,26%,26%,nan,nan,32%,377,B+,n/a,n/a,Montana,52.0,1585,Fully in person,True,
+9ba57cfdf845f1ab431f256fc9f07a0526281084,Saint Augustine's University,49%,51%,nan,80%,nan,20%,nan,6%,18%,35%,12%,nan,nan,29%,378,B+,n/a,n/a,North Carolina,nan,767,n/a,False,
+019a9db2a74f727cf939819fc96bcb3b78666de3,Eastern Washington University,54%,46%,29%,21%,22%,5%,24%,4%,16%,41%,7%,1%,1%,31%,379,B+,n/a,n/a,Washington,102.0,10379,Primarily online,True,
+b31fc33bd9be9022311c8a037a8a1764aed67e4c,Edgewood College,74%,26%,21%,50%,nan,7%,21%,3%,45%,16%,6%,nan,nan,29%,380,B+,n/a,n/a,Wisconsin,65.0,1435,Hybrid,True,
+31acb60e9a755a4f1edeb7260281210cc1368244,Wilberforce University,55%,45%,20%,nan,40%,nan,40%,nan,25%,25%,25%,13%,nan,13%,381,B+,n/a,n/a,n/a,n/a,643,n/a,False,
+a1ec8d754319959488ecae8278a40e2f1ffa154e,Longwood University,67%,33%,34%,17%,29%,nan,20%,2%,15%,20%,18%,4%,2%,40%,382,B+,n/a,n/a,Virginia,59.0,4028,Primarily in person,True,
+3c6e61f4e46cb5fc868751cf3713c0b66e3862e4,Augsburg University,52%,48%,13%,56%,6%,6%,19%,34%,34%,17%,nan,nan,nan,14%,383,B+,n/a,n/a,Minnesota,18.0,2311,Primarily online,True,
+c87bd92b09f758a52675832105e2747a5a88ff44,Birmingham-Southern College,52%,48%,30%,40%,10%,10%,10%,14%,32%,36%,14%,nan,nan,5%,384,B+,n/a,n/a,Alabama,125.0,1265,n/a,False,
+a0fa1141175f759d7d641333eb85a3eaa320ded8,Missouri University of Science & Technology,24%,76%,27%,18%,21%,3%,30%,5%,14%,34%,12%,2%,2%,32%,385,B+,n/a,n/a,Missouri,127.0,6785,Primarily in person,True,
+f188759f8bf6ca864ad5c0b26d6284f348766020,Villanova University,53%,47%,37%,26%,22%,2%,13%,nan,nan,26%,40%,8%,nan,27%,386,B+,n/a,n/a,Pennsylvania,193.0,6819,Primarily in person,True,
+bf4e3e93c10c3fe53b65b872720502426235357b,John Carroll University,47%,53%,48%,22%,17%,nan,13%,2%,12%,29%,31%,8%,2%,16%,387,B+,n/a,n/a,Ohio,117.0,3013,Fully online,True,
+d4559fcc816ad50287edafd200abc944196d31ee,Berkeley College - New York,62%,38%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,388,B+,n/a,n/a,n/a,n/a,3505,n/a,False,
+f8199199a7875f60edbe7e79a471020a1ffb853e,Colorado Mesa University,53%,47%,29%,20%,32%,nan,20%,1%,15%,22%,4%,3%,1%,53%,389,B+,n/a,n/a,Colorado,68.0,8384,Primarily in person,True,
+fa06599a4e84966227c76505dba8f626926939b0,University of Colorado Denver,54%,46%,7%,48%,24%,3%,18%,12%,39%,22%,2%,nan,2%,23%,390,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+79165d736b11f0457082a167f81c80bf393ee220,The College of Idaho,52%,48%,25%,17%,33%,nan,25%,21%,29%,14%,11%,nan,nan,25%,391,B+,n/a,n/a,n/a,n/a,939,n/a,False,
+f866f3ee78bc7266de5e35e6074a27bcc412e3e7,Youngstown State University,51%,49%,15%,35%,15%,9%,26%,8%,28%,23%,4%,4%,nan,33%,392,B+,n/a,n/a,Ohio,17.0,10030,Primarily online,True,
+305ab6697590f82362de80a5953c598a92cd8bee,University of Louisiana - Monroe,63%,37%,10%,33%,5%,10%,43%,4%,6%,28%,6%,4%,nan,51%,393,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+839343fd28a279006566598d33ef2bdf669b3d74,West Liberty University,62%,38%,40%,20%,nan,nan,40%,nan,7%,36%,nan,nan,nan,57%,394,B+,n/a,n/a,West Virginia,29.0,1994,Primarily online,True,
+f13e9e73b5c96b41866db62d6a966fddb3747e90,Fayetteville State University,68%,32%,nan,65%,12%,nan,23%,8%,20%,26%,nan,nan,2%,44%,395,B+,n/a,n/a,North Carolina,110.0,4915,Primarily online,True,
+462c81d50b9031c0eee2fd1997d4aac61892a62b,Millsaps College,52%,48%,20%,60%,nan,nan,20%,17%,50%,17%,17%,nan,nan,nan,396,B+,n/a,n/a,Mississippi,38.0,793,n/a,False,
+8c5b9dcfb2be611544193fc61e2b6dfa0071fcee,University of California - Davis,61%,39%,11%,41%,20%,1%,28%,13%,44%,17%,2%,0%,0%,23%,397,B+,n/a,n/a,n/a,n/a,30698,n/a,False,
+85a428a7ed5f33b56d9d66e6331cd8b3e82e5bb8,West Virginia Wesleyan College,55%,45%,38%,38%,23%,nan,nan,4%,27%,27%,8%,4%,nan,31%,398,B+,n/a,n/a,West Virginia,1.0,1176,n/a,False,
+f8090b5016d6489cb48afadc12a1906a010a2b6a,Kentucky State University,56%,44%,nan,75%,nan,nan,25%,10%,20%,20%,5%,10%,5%,30%,399,B+,n/a,n/a,Kentucky,94.0,1233,Primarily online,True,
+6617dcff88dc66eeeeac858a435baaa542fe59c3,Pace University,62%,38%,8%,57%,16%,nan,19%,17%,33%,15%,2%,2%,1%,31%,400,B+,n/a,n/a,New York,45.0,8439,Primarily online,True,
+c12247fe331d09a244b4525f0398b8ca3394ec92,Ripon College,53%,47%,13%,7%,40%,nan,40%,6%,27%,30%,12%,3%,nan,21%,401,B+,n/a,n/a,Wisconsin,10.0,787,n/a,False,
+0f1c405cc30e61ab7cdbe712ffb293403fd573b6,St. John's University - New York,57%,43%,13%,44%,13%,1%,29%,4%,20%,22%,21%,2%,1%,31%,402,B+,n/a,n/a,n/a,n/a,11907,n/a,False,
+9b4eac55789fdf26b84e184ccab30cd1a18ff536,Eastern Kentucky University,57%,43%,27%,29%,10%,nan,34%,2%,12%,37%,19%,1%,nan,29%,403,B+,n/a,n/a,Kentucky,189.0,12246,Primarily in person,True,
+41c61ffda3fcfa314b843e253ffd63df59d088a8,University of St. Thomas - Minnesota,47%,53%,36%,22%,22%,4%,16%,3%,18%,30%,30%,3%,nan,15%,404,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+46749729f6065ca252c15fa4f1535608176f78da,Tufts University,52%,48%,11%,46%,24%,11%,8%,31%,57%,3%,nan,2%,nan,8%,405,B+,n/a,n/a,Massachusetts,36.0,5597,Hybrid,True,
+1576c4dde05ff7d4a03c05711f26cb576be55b51,St. Ambrose University,55%,45%,27%,20%,23%,nan,30%,2%,23%,25%,7%,5%,5%,34%,406,B+,n/a,n/a,n/a,n/a,n/a,Primarily in person,False,
+2ebee1857945b8041e8546ba111ac76697f1ed3d,Colby College,52%,48%,13%,38%,25%,13%,13%,6%,74%,18%,nan,nan,3%,nan,407,B+,n/a,n/a,Maine,11.0,2000,Primarily in person,True,
+f10935afaadfc6038391253b32b325f63f2f0f69,Ursinus College,51%,49%,29%,47%,6%,nan,18%,7%,33%,30%,7%,3%,nan,20%,408,B+,n/a,n/a,Pennsylvania,19.0,1406,n/a,False,
+feb8bd1cd26427e2ab4e4af658933bf7b71d5858,University of Evansville,58%,42%,41%,18%,18%,nan,24%,3%,41%,21%,3%,nan,nan,32%,409,B+,n/a,n/a,Indiana,69.0,2018,Primarily online,True,
+3aa8ffafd65b37fbda06390e58fd8aea6d52a8fb,Marist College,58%,42%,18%,31%,23%,3%,26%,2%,23%,23%,19%,nan,nan,33%,410,B+,n/a,n/a,New York,6.0,5405,Primarily in person,True,
+83d4af95c69dcceba16be753254d1ad254978f68,Johnson & Wales University - Charlotte,67%,33%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,411,B+,n/a,n/a,North Carolina,2.0,1681,n/a,False,
+addbceddfd0732d080e04341af4331520fd4cdc6,Texas Tech University Health Sciences Center,85%,15%,20%,10%,50%,nan,20%,7%,7%,13%,47%,7%,nan,20%,412,B+,n/a,n/a,Texas,304.0,1520,n/a,False,
+a91e06c053d6491f781820659cc29ad8b3a7c07c,Duquesne University,64%,36%,23%,31%,20%,6%,20%,nan,9%,29%,28%,6%,nan,27%,413,B+,n/a,n/a,Pennsylvania,27.0,6008,Hybrid,True,
+8864cbcf8bd962d26a80b8a81577f5286acf3bc2,Quincy University,45%,55%,20%,30%,20%,nan,30%,nan,16%,53%,16%,nan,nan,16%,414,B+,n/a,n/a,Illinois,89.0,916,n/a,False,
+6d2904fd72e3dc9042c45cc7d5d18dc830b4293c,Harvey Mudd College,49%,51%,nan,25%,50%,25%,nan,nan,71%,14%,nan,nan,nan,14%,415,B+,n/a,n/a,California,5.0,886,n/a,False,
+6ddc09ce4b1f6f087ab1ce129818763cb06606be,Westminster College - Utah,60%,40%,9%,41%,27%,18%,5%,34%,36%,14%,5%,nan,2%,10%,416,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+6e9814fe08e477805671afae2147edcc3a05a3c4,Rose-Hulman Institute of Technology,25%,75%,33%,22%,33%,nan,11%,5%,nan,32%,18%,nan,nan,45%,417,B+,n/a,n/a,Indiana,40.0,2073,Hybrid,True,
+587d39fea8d8e4607e6c71b8037d41a8b2abf3be,Transylvania University,60%,40%,29%,43%,nan,nan,29%,11%,47%,37%,nan,nan,nan,5%,418,B+,n/a,n/a,Kentucky,71.0,987,n/a,False,
+bbc091589ea0d9376f5454caf573039eac1fc2e9,University of Montana - Western,60%,40%,13%,13%,25%,nan,50%,nan,nan,21%,21%,nan,nan,57%,419,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+6853970fbc41b9f6054a2ea006c0db72d017037e,Illinois Wesleyan University,52%,48%,6%,44%,13%,6%,31%,16%,26%,35%,3%,nan,nan,19%,420,B+,n/a,n/a,Illinois,122.0,1686,n/a,False,
+d773ca3ad4d1bb1f6548b5f57d3e36490f46eb14,Tarleton State University,61%,39%,46%,15%,10%,1%,27%,nan,5%,26%,28%,7%,1%,32%,421,B+,n/a,n/a,Texas,277.0,11312,Primarily in person,True,
+e8615f13043758c38b6b5a4c10c649a64265a6e2,Western Washington University,58%,42%,6%,51%,16%,4%,23%,32%,55%,4%,1%,1%,2%,6%,422,B+,n/a,n/a,Washington,4.0,15071,Primarily online,True,
+9c422f7c3d65046a2ba917ef32bacb7f80630270,North Seattle College,47%,53%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,423,B+,n/a,n/a,Washington,2.0,2913,Primarily online,True,
+d71b8281f6b0430734de67577c07136d3c7f3864,Fordham University,57%,43%,6%,44%,31%,2%,17%,8%,24%,35%,16%,2%,1%,13%,424,B+,n/a,n/a,New York,30.0,9392,Hybrid,True,
+43b5c7016624e9be2cdf42c8b53edeaac882586a,St. Joseph's College - New York,68%,32%,50%,33%,nan,nan,17%,6%,24%,12%,18%,nan,12%,29%,425,B+,n/a,n/a,n/a,n/a,937,n/a,False,
+521916eb55d990a47ffca7736656546314fb4c20,Hanover College,55%,45%,33%,44%,11%,nan,11%,nan,19%,45%,10%,nan,3%,23%,426,B+,n/a,n/a,Indiana,nan,1099,n/a,False,
+3dfe18a5b949ddd15fc9f8c97ef2a692af407976,Otterbein University,62%,38%,40%,13%,13%,7%,27%,16%,42%,11%,3%,nan,nan,29%,427,B+,n/a,n/a,Ohio,17.0,2361,Primarily online,True,
+3266be24e6519bc6bf097d6328eda3e76875c1df,Clarkson University,31%,69%,37%,16%,26%,nan,21%,3%,14%,20%,23%,nan,3%,37%,428,B+,n/a,n/a,New York,3.0,2983,Hybrid,True,
+9a4fc456b01616ed26c33274f9c9e80e61226ce7,University of Baltimore,58%,42%,8%,77%,nan,8%,8%,3%,40%,27%,3%,3%,nan,23%,429,B+,n/a,n/a,Maryland,nan,2486,Fully online,True,
+5cdce0128daaced161e1342c24b8bcc640d9a5d6,Carthage College,56%,44%,15%,32%,24%,nan,29%,5%,23%,29%,17%,2%,nan,25%,430,B+,n/a,n/a,Wisconsin,37.0,2751,Primarily in person,True,
+2173e90b60cb97752451b0462dcd8cc349307d1e,William Paterson University of New Jersey,55%,45%,4%,62%,8%,nan,27%,10%,29%,25%,4%,2%,nan,31%,431,B+,n/a,n/a,n/a,n/a,8643,Primarily in person,False,
+85085e2b7f4e38483d79b3f8e931f0457b96f70b,California Institute of Technology,45%,55%,nan,nan,nan,nan,nan,25%,25%,13%,nan,13%,nan,25%,432,B+,n/a,n/a,California,25.0,948,Fully online,True,
+55cda44387bcf6a05e35b5d642790e02d5f4e749,Alfred University,49%,51%,8%,31%,23%,15%,23%,10%,37%,23%,7%,nan,nan,23%,433,B+,n/a,n/a,New York,1.0,1591,Primarily in person,True,
+e6bf61e107b815db826f518be6ff028306d8fff7,Louisiana Tech University,45%,55%,31%,9%,29%,nan,31%,nan,3%,22%,27%,10%,nan,37%,434,B+,n/a,n/a,Louisiana,373.0,8192,Primarily in person,True,
+fe6071dc91743dcacbf93403c4f35c96dcc205ec,Wofford College,53%,47%,50%,17%,8%,nan,25%,nan,5%,20%,50%,10%,nan,15%,435,B+,n/a,n/a,South Carolina,69.0,1659,Primarily in person,True,
+b2004fcc8e8f0c7d474b6f728fd38861ef46c18b,Peru State College,58%,42%,44%,11%,22%,nan,22%,7%,7%,20%,20%,7%,nan,40%,436,B+,n/a,n/a,Nebraska,70.0,1324,Primarily in person,True,
+133bafe855c268cd99e97cc9a88d939dbf035dce,University of Northern Colorado,64%,36%,16%,44%,21%,3%,16%,2%,23%,28%,7%,2%,nan,38%,437,B+,n/a,n/a,Colorado,48.0,8903,Hybrid,True,
+4be18c67db2639d21c1f959b9a7e871d1df8dbb3,University of San Francisco,63%,37%,5%,53%,12%,7%,24%,29%,38%,18%,3%,1%,1%,10%,438,B+,n/a,n/a,California,9.0,6661,Fully online,True,
+0e94a9ff301ff625b68797ff301e5bfa95591127,Trine University,32%,68%,24%,10%,10%,5%,52%,6%,9%,16%,28%,6%,nan,34%,439,B+,n/a,n/a,Indiana,81.0,2059,Primarily in person,True,
+e9ff895800a3a7998dd5b6b2ba047b855b79445f,Keiser University - Fort Lauderdale,67%,33%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,440,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+20e6df0ffb614319d990e60ac8014425d191292d,Knox College,56%,44%,7%,53%,20%,nan,20%,50%,41%,5%,nan,nan,nan,5%,441,B+,n/a,n/a,Illinois,22.0,1318,n/a,False,
+1f41b91273d1316bf98fe6f80d3fafa28ea78f48,Princeton University,49%,51%,20%,40%,10%,10%,20%,14%,41%,27%,9%,nan,5%,5%,442,B+,n/a,n/a,New Jersey,50.0,5301,Fully online,True,
+fc94f06b1ba80cab22710e575043726b95af4651,Kansas City Art Institute,71%,29%,nan,17%,17%,nan,67%,25%,19%,6%,6%,6%,nan,38%,443,B+,n/a,n/a,Missouri,5.0,665,n/a,False,
+f16253dd4b660ddb0ec10f599b8942fd670aa4f0,Grand View University,55%,45%,nan,36%,36%,9%,18%,12%,18%,29%,18%,nan,nan,24%,444,B+,n/a,n/a,n/a,n/a,1731,Primarily in person,False,
+71365a0c1a8713523b3ccf82a0dd5abd9d57caa4,Loyola Marymount University,56%,44%,15%,45%,11%,2%,26%,6%,31%,21%,16%,nan,1%,24%,445,B+,n/a,n/a,California,1.0,6557,Primarily online,True,
+1856f1bde653d11bc0eb52f60533aff30614bec0,Lafayette College,52%,48%,44%,19%,25%,nan,13%,4%,37%,37%,6%,2%,nan,14%,446,B+,n/a,n/a,Pennsylvania,8.0,2616,Fully online,True,
+2968d2110785be453e1ef499dbb87f1eac5c9049,University of Tennessee - Chattanooga,57%,43%,38%,18%,18%,5%,23%,nan,19%,28%,12%,5%,nan,37%,447,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+837b1a00bb22a89d97f6b11794b7aff334126e06,University of Texas - El Paso,52%,48%,7%,51%,20%,2%,20%,6%,28%,24%,5%,1%,3%,34%,448,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+a4e4780f4c9c5cb1d423f7f2d2b416f83c72f880,Eastern Michigan University,60%,40%,14%,42%,13%,4%,26%,11%,23%,27%,2%,nan,2%,34%,449,B+,n/a,n/a,Michigan,101.0,15325,Primarily online,True,
+422391daa3fe4776ca34e5d367abde5dd8d2233f,Austin Peay State University,60%,40%,24%,27%,12%,10%,27%,4%,8%,27%,7%,3%,nan,51%,450,B+,n/a,n/a,Tennessee,136.0,9064,Hybrid,True,
+af674d9d111b048c0b50cfe4e4b9d821773f0df3,CUNY John Jay College of Criminal Justice,60%,40%,8%,57%,9%,nan,26%,13%,30%,18%,4%,1%,nan,33%,451,B+,n/a,n/a,New York,6.0,12852,n/a,False,
+4cf2ed0013b9d2008ab3f4e1d7aaf8d263d8e560,Bentley University,40%,60%,32%,21%,32%,nan,16%,nan,7%,14%,51%,7%,2%,19%,452,B+,n/a,n/a,Massachusetts,6.0,4177,Primarily online,True,
+787edcece44ecdc2c6b876cc5459523069088b44,Buena Vista University,64%,36%,nan,29%,29%,nan,43%,nan,25%,25%,13%,nan,6%,31%,453,B+,n/a,n/a,Iowa,43.0,1546,Fully in person,True,
+e11f4c1bf3d3faed83fe24217c5ea59f20f00780,Roanoke College,58%,42%,30%,40%,15%,5%,10%,3%,31%,17%,25%,3%,3%,19%,454,B+,n/a,n/a,Virginia,67.0,1981,Hybrid,True,
+4218fefb217b093c19eb57724558ac853756ff5b,King's College - Pennsylvania,46%,54%,17%,50%,17%,nan,17%,nan,17%,22%,6%,nan,nan,56%,455,B+,n/a,n/a,n/a,n/a,n/a,n/a,False,
+d7d98323396420d933985bf5bdf51569b3e046ef,Creighton University,57%,43%,29%,39%,23%,3%,6%,nan,12%,32%,32%,10%,2%,13%,456,B+,n/a,n/a,Nebraska,242.0,4405,Primarily in person,True,
+e36195d17cae3260530a67fd92112021212278cf,Iona College,50%,50%,5%,40%,25%,nan,30%,5%,10%,36%,17%,5%,nan,29%,457,B+,n/a,n/a,New York,14.0,3005,Primarily online,True,
+839b7dd67929c8fc1ff7b6380eb8a8b0962eca7e,Miles College,52%,48%,nan,64%,9%,nan,27%,nan,6%,25%,6%,6%,nan,56%,458,B+,n/a,n/a,Alabama,nan,1546,Primarily in person,True,
+4b441747ed4a9ae58c13bd799b57996a6b0f3f0b,Carleton College,50%,50%,13%,50%,13%,6%,19%,49%,51%,nan,nan,nan,nan,nan,459,B+,n/a,n/a,Minnesota,14.0,2046,Hybrid,True,
+2494c88d8ab0c9b9378fe831ff1064e2cea39d26,School of the Art Institute of Chicago,75%,25%,4%,32%,21%,11%,32%,47%,27%,8%,nan,nan,nan,18%,460,B+,n/a,n/a,Illinois,8.0,2893,Fully online,True,
+89779d4eea2d5ef5a90bdb7ed245a01504e16a08,Tallahassee Community College,50%,50%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,461,B+,n/a,n/a,Florida,157.0,10711,Hybrid,True,
+24f8673f412fae291b1a3dc7dd27639ea6be66dc,Johns Hopkins University,51%,49%,13%,51%,23%,nan,13%,7%,38%,28%,3%,nan,1%,23%,462,B+,n/a,n/a,Maryland,397.0,5567,Fully online,True,
+07017784c53a1b9fffd73a65207a83fb12d075d5,Vincennes University,47%,53%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,463,B,n/a,n/a,Indiana,11.0,6282,Other,True,
+2adf0b3bb3c4ad2012625f01a6f57c9328fa8995,LeMoyne-Owen College,69%,31%,nan,nan,nan,nan,nan,33%,11%,22%,nan,nan,nan,33%,464,B,n/a,n/a,Tennessee,nan,884,n/a,False,
+3c907fba6825a14a1299202704738c6ca384ae48,Long Island University - Brooklyn,70%,30%,nan,56%,10%,3%,31%,8%,25%,22%,6%,nan,1%,38%,465,B,n/a,n/a,n/a,n/a,n/a,n/a,False,
+4b36451e16b8e97b36d114732e90df6ffeb6bbf9,American International College,62%,38%,7%,29%,36%,7%,21%,nan,19%,19%,nan,nan,nan,63%,466,B,n/a,n/a,Massachusetts,7.0,1307,Primarily online,True,
+47f2efac19286028d3dac12ea74b8096bcd5e8b6,Utica College,57%,43%,21%,17%,13%,nan,50%,3%,22%,16%,nan,nan,3%,57%,467,B,n/a,n/a,New York,16.0,3602,Hybrid,True,
+3aa493b6eb13df05f46acbf45f79172cbd41ceb0,Emory University,60%,40%,23%,48%,10%,nan,20%,15%,44%,22%,1%,nan,2%,16%,468,B,n/a,n/a,Georgia,178.0,6975,n/a,False,
+599f261114260e516b63e744d5dc71a2f146a05f,University of Mount Union,45%,55%,42%,26%,5%,5%,21%,7%,29%,31%,10%,nan,nan,22%,469,B,n/a,n/a,Ohio,37.0,2155,Hybrid,True,
+9bf0c864cdd7eeb851249ade399599a193cb257e,American University,62%,38%,12%,59%,19%,1%,9%,45%,41%,6%,nan,nan,nan,8%,470,B,n/a,n/a,Washington D.C.,26.0,7485,Fully online,True,
+72eb692b5a12b76964177b416d4ec2df62f5f259,Christian Brothers University,51%,49%,10%,nan,30%,nan,60%,5%,5%,24%,10%,nan,nan,57%,471,B,n/a,n/a,Tennessee,33.0,1535,Primarily in person,True,
+35caaeb627888f9d8cd16176fe5aeeac42bdf743,Kalamazoo College,58%,42%,17%,42%,17%,8%,17%,52%,38%,5%,nan,nan,nan,5%,472,B,n/a,n/a,Michigan,10.0,1446,Fully online,True,
+b6a7f6124558906a5b26537a69144c0d3ba1aad9,University of Hawaii at Manoa,57%,43%,8%,30%,13%,nan,48%,5%,30%,17%,4%,nan,1%,43%,473,B,n/a,n/a,Hawaii,22.0,12609,n/a,False,
+ac86027e0f145fc26d6e5395c8000d490afcba90,University of West Florida,55%,45%,27%,22%,28%,5%,18%,5%,5%,30%,9%,2%,1%,49%,474,B,n/a,n/a,Florida,131.0,n/a,Hybrid,False,
+53b019fdf2832e5e152a50fb3b050dab4690c940,University of New Mexico,56%,44%,32%,31%,14%,1%,23%,9%,35%,20%,4%,1%,1%,31%,475,B,n/a,n/a,New Mexico,49.0,n/a,Hybrid,False,
+c317a21681674cb6f80f3caa583789d8f199e40e,Drury University,58%,42%,21%,32%,21%,11%,16%,15%,27%,27%,3%,nan,nan,27%,476,B,n/a,n/a,Missouri,88.0,1486,Fully in person,True,
+f8499d3f94f5bc727a9751103f6f963a95c7803d,Macalester College,59%,41%,nan,80%,nan,nan,20%,82%,18%,nan,nan,nan,nan,nan,477,B,n/a,n/a,Minnesota,8.0,2160,Primarily online,True,
+34baaba3fd9c1ca5c9b35afe986e3ef454fb73bb,Stillman College,54%,46%,nan,50%,25%,nan,25%,nan,20%,30%,10%,10%,nan,30%,478,B,n/a,n/a,n/a,n/a,689,n/a,False,
+5898b3401b9c9f087be8381abe80bcc1cb52052a,Saint Michael's College,55%,45%,19%,31%,44%,nan,6%,19%,44%,15%,nan,nan,nan,22%,479,B,n/a,n/a,Vermont,1.0,1655,Primarily in person,True,
+2690c635727560c113e5f1e8166b1c0c9348c970,Point Park University,61%,39%,14%,49%,20%,3%,14%,18%,36%,13%,2%,nan,3%,28%,480,B,n/a,n/a,Pennsylvania,13.0,3170,Hybrid,True,
+f26f62ffbced7eb55a727a16b16cee24e207e37b,Saint Joseph's University,54%,46%,26%,23%,29%,nan,23%,4%,12%,33%,25%,7%,nan,19%,481,B,n/a,n/a,Pennsylvania,224.0,4814,n/a,False,
+de09a02714c4a9adbaf624699be7ba8dc7e62420,University of Redlands,59%,41%,16%,48%,12%,8%,16%,10%,46%,23%,5%,3%,nan,13%,482,B,n/a,n/a,California,6.0,2945,Fully online,True,
+8278bb0fa5a0ed1073ec7e9b5f2aad3343987471,Millikin University,57%,43%,44%,nan,11%,nan,44%,9%,30%,15%,nan,3%,nan,42%,483,B,n/a,n/a,Illinois,45.0,1918,Hybrid,True,
+8c5c7af9e8c7be01e675cb8cb2250b23dd985aa7,Nicholls State University,63%,37%,7%,33%,27%,nan,33%,nan,10%,21%,10%,3%,nan,55%,484,B,n/a,n/a,Louisiana,133.0,5543,Primarily online,True,
+703e3a6fe55cc6604f52b8db80e2d5e432a8fe7c,Michigan Technological University,27%,73%,23%,14%,40%,nan,23%,2%,8%,23%,27%,2%,2%,37%,485,B,n/a,n/a,Michigan,189.0,5736,Primarily in person,True,
+21622fb6b9b38ceeaa439f4c3d6568663a652a19,Salve Regina University,67%,33%,5%,25%,30%,5%,35%,2%,17%,22%,22%,2%,nan,34%,486,B,n/a,n/a,Rhode Island,2.0,1996,Primarily in person,True,
+22bcdd717265d97ff12b88090483be0535a1e356,New York Film Academy - Los Angeles,44%,56%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,487,B,n/a,n/a,n/a,n/a,n/a,n/a,False,
+fb2ced99337c71e6ce3c1ec2ead1acb329422663,Le Moyne College,57%,43%,28%,28%,17%,6%,22%,4%,14%,29%,14%,4%,nan,36%,488,B,n/a,n/a,New York,14.0,2607,Primarily in person,True,
+9db8843ad8764454230d15efd33092ebad35c229,Emerson College,60%,40%,nan,39%,39%,nan,21%,59%,34%,3%,nan,nan,nan,3%,489,B,n/a,n/a,Massachusetts,16.0,3817,Hybrid,True,
+e819ee07b3d001a98da57d56e1c1137419d30c8f,Texas A&M University - Corpus Christi,59%,41%,21%,28%,17%,4%,31%,2%,10%,26%,9%,3%,5%,46%,490,B,n/a,n/a,Texas,107.0,9672,n/a,False,
+c17ab9081c108c5964cc54112e39d4d1f3ce45ec,Franklin College,51%,49%,35%,30%,5%,nan,30%,11%,21%,14%,11%,nan,nan,43%,491,B,n/a,n/a,Indiana,4.0,925,n/a,False,
+b38d5aae926b253177fc3c97cfedd29974a46f3d,Kenyon College,55%,45%,nan,64%,18%,9%,9%,19%,75%,6%,nan,nan,nan,nan,492,B,n/a,n/a,Ohio,2.0,1719,Primarily online,True,
+8112745f2667618278502aabb0b444a4010721be,University of Lynchburg,60%,40%,25%,15%,20%,nan,40%,6%,23%,26%,6%,nan,3%,37%,493,B,n/a,n/a,Virginia,104.0,1986,Fully online,True,
+acf61ce478f5ff6de2e2909f62ccf0eb8be9df78,Illinois College,51%,49%,31%,31%,8%,nan,31%,5%,32%,5%,5%,nan,nan,53%,494,B,n/a,n/a,Illinois,6.0,971,n/a,False,
+8a5000e70cf9cf2e8761cf321b223f99124224cf,Rensselaer Polytechnic Institute,32%,68%,14%,46%,11%,4%,25%,4%,20%,36%,nan,2%,2%,38%,495,B,n/a,n/a,New York,5.0,6590,Primarily online,True,
+6d264e59522c1cb1cc45880ab790912b025fb8b1,Bowdoin College,51%,49%,11%,72%,11%,nan,6%,24%,60%,14%,nan,nan,nan,2%,496,B,n/a,n/a,Maine,3.0,1825,Primarily online,True,
+0569d7f8cce221e8a768ae638193415041a03604,Morris College,60%,40%,13%,63%,13%,nan,13%,8%,nan,38%,nan,8%,nan,46%,497,B,n/a,n/a,n/a,n/a,649,n/a,False,
+00124bfda8cdc998f586f8e8bee56f8de5ec7cec,National Louis University,69%,31%,nan,50%,13%,nan,38%,14%,21%,21%,nan,nan,nan,43%,498,B,n/a,n/a,n/a,n/a,2960,n/a,False,
+450a3fbf06c7852c91d6a30bfd4a6343a45e83c6,Hobart and William Smith Colleges,52%,48%,18%,47%,6%,6%,24%,5%,29%,34%,21%,nan,nan,11%,499,B,n/a,n/a,n/a,n/a,n/a,Hybrid,False,
+2464d23313f96fd65ed5771be60552ef0b7b2daf,Franklin & Marshall College,55%,45%,20%,60%,10%,10%,nan,5%,43%,29%,10%,nan,2%,12%,500,B,n/a,n/a,Pennsylvania,13.0,2298,Hybrid,True,
+c1aec65ec41a28fed095256f94334348f5c9241b,Jarvis Christian College,54%,46%,nan,57%,14%,nan,29%,10%,10%,30%,10%,nan,nan,40%,501,B,n/a,n/a,n/a,n/a,955,n/a,False,
+afb21a4e59b0b4bb78e178b9293079cadddac0e6,Colorado Technical University - Colorado Springs,64%,36%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,502,B,n/a,n/a,n/a,n/a,22243,n/a,False,
+a1f5f3f52a4156181cde35f47e7da642dc0f2ea7,Northland College,54%,46%,nan,75%,nan,25%,nan,50%,33%,nan,nan,nan,nan,17%,503,B,n/a,n/a,Wisconsin,0.0,563,n/a,False,
+96d35554e4928f10e4c0360f9f1dc20a955f17f3,Coppin State University,76%,24%,nan,70%,nan,nan,30%,3%,16%,30%,11%,nan,nan,41%,504,B,n/a,n/a,Maryland,8.0,2326,Hybrid,True,
+ebb62bdbf7b25598382eb93844dc0c8358552eec,SUNY Delhi,49%,51%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,505,B,n/a,n/a,New York,5.0,n/a,n/a,False,
+b9a57424dab6cd284abbf8fd35519863d1d56d97,Fitchburg State University,52%,48%,18%,41%,18%,nan,23%,12%,28%,12%,nan,2%,nan,47%,506,B,n/a,n/a,Massachusetts,4.0,4070,Primarily in person,True,
+cb83406c2b567ed97ff1280c5658b91e4ead914b,Shenandoah University,60%,40%,46%,12%,23%,nan,19%,7%,22%,27%,17%,nan,nan,28%,507,B,n/a,n/a,Virginia,28.0,2022,Hybrid,True,
+de6a2e566f82c522f1306696e96d562ce91337f9,Bryant University,38%,62%,11%,36%,29%,7%,18%,6%,9%,16%,39%,3%,2%,25%,508,B,n/a,n/a,Rhode Island,28.0,3471,Primarily in person,True,
+f09f603cf9d090a844e6dd11d75f92459fed7f0a,Seton Hall University,54%,46%,22%,30%,17%,2%,29%,2%,10%,31%,14%,6%,1%,36%,509,B,n/a,n/a,New Jersey,14.0,5919,Hybrid,True,
+bfb4884722937d63a1520bf03a0a805e8a3c6cc3,Saint Mary's College - Indiana,100%,0%,17%,29%,33%,nan,21%,3%,8%,19%,42%,6%,3%,19%,510,B,n/a,n/a,n/a,n/a,n/a,n/a,False,
+3c91e0877e7d873b0491820082cfc48ee44d1584,California University of Pennsylvania,53%,47%,36%,24%,14%,2%,24%,1%,6%,24%,4%,1%,nan,64%,511,B,n/a,n/a,Pennsylvania,7.0,5063,Fully online,True,
+bf1c9ce50e9e009aa8da3bfa740c4a3ffe509861,Hamilton College,53%,47%,7%,33%,27%,7%,27%,17%,47%,30%,3%,nan,nan,3%,512,B,n/a,n/a,New York,1.0,1989,n/a,False,
+a05f17242fe944c4fe17a1d913834bc4279ff7b9,Metropolitan College of New York,73%,27%,nan,100%,nan,nan,nan,18%,9%,18%,nan,nan,nan,55%,513,B,n/a,n/a,n/a,n/a,697,n/a,False,
+ae42a1a2b0d29238a3d330587ef778b2c2b2f8d0,Lycoming College,53%,47%,18%,35%,18%,nan,29%,7%,25%,32%,11%,nan,nan,25%,514,B,n/a,n/a,Pennsylvania,5.0,1131,n/a,False,
+52766dcb341d25bfdead6c9f948242a0919fbcd0,The College of St. Scholastica,69%,31%,14%,57%,7%,nan,21%,4%,32%,25%,11%,4%,nan,25%,515,B,n/a,n/a,n/a,n/a,n/a,n/a,False,
+f0a235680f09e616dbc3c6fb45681aefdefcb38d,Monmouth College,49%,51%,nan,44%,22%,11%,22%,4%,22%,26%,15%,nan,4%,30%,516,B,n/a,n/a,Illinois,26.0,901,n/a,False,
+2efe496e2fe393fd1998735391671c37f5602cf7,University of Dallas,53%,47%,54%,nan,38%,nan,8%,nan,5%,nan,27%,55%,nan,14%,517,B,n/a,n/a,Texas,8.0,1467,Hybrid,True,
+a00f97be236b68a57b23c8c459c1ef8e7cced4ea,CUNY Medgar Evers College,70%,30%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,518,B,n/a,n/a,New York,2.0,5919,n/a,False,
+dbde2c4b4ed72590b914ef48987ec362c2175ced,Murray State University,59%,41%,28%,28%,13%,6%,25%,3%,18%,27%,14%,3%,nan,35%,519,B,n/a,n/a,Kentucky,181.0,6830,Primarily in person,True,
+384e706225ae26567cbcd6528b631a0462844235,Penn State Altoona,45%,55%,32%,39%,4%,4%,21%,4%,9%,31%,7%,4%,nan,44%,520,B,n/a,n/a,n/a,n/a,n/a,n/a,False,
+7b35441c0dac91cccc04b86d8947a139f7c708e7,Nebraska Wesleyan University,58%,42%,23%,38%,15%,nan,23%,4%,17%,35%,9%,4%,nan,30%,521,B,n/a,n/a,Nebraska,160.0,1839,Primarily in person,True,
+2e85515756e0b61512829f4d13cc800b6aca3f82,SUNY Brockport,56%,44%,14%,29%,20%,11%,26%,10%,19%,22%,3%,nan,nan,45%,522,B,n/a,n/a,New York,10.0,n/a,n/a,False,
+d3c9056b893b454f0826d17b9535a71981d3e52a,Carnegie Mellon University,49%,51%,21%,38%,24%,nan,17%,8%,36%,32%,3%,nan,2%,18%,523,B,n/a,n/a,Pennsylvania,57.0,6483,Primarily online,True,
+aa78a59eee8eaaf229c5318595e0825f36c27934,Suffolk University,55%,45%,3%,38%,19%,3%,38%,8%,38%,16%,2%,nan,2%,35%,524,B,n/a,n/a,Massachusetts,19.0,5012,Primarily online,True,
+c30bb2786febec2c95d6d22edd61b7f35072f637,University of Illinois at Chicago,52%,48%,8%,50%,16%,nan,26%,14%,33%,17%,2%,nan,1%,32%,525,B,n/a,n/a,Illinois,171.0,20435,Primarily online,True,
+152dadb78af482ccfb81fee70e3f944ab86f87e9,Strayer University - Virginia,42%,58%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,526,B,n/a,n/a,n/a,n/a,4111,n/a,False,
+e4c19864c6b091b9f9fc28519d02b33d2095a58f,Western New England University,37%,63%,13%,35%,17%,nan,35%,5%,5%,23%,7%,nan,nan,60%,527,B,n/a,n/a,Massachusetts,4.0,2746,Primarily in person,True,
+41c9648018c5c87782f354180c12c3d426f0cc6e,Saint John's University - Minnesota,0%,100%,8%,67%,17%,nan,8%,8%,24%,28%,16%,nan,nan,24%,528,B,n/a,n/a,n/a,n/a,n/a,n/a,False,
+11abe79ac64fcbc861b76df69e2e6b72b2637df7,Rust College,60%,40%,25%,25%,25%,nan,25%,8%,8%,8%,31%,nan,nan,46%,529,B,n/a,n/a,Mississippi,1.0,846,n/a,False,
+bb7fe3f9ee45f0e0999db83b33a9471a4482f088,Purdue University Global - Davenport Campus,71%,29%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,530,B,n/a,n/a,n/a,n/a,n/a,n/a,False,
+4bc439d53a3ff713b095e987c3ac1d8b59888417,College of Saint Benedict,100%,0%,13%,44%,13%,6%,25%,nan,26%,29%,11%,3%,nan,32%,531,B,n/a,n/a,Minnesota,nan,1782,Hybrid,True,
+45208b79b16a617a63494bdf7abfffab8619d74d,Kean University,60%,40%,6%,39%,6%,nan,49%,6%,21%,16%,6%,1%,nan,49%,532,B,n/a,n/a,New Jersey,7.0,11679,Primarily online,True,
+cb648f3ce9b71eb8a6e63db338004bae5ceb12f8,Allegheny College,55%,45%,18%,76%,nan,nan,6%,18%,59%,13%,2%,nan,nan,9%,533,B,n/a,n/a,Pennsylvania,29.0,1735,Fully in person,True,
+64ba2b011c6ad69f6bc4e810600c1b77272539a6,Davidson College,48%,52%,13%,25%,13%,25%,25%,8%,16%,52%,12%,nan,4%,8%,534,B,n/a,n/a,North Carolina,24.0,1839,Hybrid,True,
+254083e21758ab5e30400b94746577524f53b17f,University of Massachusetts - Dartmouth,48%,52%,7%,34%,24%,5%,29%,7%,27%,20%,3%,nan,2%,42%,535,B,n/a,n/a,n/a,n/a,6649,n/a,False,
+51255e30df60d3f2fcd2c0e4e0171e83f1929002,New Jersey Institute of Technology,24%,76%,4%,44%,18%,nan,33%,4%,22%,24%,nan,nan,nan,50%,536,B,n/a,n/a,New Jersey,9.0,7820,Hybrid,True,
+f27850abe1332fdb7f3503048f781c0ca0624869,Cleveland State University,52%,48%,14%,33%,22%,5%,26%,8%,25%,18%,2%,1%,2%,46%,537,B,n/a,n/a,Ohio,1.0,11603,Primarily online,True,
+346812fed5f86807ccbe885a9905ddb6c14e2bd9,Mercer University,60%,40%,19%,26%,32%,4%,19%,nan,20%,28%,20%,1%,1%,29%,538,B,n/a,n/a,Georgia,259.0,4765,Fully in person,True,
+f4d2d62f178e64cc8e134d1b566fa0f0e3d8c35f,Chicago State University,66%,34%,6%,71%,12%,nan,12%,12%,28%,19%,5%,2%,nan,35%,539,B,n/a,n/a,Illinois,17.0,2024,Primarily online,True,
+1785ad6ceacf64c9f6ed8d7d1261e43c51bed23d,Roosevelt University,66%,34%,4%,60%,16%,8%,12%,24%,40%,14%,7%,nan,nan,16%,540,B,n/a,n/a,n/a,n/a,2377,Primarily online,False,
+f75e4710ea683fe42b3e86d39a9d5f6867da0be6,University of New Haven,54%,46%,9%,33%,15%,2%,40%,7%,19%,19%,4%,1%,nan,50%,541,B,n/a,n/a,Connecticut,5.0,5041,Primarily in person,True,
+fb2ff4b8f44d9b42127ba824a18149257490d93c,University of Portland,60%,40%,9%,48%,4%,4%,35%,7%,33%,26%,9%,nan,nan,24%,542,B,n/a,n/a,Oregon,nan,3757,Fully online,True,
+cd460bf00e4fce92a21e0670a77d2b45ef6b4bf3,Bates College,50%,50%,14%,50%,29%,nan,7%,15%,54%,31%,nan,nan,nan,nan,543,B,n/a,n/a,Maine,4.0,1832,Primarily in person,True,
+9cff179a1c168ab53c7574ed709bec13b29b5c33,Lamar University,56%,44%,32%,22%,16%,4%,26%,6%,13%,26%,8%,5%,1%,42%,544,B,n/a,n/a,Texas,163.0,8623,Primarily in person,True,
+7e53226a35a86ff6893e66601acb350f9879ffec,Oglethorpe University,58%,42%,16%,37%,26%,nan,21%,9%,44%,21%,3%,nan,nan,24%,545,B,n/a,n/a,Georgia,3.0,1241,n/a,False,
+e1de162dcd54cb7544813c4444fdc8df32f1c33f,Henderson State University,56%,44%,23%,18%,36%,nan,23%,nan,27%,24%,7%,2%,nan,39%,546,B,n/a,n/a,Arkansas,88.0,2996,Primarily online,True,
+ba12f478525f0959a9241cb1b1eed5e633151715,Stetson University,56%,44%,20%,40%,22%,2%,16%,6%,24%,31%,11%,nan,nan,27%,547,B,n/a,n/a,Florida,98.0,3124,Hybrid,True,
+aa1904ad29a6c47dc6d8d05afac69c02ecfed038,Scripps College,100%,0%,nan,63%,13%,13%,13%,42%,42%,13%,nan,nan,4%,nan,548,B,n/a,n/a,California,4.0,1048,n/a,False,
+376df3b7ebc481c5d6b3ca7a90d5eaf38b4f21d9,Southern Illinois University Edwardsville,52%,48%,22%,27%,9%,4%,38%,5%,17%,27%,3%,nan,1%,47%,549,B,n/a,n/a,Illinois,120.0,n/a,n/a,False,
+945335c4e27d984584c21302e7362cde97376d5c,University of Texas - Health Science Center at San Antonio,70%,30%,25%,nan,25%,nan,50%,nan,nan,33%,11%,nan,nan,56%,550,B,n/a,n/a,n/a,n/a,n/a,n/a,False,
+afbecab9d1c38469c97908d5cdb6b05f2b3a7ad4,Spalding University,69%,31%,17%,25%,25%,nan,33%,11%,7%,26%,nan,nan,nan,56%,551,B,n/a,n/a,Kentucky,6.0,955,Hybrid,True,
+e85fea1719ac44caef7a15e513751630357dbc92,Culver-Stockton College,48%,52%,9%,27%,18%,nan,45%,nan,6%,6%,13%,6%,6%,63%,552,B,n/a,n/a,n/a,n/a,975,n/a,False,
+3f7df02577c5e640c1b860c8e4264a5703a799e6,Pennsylvania College of Technology,32%,68%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,553,B,n/a,n/a,Pennsylvania,58.0,5289,Primarily in person,True,
+310fc322671655c703ca87dba676ee5931a80fe7,Seattle University,61%,39%,4%,54%,27%,nan,15%,34%,42%,12%,4%,nan,nan,8%,554,B,n/a,n/a,Washington,6.0,4674,Primarily online,True,
+189bbe4181fa89049e832c60e19811b5f60db1a4,Metropolitan State University of Denver,53%,47%,19%,31%,26%,3%,21%,8%,33%,25%,1%,nan,2%,30%,555,B,n/a,n/a,Colorado,27.0,18809,Hybrid,True,
+92809b7035cdaeadafeb324e0adbbb5b474ba5c4,Morehead State University,60%,40%,19%,47%,13%,3%,19%,2%,21%,38%,9%,nan,nan,31%,556,B,n/a,n/a,Kentucky,78.0,6253,Hybrid,True,
+64b464cfc93ff71e5264f6360368987425860490,Middlebury College,53%,47%,8%,54%,31%,8%,nan,16%,76%,5%,nan,nan,nan,3%,557,B,n/a,n/a,Vermont,4.0,2550,Hybrid,True,
+5b0167ace17746975fc2b40ecd1866ff50d80a29,Grinnell College,55%,45%,nan,64%,18%,nan,18%,76%,21%,nan,nan,nan,nan,3%,558,B,n/a,n/a,Iowa,4.0,1683,Fully online,True,
+7ddd8308a81b0b2609f2378fd16295b1716c9692,Columbus State University,60%,40%,36%,25%,8%,3%,28%,4%,13%,30%,4%,1%,nan,46%,559,B,n/a,n/a,Georgia,62.0,6266,Primarily in person,True,
+2ceaa2cdba68f564d8eb959892a26eb1f3c43782,Dixie State University,57%,43%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,560,B,n/a,n/a,Utah,110.0,7627,Primarily in person,True,
+1da1e5c453e243899542523972d7e048dbf73ae1,University of Wisconsin - River Falls,63%,37%,24%,29%,12%,6%,29%,3%,14%,28%,17%,nan,nan,39%,561,B,n/a,n/a,Wisconsin,184.0,5570,n/a,False,
+36b9c8133420b67b1da91e015e4abe3929ca33e6,Tougaloo College,68%,32%,nan,56%,11%,nan,33%,18%,24%,nan,6%,6%,nan,47%,562,B,n/a,n/a,n/a,n/a,719,n/a,False,
+704a12982188971410c7c158d1492e2b5f5368ba,Lawrence University,54%,46%,14%,29%,33%,nan,24%,29%,60%,2%,nan,nan,nan,10%,563,B,n/a,n/a,Wisconsin,13.0,1431,Hybrid,True,
+da76d9dc236f8078b8f3b9d737c5428eaa0336ac,Trinity University - Texas,53%,47%,19%,29%,48%,nan,5%,14%,44%,28%,2%,5%,nan,7%,564,B,n/a,n/a,n/a,n/a,n/a,n/a,False,
+41afc6a47dfb925c1b2cb9f90d19a5947642ef42,Albion College,54%,46%,26%,30%,4%,nan,39%,11%,32%,11%,14%,4%,nan,29%,565,B,n/a,n/a,Michigan,14.0,1512,Fully in person,True,
+15e91475a5f80e9607bc3f3028211a0f32e1f70e,Adrian College,47%,53%,24%,29%,nan,nan,48%,6%,8%,22%,6%,nan,nan,58%,566,B,n/a,n/a,Michigan,253.0,1781,Primarily in person,True,
+ceb20cd908d1c10c68380c10f7b1a113e497f3fb,Reed College,54%,46%,nan,38%,25%,25%,13%,78%,11%,nan,nan,nan,nan,11%,567,B,n/a,n/a,Oregon,12.0,1456,Hybrid,True,
+da48d4039bacb98b59707edbcff90e78b38c707a,Lock Haven University,56%,44%,34%,28%,22%,nan,16%,2%,20%,27%,4%,2%,nan,45%,568,B,n/a,n/a,Pennsylvania,61.0,3020,Primarily online,True,
+d7506a2ba878c49c431b39d3df9e8419c741301b,New College of Florida,62%,38%,nan,54%,31%,15%,nan,73%,18%,3%,nan,3%,3%,nan,569,B,n/a,n/a,Florida,2.0,808,n/a,False,
+de77575969c87a5ae417be10cdaeed125954950f,George Mason University,50%,50%,10%,36%,29%,4%,22%,10%,35%,23%,1%,0%,1%,29%,570,B,n/a,n/a,Virginia,72.0,25508,Hybrid,True,
+0b648404082b4c8e31f5341dadf6d9d4b553f79f,Angelo State University,56%,44%,30%,14%,8%,nan,48%,1%,8%,23%,27%,3%,1%,36%,571,B,n/a,n/a,Texas,127.0,5892,Hybrid,True,
+0c213bf60a9e5c386ddd5a4665d957e1b9114485,Truman State University,59%,41%,11%,32%,29%,nan,29%,13%,41%,18%,5%,nan,nan,23%,572,B,n/a,n/a,Missouri,96.0,4906,Hybrid,True,
+27e037c2e8afca26e3f4b41b8c9ee8b811fd2490,Muskingum University,52%,48%,17%,nan,33%,nan,50%,nan,nan,33%,33%,nan,nan,33%,573,B,n/a,n/a,Ohio,0.0,1544,Fully in person,True,
+a664a124173130ce012ca7d8bb4a1c36b59098cd,Bemidji State University,53%,47%,13%,25%,6%,13%,44%,nan,13%,19%,9%,nan,nan,59%,574,B,n/a,n/a,Minnesota,82.0,4308,Primarily online,True,
+e02279ca5d574f612819d4919993efe06676dccf,Elizabeth City State University,56%,44%,8%,31%,31%,8%,23%,6%,20%,20%,14%,nan,nan,40%,575,B,n/a,n/a,North Carolina,27.0,1553,Hybrid,True,
+9b93ac38f534fe8ec904507a12c5192582557ef2,The Los Angeles Film School,27%,73%,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,157,A,n/a,n/a,n/a,n/a,n/a,n/a,False,

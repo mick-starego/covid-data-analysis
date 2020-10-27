@@ -80,7 +80,7 @@ def main():
         complete = is_complete(val, covid_cases_index, ugrad_pop_index, reopening_model_index)
         if complete:
             num_complete += 1
-        val.append(str(complete))
+        val.append(str(complete) + ",")
         CSV += str(key) + ","
         CSV += ",".join(val) + "\n"
 
