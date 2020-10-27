@@ -1,4 +1,4 @@
-date,state,county,city,ipeds_id,college,cases,notes
+date,state,county,city,ipeds_id,college,covid_cases,notes
 2020-10-08,Alabama,Madison,Huntsville,100654,Alabama A&M University,41,
 2020-10-08,Alabama,Montgomery,Montgomery,100724,Alabama State University,,
 2020-10-08,Alabama,Limestone,Athens,100812,Athens State University,2,

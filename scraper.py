@@ -75,6 +75,107 @@ def bestcolleges_party_schools(driver):
 def clean_name(name):
     return name.replace(",", "")
 
+def translate_name_to_search_name(name):
+    name = name.replace("&", "-and-")
+    name = name.replace(',', '')
+    name = name.replace('.', '')
+    name = name.replace('(', '')
+    name = name.replace(')', '')
+    name = name.replace('\'', '')
+    return name.replace(' ', '-').strip().lower()
+
+def niche_details_data(driver, name):
+    percent_female = "n/a"
+    percent_male = "n/a"
+    self_republican = "n/a"
+    self_democratic = "n/a"
+    self_indep = "n/a"
+    self_other = "n/a"
+    self_dont_care = "n/a"
+    school_very_liberal = "n/a"
+    school_liberal = "n/a"
+    school_moderate = "n/a"
+    school_conservative = "n/a"
+    school_very_conservative = "n/a"
+    school_libertarian = "n/a"
+    school_not_sure = "n/a"
+
+    search_name = translate_name_to_search_name(name)
+    driver.get("https://www.niche.com/colleges/" + search_name + "/students/")
+    content = driver.page_source
+    soup = BeautifulSoup(content)
+
+    # Percent male and female
+    for div in soup.findAll('div', attrs={'class', 'scalar--three'}):
+        label = div.find('div', attrs={'class', 'scalar__label'}).text
+        if label == "Female Undergrads":
+            div2 = div.find('div', attrs={'class', 'scalar__value'})
+            if div2 != None:
+                percent_female = div2.text
+        elif label == "Male Undergrads":
+            div2 = div.find('div', attrs={'class', 'scalar__value'})
+            if div2 != None:
+                percent_male = div2.text
+
+    # Political affiliation
+    for div in soup.findAll('div', attrs={'class', 'poll__table--bar_chart_color'}):
+        label = div.find('div', attrs={'class', 'poll__table__body'}).text
+        if label == "What political party do you associate yourself with?":
+            for li in div.findAll('li', attrs={'class', 'poll__table__result__item'}):
+                inner_label = li.find('div', attrs={'class', 'poll__table__result__label'})
+                if inner_label == None:
+                    continue
+                inner_label = inner_label.text
+                value = li.find('div', attrs={'class', 'poll__table__result__percent'}).text
+                if inner_label == "Republican":
+                    self_republican = value
+                elif inner_label == "Democratic":
+                    self_democratic = value
+                elif inner_label == "Independent":
+                    self_indep = value
+                elif inner_label == "Other party not mentioned":
+                    self_other = value
+                elif inner_label == "I don\'t care about politics":
+                    self_dont_care = value
+        elif label == "How would you best describe the political beliefs of campus as a whole? ":
+            for li in div.findAll('li', attrs={'class', 'poll__table__result__item'}):
+                inner_label = li.find('div', attrs={'class', 'poll__table__result__label'})
+                if inner_label == None:
+                    continue
+                inner_label = inner_label.text
+                value = li.find('div', attrs={'class', 'poll__table__result__percent'}).text
+                if inner_label == "Progressive/very liberal":
+                    school_very_liberal = value
+                elif inner_label == "Liberal":
+                    school_liberal = value
+                elif inner_label == "Moderate":
+                    school_moderate = value
+                elif inner_label == "Conservative":
+                    school_conservative = value
+                elif inner_label == "Very conservative":
+                    school_very_conservative = value
+                elif inner_label == "Libertarian":
+                    school_libertarian = value
+                elif inner_label == "Not sure":
+                    school_not_sure = value
+    return ",".join([name, percent_female, percent_male, self_republican, self_democratic, self_indep, self_other, self_dont_care, school_very_liberal, school_liberal, school_moderate, school_conservative, school_very_conservative, school_libertarian, school_not_sure])
+
+def get_all_niche_details_data():
+    df = pd.read_csv("./data/party-schools-niche.csv")
+
+    CSV_header = "Name, percent_female, percent_male, self_republican, self_democratic, self_indep, self_other, self_dont_care, school_very_liberal, school_liberal, school_moderate, school_conservative, school_very_conservative, school_libertarian, school_not_sure\n"
+    with open("./data/details-data-niche.csv", "a") as file:
+        file.write(CSV_header)
+
+    for index, row in df.iterrows():
+        print(index)
+        name = row['Name']
+        driver = get_driver()
+        data = niche_details_data(driver, "The Los Angeles Film School")
+        driver.quit()
+        with open("./data/details-data-niche.csv", "a") as file:
+            file.write(data + "\n")
+
 def get_driver():
     opts = Options()
     opts.add_argument("user-agent=AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36")
@@ -93,7 +194,7 @@ def get_driver():
     return webdriver.Chrome("./chromedriver", chrome_options=opts, desired_capabilities=capabilities)
 
 def main():
-    bestcolleges_party_schools(get_driver())
+    get_all_niche_details_data()
 
 if __name__=="__main__":
     main()
