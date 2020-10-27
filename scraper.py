@@ -3,28 +3,34 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.proxy import Proxy, ProxyType
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
-import pandas as pd 
+import pandas as pd
+import time
 
+def get_all_niche_party_schools():
+    for i in range(1,65):
+        driver = get_driver()
+        niche_party_schools(driver, i)
+        driver.quit()
 
-def niche_party_schools(driver):
+def niche_party_schools(driver, i):
     data = {}
 
-    for i in range(13, 17):
-        driver.get("https://www.niche.com/colleges/search/top-party-schools/?page=" + str(i))
-        content = driver.page_source
-        soup = BeautifulSoup(content)
+    driver.get("https://www.niche.com/colleges/search/top-party-schools/?page=" + str(i))
+    content = driver.page_source
+    soup = BeautifulSoup(content)
 
-        for section in soup.findAll('section', attrs={'class', 'search-result'}):
-            name = section.find('h2',  attrs={'class', 'search-result__title'}).text
-            rank = section.find('div', attrs={'class', 'search-result-badge'}).text.split(' ')[0][1:]
+    for section in soup.findAll('section', attrs={'class', 'search-result'}):
+        name = section.find('h2',  attrs={'class', 'search-result__title'}).text
+        name = clean_name(name)
+        rank = section.find('div', attrs={'class', 'search-result-badge'}).text.split(' ')[0][1:]
 
-            all_grades = section.findAll('figure', attrs={'class', 'search-result-grade'})
-            grade = "n/a"
-            for figure in all_grades:
-                if figure.find('figcaption', attrs={'class', 'search-result-grade__label'}).text == "Party Scene":
-                    grade = figure.find('div', attrs={'class', 'niche__grade'}).text
+        all_grades = section.findAll('figure', attrs={'class', 'search-result-grade'})
+        grade = "n/a"
+        for figure in all_grades:
+            if figure.find('figcaption', attrs={'class', 'search-result-grade__label'}).text == "Party Scene":
+                grade = figure.find('div', attrs={'class', 'niche__grade'}).text
 
-            data[name] = (rank, grade)
+        data[name] = (rank, grade)
 
     CSV ="\n".join([k+','+','.join(v) for k,v in data.items()])
     with open("./data/party-schools-niche.csv", "a") as file:
@@ -43,6 +49,7 @@ def stacker_party_schools(driver):
             if name_and_rank[0] == "#":
                 rank = name_and_rank.split(".")[0][1:]
                 name = name_and_rank.split(".")[1][1:]
+                name = clean_name(name)
                 data[name] = (rank)
 
     CSV ="\n".join([k+','+ v for k,v in data.items()])
@@ -59,20 +66,23 @@ def bestcolleges_party_schools(driver):
     for tr in soup.findAll('tr', attrs={'class', 'js-ranking-row'}):
         rank = tr.find('td', attrs={'class', 'rank'}).text
         name = tr.find('td', attrs={'class', 'school'}).find('h3').text
+        name = clean_name(name)
         data += name + "," + rank.strip() + "\n"
 
     with open("./data/party-schools-bestcolleges.csv", "a") as file:
         file.write(data)
 
+def clean_name(name):
+    return name.replace(",", "")
 
-def main():
+def get_driver():
     opts = Options()
     opts.add_argument("user-agent=AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36")
     # opts.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36")
     opts.add_argument("--incognito")
     capabilities = webdriver.DesiredCapabilities.CHROME
 
-    # PROXY = "51.81.84.238:8080"
+    # PROXY = "189.89.168.132:4145"
     # prox = Proxy()
     # prox.proxy_type = ProxyType.MANUAL
     # prox.autodetect = False
@@ -80,11 +90,10 @@ def main():
     # prox.ssl_proxy = PROXY
     # prox.add_to_capabilities(capabilities)
 
-    driver = webdriver.Chrome("./chromedriver", chrome_options=opts, desired_capabilities=capabilities)
+    return webdriver.Chrome("./chromedriver", chrome_options=opts, desired_capabilities=capabilities)
 
-    niche_party_schools(driver)
-
-    driver.quit()
+def main():
+    bestcolleges_party_schools(get_driver())
 
 if __name__=="__main__":
     main()

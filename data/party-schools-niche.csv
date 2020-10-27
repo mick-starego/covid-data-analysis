@@ -22,8 +22,7 @@ Southern Methodist University,21,A+
 University of Delaware,22,A+
 Vanderbilt University,23,A+
 Clark Atlanta University,24,A+
-University of Miami,25,A+
-The Ohio State University,26,A+
+University of Miami,25,A+The Ohio State University,26,A+
 University of Colorado - Boulder,27,A+
 Rutgers University - New Brunswick,28,A+
 University of Pennsylvania,29,A+
@@ -47,8 +46,7 @@ University at Albany SUNY,46,A+
 Western Michigan University,47,A+
 Morehouse College,48,A+
 University of Arizona,49,A+
-Temple University,50,A+
-Louisiana State University,51,A+
+Temple University,50,A+Louisiana State University,51,A+
 East Carolina University,52,A+
 Arizona State University,53,A+
 Texas Tech University,54,A+
@@ -72,8 +70,7 @@ Yale University,71,A+
 Auburn University,72,A+
 SUNY Oswego,73,A+
 SUNY Oneonta,74,A+
-University of North Carolina at Chapel Hill,75,A+
-SUNY Cortland,76,A+
+University of North Carolina at Chapel Hill,75,A+SUNY Cortland,76,A+
 Alabama State University,77,A+
 University of Wisconsin - Oshkosh,78,A+
 DePauw University,79,A
@@ -97,8 +94,7 @@ Binghamton University SUNY,96,A
 North Carolina Central University,97,A
 Southern Illinois University Carbondale,98,A
 University of Pittsburgh,99,A
-Jackson State University,100,A
-Wake Forest University,101,A
+Jackson State University,100,AWake Forest University,101,A
 Massachusetts Institute of Technology,102,A
 Indiana University of Pennsylvania,103,A
 Pittsburg State University,104,A
@@ -122,8 +118,7 @@ Eckerd College,121,A
 Virginia Commonwealth University,122,A
 Santa Clara University,123,A
 Plymouth State University,124,A
-Western Illinois University,125,A
-University of Washington,126,A
+Western Illinois University,125,AUniversity of Washington,126,A
 South Carolina State University,127,A
 Bloomsburg University of Pennsylvania,128,A
 Kent State University,129,A
@@ -133,7 +128,7 @@ Texas A&M University,132,A
 Missouri State University,133,A
 Salisbury University,134,A
 North Dakota State University,135,A
-Minnesota State University, Mankato,136,A
+Minnesota State University Mankato,136,A
 University of Idaho,137,A
 Oklahoma State University,138,A
 Towson University,139,A
@@ -168,11 +163,10 @@ West Chester University of Pennsylvania,168,A
 DePaul University,169,A
 Keene State College,170,A
 Northwest Missouri State University,171,A
-University of Nevada, Las Vegas,172,A
+University of Nevada Las Vegas,172,A
 Cornell University,173,A
 Washington & Lee University,174,A
-University of Wisconsin - Milwaukee,175,A
-Mississippi State University,176,A
+University of Wisconsin - Milwaukee,175,AMississippi State University,176,A
 Hartwick College,177,A
 Alcorn State University,178,A
 San Jose State University,179,A
@@ -201,7 +195,7 @@ East Stroudsburg University of Pennsylvania,202,A-
 Boston College,203,A-
 North Carolina State University,204,A-
 Marquette University,205,A-
-University at Buffalo, SUNY,206,A-
+University at Buffalo SUNY,206,A-
 University of Nebraska at Kearney,207,A-
 University of Connecticut,208,A-
 Rutgers University - Newark,209,A-
@@ -220,8 +214,7 @@ California State University - Long Beach,221,A-
 Ferris State University,222,A-
 Virginia State University,223,A-
 University of Wisconsin - Stout,224,A-
-SUNY New Paltz,225,A-
-Bradley University,226,A-
+SUNY New Paltz,225,A-Bradley University,226,A-
 South Dakota State University,227,A-
 University of the Arts,228,A-
 Bowie State University,229,A-
@@ -269,8 +262,7 @@ Northwestern University,271,A-
 Texas A&M University - Commerce,272,A-
 Community College of Denver,273,A-
 St. Lawrence University,274,A-
-Xavier University of Louisiana,275,A-
-University of North Carolina at Charlotte,276,A-
+Xavier University of Louisiana,275,A-University of North Carolina at Charlotte,276,A-
 Northern Arizona University,277,A-
 Marshall University,278,A-
 Wartburg College,279,A-
@@ -318,4 +310,244 @@ University of Northern Iowa,321,B+
 Middle Tennessee State University,322,B+
 Fairfield University,323,B+
 University of San Diego,324,B+
-Skidmore College,325,B+
+Skidmore College,325,B+Southeastern Louisiana University,326,B+
+Edward Waters College,327,B+
+University of Minnesota Duluth,328,B+
+Grand Valley State University,329,B+
+Drake University,330,B+
+Shippensburg University of Pennsylvania,331,B+
+California State University - Fresno,332,B+
+Delaware State University,333,B+
+Milwaukee School of Engineering,334,B+
+University of Wisconsin - Platteville,335,B+
+Claflin University,336,B+
+University of the District of Columbia,337,B+
+Hampton University,338,B+
+Franklin Pierce University,339,B+
+University of Wisconsin - Stevens Point,340,B+
+Merrimack College,341,B+
+Butler University,342,B+
+East Tennessee State University,343,B+
+Aquinas College - Michigan,344,B+
+University of Massachusetts - Lowell,345,B+
+Florida Atlantic University,346,B+
+University of South Alabama,347,B+
+Chadron State College,348,B+
+The Catholic University of America,349,B+
+Viterbo University,350,B+St. Francis College,351,B+
+University of Montana,352,B+
+Saginaw Valley State University,353,B+
+Arkansas State University,354,B+
+Southern New Hampshire University,355,B+
+SUNY Geneseo,356,B+
+Haverford College,357,B+
+Chapman University,358,B+
+Benedict College,359,B+
+California State University - Northridge,360,B+
+Gonzaga University,361,B+
+Kennesaw State University,362,B+
+Wayne State University,363,B+
+High Point University,364,B+
+Hofstra University,365,B+
+Worcester Polytechnic Institute,366,B+
+Doane University,367,B+
+Loyola University Maryland,368,B+
+Gannon University,369,B+
+University of Missouri - Kansas City,370,B+
+New Mexico State University,371,B+
+Lincoln University - Missouri,372,B+
+Drexel University,373,B+
+Full Sail University,374,B+
+Kansas Wesleyan University,375,B+Colorado College,376,B+
+Montana Technological University,377,B+
+Saint Augustine's University,378,B+
+Eastern Washington University,379,B+
+Edgewood College,380,B+
+Wilberforce University,381,B+
+Longwood University,382,B+
+Augsburg University,383,B+
+Birmingham-Southern College,384,B+
+Missouri University of Science & Technology,385,B+
+Villanova University,386,B+
+John Carroll University,387,B+
+Berkeley College - New York,388,B+
+Colorado Mesa University,389,B+
+University of Colorado Denver,390,B+
+The College of Idaho,391,B+
+Youngstown State University,392,B+
+University of Louisiana - Monroe,393,B+
+West Liberty University,394,B+
+Fayetteville State University,395,B+
+Millsaps College,396,B+
+University of California - Davis,397,B+
+West Virginia Wesleyan College,398,B+
+Kentucky State University,399,B+
+Pace University,400,B+Ripon College,401,B+
+St. John's University - New York,402,B+
+Eastern Kentucky University,403,B+
+University of St. Thomas - Minnesota,404,B+
+Tufts University,405,B+
+St. Ambrose University,406,B+
+Colby College,407,B+
+Ursinus College,408,B+
+University of Evansville,409,B+
+Marist College,410,B+
+Johnson & Wales University - Charlotte,411,B+
+Texas Tech University Health Sciences Center,412,B+
+Duquesne University,413,B+
+Quincy University,414,B+
+Harvey Mudd College,415,B+
+Westminster College - Utah,416,B+
+Rose-Hulman Institute of Technology,417,B+
+Transylvania University,418,B+
+University of Montana - Western,419,B+
+Illinois Wesleyan University,420,B+
+Tarleton State University,421,B+
+Western Washington University,422,B+
+North Seattle College,423,B+
+Fordham University,424,B+
+St. Joseph's College - New York,425,B+Hanover College,426,B+
+Otterbein University,427,B+
+Clarkson University,428,B+
+University of Baltimore,429,B+
+Carthage College,430,B+
+William Paterson University of New Jersey,431,B+
+California Institute of Technology,432,B+
+Alfred University,433,B+
+Louisiana Tech University,434,B+
+Wofford College,435,B+
+Peru State College,436,B+
+University of Northern Colorado,437,B+
+University of San Francisco,438,B+
+Trine University,439,B+
+Keiser University - Fort Lauderdale,440,B+
+Knox College,441,B+
+Princeton University,442,B+
+Kansas City Art Institute,443,B+
+Grand View University,444,B+
+Loyola Marymount University,445,B+
+Lafayette College,446,B+
+University of Tennessee - Chattanooga,447,B+
+University of Texas - El Paso,448,B+
+Eastern Michigan University,449,B+
+Austin Peay State University,450,B+CUNY John Jay College of Criminal Justice,451,B+
+Bentley University,452,B+
+Buena Vista University,453,B+
+Roanoke College,454,B+
+King's College - Pennsylvania,455,B+
+Creighton University,456,B+
+Iona College,457,B+
+Miles College,458,B+
+Carleton College,459,B+
+School of the Art Institute of Chicago,460,B+
+Tallahassee Community College,461,B+
+Johns Hopkins University,462,B+
+Vincennes University,463,B
+LeMoyne-Owen College,464,B
+Long Island University - Brooklyn,465,B
+American International College,466,B
+Utica College,467,B
+Emory University,468,B
+University of Mount Union,469,B
+American University,470,B
+Christian Brothers University,471,B
+Kalamazoo College,472,B
+University of Hawaii at Manoa,473,B
+University of West Florida,474,B
+University of New Mexico,475,BDrury University,476,B
+Macalester College,477,B
+Stillman College,478,B
+Saint Michael's College,479,B
+Point Park University,480,B
+Saint Joseph's University,481,B
+University of Redlands,482,B
+Millikin University,483,B
+Nicholls State University,484,B
+Michigan Technological University,485,B
+Salve Regina University,486,B
+New York Film Academy - Los Angeles,487,B
+Le Moyne College,488,B
+Emerson College,489,B
+Texas A&M University - Corpus Christi,490,B
+Franklin College,491,B
+Kenyon College,492,B
+University of Lynchburg,493,B
+Illinois College,494,B
+Rensselaer Polytechnic Institute,495,B
+Bowdoin College,496,B
+Morris College,497,B
+National Louis University,498,B
+Hobart and William Smith Colleges,499,B
+Franklin & Marshall College,500,BJarvis Christian College,501,B
+Colorado Technical University - Colorado Springs,502,B
+Northland College,503,B
+Coppin State University,504,B
+SUNY Delhi,505,B
+Fitchburg State University,506,B
+Shenandoah University,507,B
+Bryant University,508,B
+Seton Hall University,509,B
+Saint Mary's College - Indiana,510,B
+California University of Pennsylvania,511,B
+Hamilton College,512,B
+Metropolitan College of New York,513,B
+Lycoming College,514,B
+The College of St. Scholastica,515,B
+Monmouth College,516,B
+University of Dallas,517,B
+CUNY Medgar Evers College,518,B
+Murray State University,519,B
+Penn State Altoona,520,B
+Nebraska Wesleyan University,521,B
+SUNY Brockport,522,B
+Carnegie Mellon University,523,B
+Suffolk University,524,B
+University of Illinois at Chicago,525,BStrayer University - Virginia,526,B
+Western New England University,527,B
+Saint John's University - Minnesota,528,B
+Rust College,529,B
+Purdue University Global - Davenport Campus,530,B
+College of Saint Benedict,531,B
+Kean University,532,B
+Allegheny College,533,B
+Davidson College,534,B
+University of Massachusetts - Dartmouth,535,B
+New Jersey Institute of Technology,536,B
+Cleveland State University,537,B
+Mercer University,538,B
+Chicago State University,539,B
+Roosevelt University,540,B
+University of New Haven,541,B
+University of Portland,542,B
+Bates College,543,B
+Lamar University,544,B
+Oglethorpe University,545,B
+Henderson State University,546,B
+Stetson University,547,B
+Scripps College,548,B
+Southern Illinois University Edwardsville,549,B
+University of Texas - Health Science Center at San Antonio,550,BSpalding University,551,B
+Culver-Stockton College,552,B
+Pennsylvania College of Technology,553,B
+Seattle University,554,B
+Metropolitan State University of Denver,555,B
+Morehead State University,556,B
+Middlebury College,557,B
+Grinnell College,558,B
+Columbus State University,559,B
+Dixie State University,560,B
+University of Wisconsin - River Falls,561,B
+Tougaloo College,562,B
+Lawrence University,563,B
+Trinity University - Texas,564,B
+Albion College,565,B
+Adrian College,566,B
+Reed College,567,B
+Lock Haven University,568,B
+New College of Florida,569,B
+George Mason University,570,B
+Angelo State University,571,B
+Truman State University,572,B
+Muskingum University,573,B
+Bemidji State University,574,B
+Elizabeth City State University,575,B
