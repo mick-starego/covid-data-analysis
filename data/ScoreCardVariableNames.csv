@@ -1,0 +1,13 @@
+Variable, Description
+UNITID, College Scorecard's unique ID for each school
+INSTNM, Institution name
+UGDS, Enrollment of undergraduate certificate/degree-seeking students
+PCTPELL, Percentage of undergraduates who receive a Pell Grant
+ADM_RATE, Admission Rate
+ACTCMMID, midpoint of ACT scores
+C150_4, completion rate
+MN_EARN_WNE_P8, Mean earnings of students working and not enrolled 8 years after entry
+TUITIONFEE_IN, tuition instate
+TUITIONFEE_OUT, tuition out of state
+LOCALE2, degree of urbanization
+CCUGPROF, Carnegie Classification -- undergraduate profile
