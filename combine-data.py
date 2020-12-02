@@ -43,35 +43,34 @@ def exists(s):
 
 def main():
     covid_cases = pandas.read_csv("./data/colleges_cases.csv")
-    niche_details_data = pandas.read_csv("./data/details-data-niche.csv")
-    party_bestcolleges = pandas.read_csv("./data/party-schools-bestcolleges.csv")
-    party_niche = pandas.read_csv("./data/party-schools-niche.csv")
-    party_stacker = pandas.read_csv("./data/party-schools-stacker.csv")
+    # niche_details_data = pandas.read_csv("./data/details-data-niche.csv")
+    # party_bestcolleges = pandas.read_csv("./data/party-schools-bestcolleges.csv")
+    # party_niche = pandas.read_csv("./data/party-schools-niche.csv")
+    # party_stacker = pandas.read_csv("./data/party-schools-stacker.csv")
     reopening_models = pandas.read_csv("./data/reopening-models-clean.csv")
     reopening_models = reopening_models.loc[:, ~reopening_models.columns.str.contains('^Unnamed')]
-    undergrad_pop = pandas.read_csv("./data/undergrad-population.csv")
+    scorecard_data = pandas.read_csv("./data/scorecard-clean.csv")
 
     header = "key,"
     data = {}
 
-    for col in niche_details_data.columns:
+    for col in scorecard_data.columns:
         header += col + ","
-    for index, row in niche_details_data.iterrows():
-        data[hash_name(row["niche_name"])] = []
-        for col in niche_details_data.columns:
-            data[hash_name(row["niche_name"])].append(str(row[col]))
+    for index, row in scorecard_data.iterrows():
+        data[hash_name(row["INSTNM"])] = []
+        for col in scorecard_data.columns:
+            data[hash_name(row["INSTNM"])].append(str(row[col]))
 
-    header = add_to_data(data, header, party_niche, "name", [])
-    header = add_to_data(data, header, party_bestcolleges, "name", [])
-    header = add_to_data(data, header, party_stacker, "name", [])
+    # header = add_to_data(data, header, party_niche, "name", [])
+    # header = add_to_data(data, header, party_bestcolleges, "name", [])
+    # header = add_to_data(data, header, party_stacker, "name", [])
     header = add_to_data(data, header, covid_cases, "college", ["date", "county", "city", "ipeds_id", "notes"])
-    header = add_to_data(data, header, undergrad_pop, "name", ["UNITID"])
     header = add_to_data(data, header, reopening_models, "name", [])
 
     header += "is_complete,"
     col_names = header.split(",")
     covid_cases_index = col_names.index("covid_cases") - 1
-    ugrad_pop_index = col_names.index("undergrad_pop") - 1
+    ugrad_pop_index = col_names.index("UGDS") - 1
     reopening_model_index = col_names.index("reopening_plan") - 1
 
     CSV = header + "\n"
